@@ -1,0 +1,24 @@
+Metadata-Version: 2.0
+Name: naya
+Version: 1.0.0
+Summary: A fast streaming JSON parser written in pure python
+Home-page: https://github.com/danielyule/naya
+Author: Daniel Yule
+Author-email: daniel.yule@gmail.com
+License: MIT
+Keywords: json streaming python
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Text Processing :: Markup
+
+UNKNOWN
+
+

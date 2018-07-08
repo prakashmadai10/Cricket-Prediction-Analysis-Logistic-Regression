@@ -1,0 +1,33 @@
+Readme:
+
+1. The dataset contains all the ODI matches played in years 2010-2014.
+2. All the matches that ended up with a Tie or were interrupted by rain have been excluded from the dataset.
+3. Every match has a unique Match ID.
+4. The file "CompleteMatchDetails.csv" contains the detailed information about all the matches. Schema is self explanatory.
+
+5. Folder "PlayerInfo" contains one file for every match denoted by MatchID.csv. These files contain career statistics of  all the 22 players involved in that match. 
+Schema of a file is as follows:
+   Bat_Inngs: #Innings in which he has batted
+   Overs_Bowled: #Overs he has bowled
+   Name: Name of the player
+   Wkts_Taken: #Wickets he has taken
+   Bowl_Inngs: #Innings in which he has bowled
+   Runs_Conceded: #Runs he has conceded
+   Bat_Strike_Rate: His batting strike rate
+   Highest_Score: His highest batting score
+   Five_Wkts_Hawl: #Times he has taken 5 wickets in a match
+   Bowl_Avg: His bowling average
+   Runs_Scored: Total number of runs scored by him
+   Country: Country he plays for
+   Bat_Avg: His batting average
+   Matches_Played: #Matches he has played.
+   Bowl_Eco: His bowling economy
+
+   '-' represents that the corresponding column doesn't apply for this player.
+
+6. Folder "Scorecard" contains one file for every match denoted by MatchID.csv. These files contain the score of both the teams at the end of each over.
+Schema of a file is as follows:
+	Over: Over number
+	TeamA: Score of team A at the end of the corresponding over (Runs/Wickets)
+	TeamB: Score of team B at the end of the corresponding over (Runs/Wickets)
+
