@@ -115,9 +115,9 @@ def Classfier(df1):
         with open('my_dumped_classifier.pkl', 'wb') as fid:
             pk.dump(alg, fid)
 
-            # load it again
-        with open('my_dumped_classifier.pkl', 'rb') as fid:
-            gnb_loaded = pk.load(fid)
+        #     # load it again
+        # with open('my_dumped_classifier.pkl', 'rb') as fid:
+        #     gnb_loaded = pk.load(fid)
         test_predictions = alg.predict(df[predictors].iloc[test, :])
         predictions.append(test_predictions)
 
