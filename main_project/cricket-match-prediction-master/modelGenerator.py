@@ -146,7 +146,7 @@ def pastPerformance(df1, teamA, teamB, bat_avg):
     return form_A / cntA - form_B / cntB
 
 
-def testPredicit(df1, testData, TeamA, TeamB):
+def testPredict(df1, testData, TeamA, TeamB):
     df1 = df1[((df1['TeamA']==TeamA)&(df1['TeamB']==TeamB) | (df1['TeamA']==TeamB)&(df1['TeamB']==TeamA))]
     predictors = ['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form']
     alg = LogisticRegression(lr=0.1, num_iter=3000)
@@ -221,7 +221,7 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
         testData = pd.DataFrame(dict, index=["result"])
     # print(testData)
 
-        if testPredicit(df, testData, TeamA, TeamB) == 1:
+        if testPredict(df, testData, TeamA, TeamB) == 1:
          return teamA_input
         return teamB_input
     return 'Please enter valid city!!!!'
