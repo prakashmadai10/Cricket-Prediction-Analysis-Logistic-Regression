@@ -133,7 +133,7 @@ def Classfier(df1):
     print(accuracy)
 
 def bat_debut():
-    path = "C:/Users/cityzen10/Downloads/CricketPrediction/main_project/cricket-match-prediction-master/Dataset/PlayerInfo"  # use your path
+    path = "C:/Users/cityzen10/Downloads/Compressed/MajorProject-prakash/main_project/cricket-match-prediction-master/Dataset/PlayerInfo"  # use your path
     allFiles = glob.glob(path + "/*.csv")
     frame = pd.DataFrame()
     list_ = []
@@ -318,4 +318,3 @@ print(bowl_avg)
 Scoringfn(df1, bat_avg, bowl_avg)
 latest_form(df1, bat_avg)
 df1.to_csv("OutputOfAllModified.csv")
-print("hello world")
