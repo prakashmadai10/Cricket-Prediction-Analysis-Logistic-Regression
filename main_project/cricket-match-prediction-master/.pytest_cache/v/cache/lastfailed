@@ -1,3 +1,4 @@
 {
-  "modelGenerator.py::testPredicit": true
+  "modelGenerator.py::testPredicit": true,
+  "modelGenerator.py::testPredict": true
 }

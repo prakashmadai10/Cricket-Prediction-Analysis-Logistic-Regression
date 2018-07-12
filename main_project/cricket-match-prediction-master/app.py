@@ -5,7 +5,7 @@ from collections import defaultdict
 import  _pickle as pk
 import numpy as np
 import pandas as pd
-from sklearn.linear_model import LogisticRegression
+from Logistic import  LogisticRegressionDemo
 from sklearn.model_selection import KFold
 
 
@@ -104,7 +104,7 @@ def Toss(df1):
 def Classfier(df1):
     predictors = ['Toss', 'Toss_Decision', 'HTH', 'Venue', 'WinningPerDes', 'Strength',
                   'latest_form']
-    alg = LogisticRegression(lr=0.1, num_iter=3000)
+    alg = LogisticRegressionDemo(lr=0.1, num_iter=3000)
     df = df1[['Toss', 'Toss_Decision', 'HTH', 'Venue', 'WinningPerDes', 'Strength', 'latest_form', 'Winner']]
     kf = KFold(df1.shape[0], random_state=1)
     predictions = []
@@ -115,6 +115,9 @@ def Classfier(df1):
         with open('my_dumped_classifier.pkl', 'wb') as fid:
             pk.dump(alg, fid)
 
+        # load it again
+        with open('my_dumped_classifier.pkl', 'rb') as fid:
+            alg = pk.load(fid)
 
         test_predictions = alg.predict(df[predictors].iloc[test, :])
         predictions.append(test_predictions)
