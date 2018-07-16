@@ -1,6 +1,7 @@
 from __future__ import division
 
 import glob
+import time
 from collections import defaultdict
 import  _pickle as pk
 import numpy as np
@@ -119,8 +120,8 @@ def Classfier(df1):
         with open('my_dumped_classifier.pkl', 'rb') as fid:
             alg = pk.load(fid)
 
-        test_predictions = alg.predict(df[predictors].iloc[test, :])
-        predictions.append(test_predictions)
+    test_predictions = alg.predict(df[predictors].iloc[test, :])
+    predictions.append(test_predictions)
 
     predictions = np.concatenate(predictions, axis=0)
     predictions = predictions.astype(int)
@@ -317,4 +318,5 @@ print(bowl_avg)
 
 Scoringfn(df1, bat_avg, bowl_avg)
 latest_form(df1, bat_avg)
+Classfier(df1)
 df1.to_csv("OutputOfAllModified.csv")
