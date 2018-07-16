@@ -134,7 +134,7 @@ def Classfier(df1):
     print(accuracy)
 
 def bat_debut():
-    path = "C:/Users/cityzen10/Downloads/Compressed/MajorProject-prakash/main_project/cricket-match-prediction-master/Dataset/PlayerInfo"  # use your path
+    path = "C:/Users/cityzen10/Downloads/Compressed/MajorProject-prakash/main_project/ODI-Cricket-Prediction/Dataset/PlayerInfo"  # use your path
     allFiles = glob.glob(path + "/*.csv")
     frame = pd.DataFrame()
     list_ = []
