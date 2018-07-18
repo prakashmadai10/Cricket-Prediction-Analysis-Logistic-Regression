@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Player Info</title>
+<style>
+        table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<img src="{{url_for('static',filename=naam + '.png')}}" width="460" height="345">
+
+<table style="width:100%" >
+  <tr>
+    <th>Name</th>
+    <th>Matches</th>
+    <th>Innings</th>
+      <th>Runs</th>
+    <th>High Score</th>
+    <th>Average</th>
+      <th>Strike rate</th>
+  </tr>
+  <tr>
+    <td>{{ naam }}</td>
+     <td>{{ m }}</td>
+     <td>{{ i }}</td>
+     <td>{{ r }}</td>
+     <td>{{ h }}</td>
+     <td>{{ avg }}</td>
+     <td>{{ sr  }}</td>
+
+  </tr>
+
+</table>
+<a href="/my-link/">Click For graph</a>
+<img src="{{url_for('static',filename=naam + '1.png')}}" width="600" height="500">
+
+</body>
+</html>

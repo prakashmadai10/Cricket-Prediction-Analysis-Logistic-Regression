@@ -1,0 +1,27 @@
+body {
+
+    background-image: url("secondpage.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px 900px;
+    text-align: center;
+}
+form {
+    border: 5px solid black;
+    padding: 0px;
+    background-color: black;
+    text-align: center;
+    margin: 0px 1100px 20px 20px;
+    color: white;
+    background-color: green;
+    border: black;
+}
+
+select{
+    margin: 37px 20px 33px 0px;
+    color: white;
+    background-color: green;
+    border: green;
+    padding: 0px;
+
+}
+

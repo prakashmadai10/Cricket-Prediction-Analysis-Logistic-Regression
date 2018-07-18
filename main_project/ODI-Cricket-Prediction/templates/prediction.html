@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Criciet analysis and prediction</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="{{ url_for('static', filename='images/icons/favicon.ico') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='fonts/font-awesome-4.7.0/css/font-awesome.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='fonts/iconic/css/material-design-iconic-font.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/animate/animate.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/css-hamburgers/hamburgers.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/animsition/css/animsition.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/select2/select2.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/daterangepicker/daterangepicker.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/util.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css')}}">
+<!--===============================================================================================-->
+</head>
+<body>
+	<div class="background-wrap">
+		<video preload="auto" autoplay="true" loop="loop" muted="muted" class="video">
+			<source src="{{url_for('static',filename='video/stump.mp4')}}" type="video/mp4">
+				not supported
+		</video>	
+		</div>
+	
+
+
+	<div class="container-contact100">
+		<div class="wrap-contact100">
+			<form class="contact100-form validate-form" method="post" action="prediction">
+				<span class="contact100-form-title">
+					CRICKET PREDICTION
+				</span>
+
+				<label class="label-input100">First Team *</label>
+				<div class="wrap-input100 rs1 validate-input">
+					<!-- <input id="first-name" class="input100" type="text" name="first-name" placeholder="First Team"> -->
+					<select class="input100" id="fist team" name="team1">
+						<option>AUSTRALIA</option>
+						<option>BANGLADESH</option>
+						<option>ENGLAND</option>
+						<option>INDIA</option>
+						<option>NEWZEALAND</option>
+						<option>PAKISTAN</option>
+						<option>SOUTH AFRICA</option>
+						<option>WEST INDIES</option>
+						<option>AUSTRALIA</option>
+						<option>AUSTRALIA</option>
+
+					</select>
+
+					<span class="focus-input100"></span>
+				</div>
+
+				<label class="label-input100">Second team *</label>
+				<div class="wrap-input100 rs1 validate-input">
+					<!-- <input class="input100" type="text" name="second team" placeholder="second team"> -->
+					<select class="input100" id="second team" name="team2">
+						<option>AUSTRALIA</option>
+						<option>BANGLADESH</option>
+						<option>ENGLAND</option>
+						<option>INDIA</option>
+						<option>NEWZEALAND</option>
+						<option>PAKISTAN</option>
+						<option>SOUTH AFRICA</option>
+						<option>WEST INDIES</option>
+						<option>AUSTRALIA</option>
+						<option>AUSTRALIA</option>
+
+					</select>
+					<span class="focus-input100"></span>
+				</div>
+
+
+
+
+				<label class="label-input100">Toss *</label>
+				<div class="wrap-input100 rs1 validate-input">
+					<select class="input100" id="Toss" name="tosswin">
+						<option>AUSTRALIA</option>
+						<option>BANGLADESH</option>
+						<option>ENGLAND</option>
+						<option>INDIA</option>
+						<option>NEWZEALAND</option>
+						<option>PAKISTAN</option>
+						<option>SOUTH AFRICA</option>
+						<option>WEST INDIES</option>
+						<option>AUSTRALIA</option>
+						<option>AUSTRALIA</option>
+
+					</select>
+					<span class="focus-input100"></span>
+				</div>
+
+				<label class="label-input100">VENUE</label>
+				<input type="text" name="venue" class="wrap-input100 rs1 validate-input">
+
+				<label class="label-input100">Toss Decision *</label>
+				<div class="wrap-input100 rs1 validate-input">
+					<select class="input100" id="Toss Decision" name="tossdis">
+						<option>bat</option>
+						<option>field</option>
+
+					</select>
+					<span class="focus-input100"></span>
+				</div>
+
+				<div class="container-contact100-form-btn">
+					<button class="contact100-form-btn" type="submit">
+						<span>
+							<a href="{{ url_for('prediction') }}">
+							Submit
+							<i class="zmdi zmdi-arrow-right m-l-8"></i>
+								</a>
+						</span>
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+
+
+
+<!--===============================================================================================-->
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/daterangepicker/moment.min.js"></script>
+	<script src="vendor/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+
+</body>
+</html>

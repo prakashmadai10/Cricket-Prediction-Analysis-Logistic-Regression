@@ -1,0 +1,24 @@
+body {
+
+    background-image: url("firstpage.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px 700px;
+    text-align: center;
+}
+form {
+    border: 5px solid black;
+    margin: 100px 10px 100px 0px;
+    padding: 20px;
+    background-color: black;
+text-align: center;
+
+    color: white;
+    background-color: black;
+    border: black;
+}
+input{
+    margin: 30px;
+}
+h1{
+    color: red;
+}
