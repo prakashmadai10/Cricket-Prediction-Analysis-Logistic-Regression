@@ -72,8 +72,8 @@ class match:
         self.tossWinnerEntry.grid(row=5, column=2, columnspan=2, padx=18, pady=18)
 
         self.tossDecisionEntry = ttk.Combobox()
-        self.tossDecisionEntry["values"] = ("bat","field")
-        self.tossDecisionEntry.set("bat")
+        self.tossDecisionEntry["values"] = ("Bat","Ball")
+        self.tossDecisionEntry.set("Bat")
         self.tossDecisionLabel.grid(row=6, columnspan=2, sticky=E, padx=18, pady=18)
         self.tossDecisionEntry.grid(row=6, column=2, columnspan=2, padx=18, pady=18)
 
@@ -81,21 +81,14 @@ class match:
 
 
     def doPredicit(self):
-        if len(self.team1Entry.get()) == 0 or len(self.team2Entry.get()) == 0 or len(self.cityEntry.get()) == 0 or len(
-                self.tossWinnerEntry.get()) == 0 or len(self.tossDecisionEntry.get()) == 0:
+        if len(self.team1Entry.get()) == 0 | len(self.team2Entry.get()) == 0 | len(self.cityEntry.get()) == 0 | len(
+                self.tossWinnerEntry.get()) == 0 | len(self.tossDecisionEntry.get()) == 0:
             print("please fill all entries")
         else:
             if self.tossDecisionEntry.get() != "bat" and self.tossDecisionEntry.get() != "field":
                 print("please enter either bat or field in toss Decision Entry")
-            if self.team1Entry.get()==self.team2Entry.get():
-                print("please enter two different country")
-                self.matchWinnerLabel = Label(self.master, text="Please enter valid team ", fg='red', bg='black')
-                self.matchWinnerLabel.grid(row=9, columnspan=4, padx=18, pady=18)
-                self.winnerFont = ('times', 25, 'bold')
-                self.matchWinnerLabel.config(font=self.winnerFont)
             else:
-
-                self.result = startPrediction(self.team1Entry.get().title(), self.team2Entry.get().title(),
+                self.result = startPrediction(self.team1Entry.get().capitalize(), self.team2Entry.get().capitalize(),
                                               self.cityEntry.get().capitalize(),
                                               self.tossWinnerEntry.get().capitalize(), self.tossDecisionEntry.get())
                 print("Result : " + self.result)

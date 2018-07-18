@@ -7,8 +7,6 @@ from sklearn.linear_model import LogisticRegression
 # from distributed import joblib
 
 from Logistic import LogisticRegressionDemo
-
-
 def Venue_Changes(teamA, teamB, venue):  # venue is changed to 1 for teamA, -1 for teamB and 0 for no team.
     d = defaultdict(list)  # creates empty list,if list doesnot exists
     country = ''
@@ -172,7 +170,7 @@ def testPredict(df1, testData, TeamA, TeamB):
 # main Function
 
 def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecision_input):
-    df = pd.read_csv('OutputOfAll.csv')
+    df = pd.read_csv('OutputOfAllModified.csv')
 
     if teamB_input < teamA_input:
         teamB_input, teamA_input = teamA_input, teamB_input
@@ -184,8 +182,14 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
     Venue = venue_input
 
     Venue = Venue_Changes(TeamA, TeamB, Venue)
+    mad=''
+    HTH=''
+    WinningPerDes=''
+    latest_form=''
+    str12='a'
 
     if (Venue != 2):
+        str12='b'
         Toss = Toss_Changes(TeamA, TeamB, Toss)#if team ais a toss winner then it will return 1
         Toss_Decision = Toss_Decision_Changes(Toss, Toss_Decision)#if team1 is toss winner and choose bat returns 1
 
@@ -223,6 +227,10 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
     # print(testData)
 
         if testPredict(df, testData, TeamA, TeamB) == 1:
-         return teamA_input
-        return teamB_input
-    return 'Please enter valid city!!!!'
+            mad=teamA_input
+            #return teamA_input, str(HTH), str(WinningPerDes), str(latest_form)
+        else:
+            mad=teamB_input
+        #return teamB_input, str(HTH), str(WinningPerDes), str(latest_form)
+
+    return mad, str(HTH), str(WinningPerDes), str(latest_form),str12

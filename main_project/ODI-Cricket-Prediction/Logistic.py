@@ -2,7 +2,7 @@ import numpy as np
 
 
 class LogisticRegressionDemo:
-    def __init__(self, lr=0.01, num_iter=10000, fit_intercept=True, verbose=False):
+    def __init__(self, lr=0.01, num_iter=100000, fit_intercept=True, verbose=False):
         self.lr = lr
         self.num_iter = num_iter
         self.fit_intercept = fit_intercept
