@@ -3,10 +3,8 @@ from collections import defaultdict
 import pandas as pd
 import  _pickle as pk
 from sklearn.linear_model import LogisticRegression
-
-# from distributed import joblib
-
-from Logistic import LogisticRegressionDemo
+import numpy as np
+#
 def Venue_Changes(teamA, teamB, venue):  # venue is changed to 1 for teamA, -1 for teamB and 0 for no team.
     d = defaultdict(list)  # creates empty list,if list doesnot exists
     country = ''
@@ -145,10 +143,57 @@ def pastPerformance(df1, teamA, teamB, bat_avg):
     return form_A / cntA - form_B / cntB
 
 
+class LogisticRegressionDemo(object):
+    def __init__(self, lr=0.01, num_iter=1000, fit_intercept=True, verbose=False):
+        self.lr = lr
+        self.num_iter = num_iter
+        self.fit_intercept = fit_intercept
+        self.verbose = verbose
+
+    def __add_intercept(self, X):
+        intercept = np.ones((X.shape[0], 1))
+        return np.concatenate((intercept, X), axis=1)
+
+    def __sigmoid(self, z):
+        return 1 / (1 + np.exp(-z))
+
+    def __loss(self, h, y):
+        return (-y * np.log(h) - (1 - y) * np.log(1 - h)).mean()
+
+    def fit(self, X, y):
+        if self.fit_intercept:
+            X = self.__add_intercept(X)
+
+        # weights initialization
+        self.theta = np.zeros(X.shape[1])
+
+        for i in range(self.num_iter):
+            z = np.dot(X, self.theta)
+            h = self.__sigmoid(z)
+            gradient = np.dot(X.T, (h - y)) / y.size
+            self.theta -= self.lr * gradient
+
+            z = np.dot(X, self.theta)
+            h = self.__sigmoid(z)
+            loss = self.__loss(h, y)
+
+            if (self.verbose == True and i % 1000 == 0):
+                print(f'loss: {loss} \t')
+
+    def predict_prob(self, X):
+        if self.fit_intercept:
+            X = self.__add_intercept(X)
+
+        return self.__sigmoid(np.dot(X, self.theta))
+
+    def predict(self, X):
+        return self.predict_prob(X).round()
+
+
 def testPredict(df1, testData, TeamA, TeamB):
     df1 = df1[((df1['TeamA']==TeamA)&(df1['TeamB']==TeamB) | (df1['TeamA']==TeamB)&(df1['TeamB']==TeamA))]
     predictors = ['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form']
-    alg = LogisticRegressionDemo(lr=0.1, num_iter=3000)
+    alg = LogisticRegressionDemo(lr=0.1, num_iter=1000)
 
     df = df1[['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form', 'Winner']]
     train_predictors = (df[predictors])
@@ -200,7 +245,7 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
         #print(WinningPerDes)
 
         bat_avg = 22.6046511628
-        bowl_avg = 29.7670682731
+        # bowl_avg = 29.7670682731
 
         Strength = strength_based_on_batBowl_avg(df, TeamA, TeamB)
     # print(Strength)
@@ -212,11 +257,13 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
         print(" ")
         print("teamB :" + TeamB)
         print(" ")
-        print("winning probability of TeamA based on previous matches : " + str(HTH))
+        print("winning probability of TeamA based on HTH: " + str(HTH))
         print(" ")
         print("winning probability of Team batting first : " + str(WinningPerDes))
         print(" ")
-        print("Team A Performance - Team B Performance : " + str(latest_form))
+        print("Latest Form: Team A Performance - Team B Performance : " + str(latest_form))
+        print(" ")
+        print("Stregth " + str(Strength))
         print(" ")
         print("Performance is calculated based on team's batting average")
         print(" ")

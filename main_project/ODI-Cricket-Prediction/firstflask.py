@@ -19,23 +19,11 @@ def UI1():
            return render_template('prediction.html')
         elif str(request.form.get('Analysis')) == 'Analysis':
             return render_template('analysis.html')
-
-
-
         else:
             return redirect(url_for('UI1'))
 
     elif request.method=='GET':
         return 'hello world'
-
-def madhu(sel,pla):
-    selected=sel
-    played=pla
-
-def madhudai():
-    graph.graphofplayer()
-
-
 
 @app.route('/prediction', methods=['POST'])
 def prediction():
@@ -43,12 +31,11 @@ def prediction():
     teamB=str(request.form.get('team2')).title()
     venue=str(request.form.get('venue')).capitalize()
     tosswin=str(request.form.get('tosswin')).title()
-    dec=str(request.form.get('tossdis'))
-    a,b,c,d,e= modelGenerator.startPrediction(teamA, teamB, venue, tosswin, dec)
+    toss_decision=str(request.form.get('toss decision'))
+    a,b,c,d,e= modelGenerator.startPrediction(teamA, teamB, venue, tosswin, toss_decision)
     if (e=='a'):
         return "please enter valid city"
     return render_template('UI3.html',value=a,value1=b,value2=c,value3=d)
-    #return render_template('welcome.php')
 
 @app.route('/analysis', methods=['GET', 'POST'])
 def analysis():
@@ -73,12 +60,6 @@ def analysis():
 
 
     return "helll"
-
-#@app.route('/CapstoneProject/')
-#def CapstoneProject():
-  #print 'I got clicked!'
-
- # return render_template('CapstoneProject.py')
 
 if __name__=='__main__':
     app.run(debug=True)
