@@ -6,8 +6,9 @@ from collections import defaultdict
 import  _pickle as pk
 import numpy as np
 import pandas as pd
-from Logistic import  LogisticRegressionDemo
 from sklearn.model_selection import KFold
+
+from main_project.LogisticReg import LogisticRegressionDemo
 
 
 def HomeTeam(df1):
@@ -231,13 +232,13 @@ def Scoringfn(df1, bat_avg, bowl_avg):
 
         # print top_B
 
-        # strngth=power_A-top_B + top_A-power_B
-        strngth = (power_A - top_A) - (power_B - top_B)
+        # strength=power_A-top_B + top_A-power_B
+        strength = (power_A - top_A) - (power_B - top_B)
 
-        df1.iloc[i, 11] = strngth
+        df1.iloc[i, 11] = strength
 
 
-# print cnt/tot
+ #print (cnt/tot)
 
 def latest_form(df1, bat_avg):
     for i in range(0, len(df1)):
