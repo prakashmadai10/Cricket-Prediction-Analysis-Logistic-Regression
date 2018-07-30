@@ -129,7 +129,7 @@ def Classfier(df1):
 
 
 def bat_debut():
-    path = r'/home/pankaj/Dropbox/IIIT/Sem_3/DWDM/Assignments/Project/Dataset/PlayerInfo'  # use your path
+    path = 'C:/Users/cityzen10/Downloads/Compressed/ODIPrediction/main_project/ODI-Cricket-Prediction/Dataset/PlayerInfo'  # use your path
     allFiles = glob.glob(path + "/*.csv")
     frame = pd.DataFrame()
     list_ = []

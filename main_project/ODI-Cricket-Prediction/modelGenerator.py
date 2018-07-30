@@ -168,7 +168,6 @@ def testPredict(df1, testData, TeamA, TeamB):
 
 def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecision_input):
     df = pd.read_csv('OutputOfAllModified.csv')
-
     if teamB_input < teamA_input:
         teamB_input, teamA_input = teamA_input, teamB_input
 
