@@ -35,8 +35,6 @@ def madhu(sel,pla):
 def madhudai():
     graph.graphofplayer()
 
-
-
 @app.route('/prediction', methods=['POST'])
 def prediction():
     teamA =str(request.form.get('team1')).title()
@@ -72,11 +70,7 @@ def analysis():
         graph.graphofplayer(select,re1)
 
         return render_template('UI4.html', naam=nam1, m=a1, i=b1, r=c1, h=d1, avg=e1, sr=f1, p=g,detail=detail1,idd=re1)
-
-
         return 'her'
-
-
     return "helll"
 
  # return render_template('CapstoneProject.py')
