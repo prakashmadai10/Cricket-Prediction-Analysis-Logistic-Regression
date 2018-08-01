@@ -22,16 +22,11 @@ def UI1():
         elif str(request.form.get('Analysis')) == 'Analysis':
             return render_template('feature_analysis.html')
 
-
-
         else:
             return redirect(url_for('UI1'))
 
     elif request.method=='GET':
         return 'hello'
-
-
-
 
 @app.route('/prediction', methods=['POST'])
 def prediction():
