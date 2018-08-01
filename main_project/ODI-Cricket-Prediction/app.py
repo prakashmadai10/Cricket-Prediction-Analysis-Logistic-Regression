@@ -135,7 +135,7 @@ def Classfier(df1):
     print(accuracy)
 
 def bat_debut():
-    path = "C:/Users/cityzen10/Downloads/Compressed/MajorProject-prakash/main_project/ODI-Cricket-Prediction/Dataset/PlayerInfo"  # use your path
+    path = "D:/Cricket/main_project/cricket-match-prediction-master/Dataset/PlayerInfo"  # use your path
     allFiles = glob.glob(path + "/*.csv")
     frame = pd.DataFrame()
     list_ = []
@@ -232,13 +232,13 @@ def Scoringfn(df1, bat_avg, bowl_avg):
 
         # print top_B
 
-        # strength=power_A-top_B + top_A-power_B
-        strength = (power_A - top_A) - (power_B - top_B)
+        # strngth=power_A-top_B + top_A-power_B
+        strngth = (power_A - top_A) - (power_B - top_B)
 
-        df1.iloc[i, 11] = strength
+        df1.iloc[i, 11] = strngth
 
 
- #print (cnt/tot)
+# print cnt/tot
 
 def latest_form(df1, bat_avg):
     for i in range(0, len(df1)):

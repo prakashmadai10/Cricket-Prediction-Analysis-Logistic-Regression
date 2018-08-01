@@ -1,41 +1,48 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Player Info</title>
-<style>
-        table, th, td {
-    border: 1px solid black;
-}
-</style>
+	<style>
+		td.a {
+			text-transform: capitalize;
+		}
+
+	</style>
+	<title></title>
 </head>
 <body>
-<img src="{{url_for('static',filename=naam + '.png')}}" width="460" height="345">
 
-<table style="width:100%" >
-  <tr>
-    <th>Name</th>
-    <th>Matches</th>
-    <th>Innings</th>
-      <th>Runs</th>
-    <th>High Score</th>
-    <th>Average</th>
-      <th>Strike rate</th>
-  </tr>
-  <tr>
-    <td>{{ naam }}</td>
-     <td>{{ m }}</td>
-     <td>{{ i }}</td>
-     <td>{{ r }}</td>
-     <td>{{ h }}</td>
-     <td>{{ avg }}</td>
-     <td>{{ sr  }}</td>
 
-  </tr>
+	<table style="float: left">
 
-</table>
-<a href="/my-link/">Click For graph</a>
-<img src="{{url_for('static',filename=naam + '1.png')}}" width="600" height="500">
+		<tr><td><img src="{{url_for('static',filename='playerinfo/' + naam + '.png')}}" width="345" height="345"></td>
 
+
+	</table>
+
+	<table  style="float: left;">
+		<tr><td class="a"><h2><b>{{ naam }}</b></h2><hr></td></tr>
+
+		<tr><td><b>Matches</b></td></tr>
+'		<tr><td>{{ m  }}<hr></td></tr>
+		
+		<tr><td><b>Innings</b></td></tr>
+		<tr><td>{{ i }}<hr></td></tr>
+
+		<tr><td><b>Runs</b></td></tr>
+		<tr><td>{{ r }}<hr></td></tr>
+
+		<tr><td><b>Highest score&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</b></td></tr>
+		<tr><td>{{ h }}<hr></td></tr>
+
+		<tr><td><b>Average score</b></td></tr>
+		<tr><td>{{ avg }}<hr></td></tr>
+
+		<tr><td><b>Strike rate</b></td></tr>
+		<tr><td>{{ sr }}<hr></td></tr>
+
+
+	</table>
+<img src="{{url_for('static',filename='graph/' + idd + '1.png')}}" width="600" height="500">
+<p align="center" style="font-size:25px;">{{ detail }}</p>
 </body>
 </html>

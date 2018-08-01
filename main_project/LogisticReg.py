@@ -1,3 +1,4 @@
+import numpy as np
 class LogisticRegressionDemo(object):
     def __init__(self, lr=0.01, num_iter=1000, fit_intercept=True, verbose=False):
         self.lr = lr

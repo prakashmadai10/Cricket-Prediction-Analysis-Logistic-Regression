@@ -18,11 +18,15 @@ def readdata(naam):
     str2="%"+naam+"%"
     str1="select match from playerinfo where name LIKE "
     querry=str1+"'{}'".format(str2)
-    print(querry)
+
     ca.execute(querry)
     res=ca.fetchall()
 
+    str1 = "select id from playerinfo where name LIKE "
+    querry = str1 + "'{}'".format(str2)
 
+    ca.execute(querry)
+    re = ca.fetchall()
 
     str1 = "select inn from playerinfo where name LIKE "
     querry = str1 + "'{}'".format(str2)
@@ -60,11 +64,21 @@ def readdata(naam):
     ca.execute(querry)
     res6 = ca.fetchall()
 
+    str1 = "select details from playerinfo where name LIKE "
 
+    querry = str1 + "'{}'".format(str2)
 
+    ca.execute(querry)
+    res7 = ca.fetchall()
 
+    str1 = "select name from playerinfo where name LIKE "
 
-    return res,res1,res2,res3,res4,res5,res6
+    querry = str1 + "'{}'".format(str2)
+
+    ca.execute(querry)
+    res8 = ca.fetchall()
+
+    return res,res1,res2,res3,res4,res5,res6,res7,re,res8
 
 
 
