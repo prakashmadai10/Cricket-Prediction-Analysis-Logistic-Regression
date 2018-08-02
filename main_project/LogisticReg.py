@@ -19,7 +19,6 @@ class LogisticRegressionDemo(object):
     def fit(self, X, y):
         if self.fit_intercept:
             X = self.__add_intercept(X)
-
         # weights initialization
         self.theta = np.zeros(X.shape[1])
 

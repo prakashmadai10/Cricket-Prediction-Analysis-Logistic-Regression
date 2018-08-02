@@ -104,25 +104,36 @@ def Toss(df1):
 
 
 def Classfier(df1):
-    predictors = ['Toss', 'Toss_Decision', 'HTH', 'Venue', 'WinningPerDes', 'Strength',
-                  'latest_form']
-    alg = LogisticRegressionDemo(lr=0.1, num_iter=3000)
-    df = df1[['Toss', 'Toss_Decision', 'HTH', 'Venue', 'WinningPerDes', 'Strength', 'latest_form', 'Winner']]
-    kf = KFold(df1.shape[0], random_state=1)
-    predictions = []
-    for train, test in kf.split(df):
-        train_predictors = (df[predictors].iloc[train, :])
-        train_target = df["Winner"].iloc[train]
-        alg.fit(train_predictors, train_target)
-        with open('my_dumped_classifier.pkl', 'wb') as fid:
-            pk.dump(alg, fid)
+    predictors = ['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form']
+    alg = LogisticRegressionDemo(lr=0.1, num_iter=3)
+
+    df = df1[['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form', 'Winner']]
+    train_predictors = (df[predictors])
+
+    train_target = df["Winner"]
+    alg.fit(train_predictors, train_target)
+
+    with open('my_dumped_classifier.pkl', 'wb') as fid:
+        pk.dump(alg, fid)
 
         # load it again
-        with open('my_dumped_classifier.pkl', 'rb') as fid:
-            alg = pk.load(fid)
+    with open('my_dumped_classifier.pkl', 'rb') as fid:
+        alg = pk.load(fid)
 
-    test_predictions = alg.predict(df[predictors].iloc[test, :])
-    predictions.append(test_predictions)
+    #test_predictions = alg.predict(testData)
+
+    train_predictors = train_predictors.values
+
+    print("shape",train_predictors.shape)
+
+    # accuracy calculation
+    predictions = []
+    import numpy as np
+    for i in range(len(train_predictors)):
+        rowdf = pd.DataFrame(train_predictors[i])
+
+        result = alg.predict(rowdf.T)
+        predictions.append(result)
 
     predictions = np.concatenate(predictions, axis=0)
     predictions = predictions.astype(int)
@@ -132,8 +143,7 @@ def Classfier(df1):
             cnt = cnt + 1
 
     accuracy = cnt / len(predictions)
-    print(accuracy)
-
+    print("test Accuracy is :", accuracy)
 def bat_debut():
     path = "D:/Cricket/main_project/cricket-match-prediction-master/Dataset/PlayerInfo"  # use your path
     allFiles = glob.glob(path + "/*.csv")
@@ -313,11 +323,11 @@ HTH(df1)
 Toss(df1)
 WinningPerDes(df1)
 HomeTeam(df1)
-bat_avg, bowl_avg = bat_debut()
-print(bat_avg)
-print(bowl_avg)
+#bat_avg, bowl_avg = bat_debut()
+#print(bat_avg)
+#print(bowl_avg)
 
-Scoringfn(df1, bat_avg, bowl_avg)
-latest_form(df1, bat_avg)
+#Scoringfn(df1, bat_avg, bowl_avg)
+#latest_form(df1, bat_avg)
 Classfier(df1)
 df1.to_csv("OutputOfAllModified.csv")
