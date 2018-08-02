@@ -140,7 +140,8 @@ def Classifier(df1):
             cnt = cnt + 1
 
     accuracy = cnt / len(predictions)
-    print("test Accuracy is :", accuracy)
+    print("Test Accuracy is :", accuracy*100)
+
 def bat_debut():
     path = "D:/Cricket/main_project/cricket-match-prediction-master/Dataset/PlayerInfo"  # use your path
     allFiles = glob.glob(path + "/*.csv")
