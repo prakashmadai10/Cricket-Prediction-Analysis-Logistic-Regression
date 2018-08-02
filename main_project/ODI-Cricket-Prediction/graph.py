@@ -1,4 +1,4 @@
-#import matplotlib.pyplot as mt
+import matplotlib.pyplot as mt
 import numpy as np
 def graphofplayer(ty,name):
     if ty=="batsman":

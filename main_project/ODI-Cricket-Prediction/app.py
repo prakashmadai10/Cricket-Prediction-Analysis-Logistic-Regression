@@ -103,13 +103,12 @@ def Toss(df1):
     df1.loc[df1['Winner'] == df1['TeamB'], 'Winner'] = 0
 
 
-def Classfier(df1):
+def Classifier(df1):
     predictors = ['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form']
-    alg = LogisticRegressionDemo(lr=0.1, num_iter=3)
+    alg = LogisticRegressionDemo(lr=0.1, num_iter=3000)
 
     df = df1[['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form', 'Winner']]
     train_predictors = (df[predictors])
-
     train_target = df["Winner"]
     alg.fit(train_predictors, train_target)
 
@@ -123,12 +122,10 @@ def Classfier(df1):
     #test_predictions = alg.predict(testData)
 
     train_predictors = train_predictors.values
-
     print("shape",train_predictors.shape)
 
     # accuracy calculation
     predictions = []
-    import numpy as np
     for i in range(len(train_predictors)):
         rowdf = pd.DataFrame(train_predictors[i])
 
@@ -329,5 +326,5 @@ HomeTeam(df1)
 
 #Scoringfn(df1, bat_avg, bowl_avg)
 #latest_form(df1, bat_avg)
-Classfier(df1)
+Classifier(df1)
 df1.to_csv("OutputOfAllModified.csv")

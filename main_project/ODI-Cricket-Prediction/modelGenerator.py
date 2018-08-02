@@ -3,8 +3,7 @@ from collections import defaultdict
 import pandas as pd
 import  _pickle as pk
 from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import KFold
-import numpy as np
+
 # from distributed import joblib
 from main_project.LogisticReg import LogisticRegressionDemo
 
@@ -155,9 +154,7 @@ def testPredict(df1, testData, TeamA, TeamB):
     df = df1[['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form', 'Winner']]
     train_predictors = (df[predictors])
     train_target = df["Winner"]
-
     alg.fit(train_predictors, train_target)
-    kf = KFold(df1.shape[0], random_state=1)
 
     with open('my_dumped_classifier.pkl', 'wb') as fid:
        pk.dump(alg, fid)
@@ -165,8 +162,6 @@ def testPredict(df1, testData, TeamA, TeamB):
         # load it again
     with open('my_dumped_classifier.pkl', 'rb') as fid:
         alg = pk.load(fid)
-
-
 
     test_predictions = alg.predict(testData)
     #print(testData)
