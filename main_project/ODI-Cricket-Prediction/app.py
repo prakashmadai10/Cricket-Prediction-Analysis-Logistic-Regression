@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 from sklearn.model_selection import KFold
 
-from main_project.LogisticReg import LogisticRegressionDemo
+from main_project.LogisticRegression import LogisticRegressionScratch
 
 
 def HomeTeam(df1):
@@ -105,7 +105,7 @@ def Toss(df1):
 
 def Classifier(df1):
     predictors = ['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form']
-    alg = LogisticRegressionDemo(lr=0.1, num_iter=3000)
+    alg = LogisticRegressionScratch(lr=0.1, num_iter=3000)
 
     df = df1[['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form', 'Winner']]
     train_predictors = (df[predictors])

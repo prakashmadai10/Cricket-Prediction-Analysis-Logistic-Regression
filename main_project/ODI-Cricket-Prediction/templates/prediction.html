@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Criciet analysis and prediction</title>
+	<title>ODI Cricket Analysis and Prediction</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
@@ -26,8 +26,77 @@
 	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/util.css')}}">
 	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css')}}">
 <!--===============================================================================================-->
+
+	<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
 </head>
 <body>
+<form action="prediction" method="post">
+<div class="topnav">
+	<!--<a href="{{ url_for('prediction') }}" ><input class="topnav" name="Statistics" type="submit" value="Statistics" ></a>-->
+<button class="topnav" type="submit" name="Home" value="Home">
+						<span>
+							<a href="{{ url_for('prediction') }}">
+								Home
+								</a>
+						</span>
+</button>
+	<button class="topnav" type="submit" name="Statistics" value="Statistics">
+						<span>
+							<a href="{{ url_for('prediction') }}">
+								Statistics
+								</a>
+						</span>
+</button>
+	<button class="topnav" type="submit" name="Analysis" value="Analysis">
+						<span>
+							<a href="{{ url_for('prediction') }}">
+								Analysis
+								</a>
+						</span>
+</button>
+	<button class="topnav" type="submit" name="Prediction" value="Prediction">
+						<span>
+							<a class="active" href="{{ url_for('prediction') }}">
+								Prediction
+								</a>
+						</span>
+</button>
+
+
+
+</div>
+
+</form>
 	<div class="background-wrap">
 		<video preload="auto" autoplay="true" loop="loop" muted="muted" class="video">
 			<source src="{{url_for('static',filename='video/stump.mp4')}}" type="video/mp4">
@@ -35,8 +104,6 @@
 		</video>	
 		</div>
 	
-
-
 	<div class="container-contact100">
 		<div class="wrap-contact100">
 			<form class="contact100-form validate-form" method="post" action="prediction">
@@ -52,12 +119,12 @@
 						<option>BANGLADESH</option>
 						<option>ENGLAND</option>
 						<option>INDIA</option>
-						<option>NEWZEALAND</option>
+						<option>NEW ZEALAND</option>
 						<option>PAKISTAN</option>
 						<option>SOUTH AFRICA</option>
 						<option>WEST INDIES</option>
-						<option>AUSTRALIA</option>
-						<option>AUSTRALIA</option>
+						<option>SRI LANKA</option>
+						<option>ZIMBABWE</option>
 
 					</select>
 
@@ -68,22 +135,20 @@
 				<div class="wrap-input100 rs1 validate-input">
 					<!-- <input class="input100" type="text" name="second team" placeholder="second team"> -->
 					<select class="input100" id="second team" name="team2">
-						<option>AUSTRALIA</option>
-						<option>BANGLADESH</option>
-						<option>ENGLAND</option>
 						<option>INDIA</option>
-						<option>NEWZEALAND</option>
+						<option>AUSTRALIA</option>
+						<option>ENGLAND</option>
+						<option>BANGLADESH</option>
+						<option>NEW ZEALAND</option>
 						<option>PAKISTAN</option>
 						<option>SOUTH AFRICA</option>
 						<option>WEST INDIES</option>
-						<option>AUSTRALIA</option>
-						<option>AUSTRALIA</option>
+						<option>ZIMBABWE</option>
+						<option>SRI LANKA</option>
 
 					</select>
 					<span class="focus-input100"></span>
 				</div>
-
-
 
 
 				<label class="label-input100">Toss *</label>

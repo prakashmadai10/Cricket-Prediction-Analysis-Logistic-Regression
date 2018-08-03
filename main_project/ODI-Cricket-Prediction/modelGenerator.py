@@ -2,10 +2,9 @@ from collections import defaultdict
 
 import pandas as pd
 import  _pickle as pk
-from sklearn.linear_model import LogisticRegression
 
 # from distributed import joblib
-from main_project.LogisticReg import LogisticRegressionDemo
+from main_project.LogisticRegression import LogisticRegressionScratch
 
 
 def Venue_Changes(teamA, teamB, venue):  # venue is changed to 1 for teamA, -1 for teamB and 0 for no team.
@@ -149,7 +148,7 @@ def pastPerformance(df1, teamA, teamB, bat_avg):
 def testPredict(df1, testData, TeamA, TeamB):
     df1 = df1[((df1['TeamA']==TeamA)&(df1['TeamB']==TeamB) | (df1['TeamA']==TeamB)&(df1['TeamB']==TeamA))]
     predictors = ['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form']
-    alg = LogisticRegressionDemo(lr=0.1, num_iter=3000)
+    alg = LogisticRegressionScratch(lr=0.1, num_iter=3000)
 
     df = df1[['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form', 'Winner']]
     train_predictors = (df[predictors])

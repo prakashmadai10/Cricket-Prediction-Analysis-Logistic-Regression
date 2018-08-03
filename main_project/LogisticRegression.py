@@ -1,7 +1,7 @@
 import numpy as np
 
 
-class LogisticRegressionDemo(object):
+class LogisticRegressionScratch(object):
     def __init__(self, lr=0.01, num_iter=3000, fit_intercept=True, verbose=False):
         self.lr = lr
         self.num_iter = num_iter

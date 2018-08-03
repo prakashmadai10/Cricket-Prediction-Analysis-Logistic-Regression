@@ -6,7 +6,10 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
 <style type="text/css">
-video{
+
+
+
+video{ 
   position: fixed;
   top: 50%;
   left: 50%;
@@ -17,13 +20,16 @@ video{
   z-index: -100;
   transform: translate(-50%, -50%);
 }
+
 h1{
 	color: #879867;
 }
+
 card-deck{
 	width: 100px;
 	height: 100px;
 }
+
 </style>
 </head>
 
@@ -33,7 +39,7 @@ card-deck{
 		<video preload="auto" autoplay="true" loop="loop" muted="muted" class="video" >
 			<source src="{{url_for('static',filename='video/stump.mp4')}}" type="video/mp4">
 				not supported
-		</video>
+		</video>	
 		<BR><BR>
 		</div><marquee behaviour="scroll" direction="left" scrollamount="30">
 			<img src="{{url_for('static',filename='images/TEXT.png')}}">
@@ -41,21 +47,19 @@ card-deck{
 <br><br><br><br><br><br>
 
 
-
-
 <table>
-	<form action="UI1" method="post">
+	<form action="home_page" method="post">
 	<tr><td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
 
 		<td>
 		<div class="card-deck mx-auto" style="width: 350px;" >
 <div class="card" style="width: 18rem;"">
 
-  <img class="card-img-top" src="{{url_for('static',filename='images/analysis.png')}}" alt="Card image cap">
+  <img class="card-img-top" src="{{url_for('static',filename='images/visualization.png')}}" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Player Data Visualization</h5>
     <p class="card-text">See how your favorite player has played over the years.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
-    <a href="{{ url_for('UI1') }}" ><input class="btn btn-primary" type="submit" name="Statistics" value="Statistics" ></a>
+    <a href="{{ url_for('home_page') }}" ><input class="btn btn-primary" type="submit" name="Statistics" value="Statistics" ></a>
 </div>
   </div>
 </div>
@@ -70,11 +74,11 @@ card-deck{
   <div class="card-body">
     <h5 class="card-title">Prediction</h5>
     <p class="card-text">See which team has better chance of winning the upcoming match.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
-    <a href="{{ url_for('UI1') }}"><input  name="Prediction" class="btn btn-primary"type="submit" value="Prediction"></a>
+    <a href="{{ url_for('home_page') }}"><input  name="Prediction" class="btn btn-primary"type="submit" value="Prediction"></a>
 </div>
   </div>
 </div>
-
+				
 
 	</td>
 
@@ -82,22 +86,19 @@ card-deck{
 	<div class="card-deck mx-auto" style="width: 350px;" >
 		<div class="card" style="width: 18rem;"">
 
-  <img class="card-img-top" src="{{url_for('static',filename='images/feature.jpg')}}" alt="Card image cap">
+  <img class="card-img-top" src="{{url_for('static',filename='images/featurepic.png')}}" height="172" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Feature Analysis</h5>
     <p class="card-text">Feature analysis of different attributes which are used in our project.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
-    <a href="{{ url_for('UI1') }}"><input  name="Analysis" class="btn btn-primary"type="submit" value="Analysis"></a>
+    <a href="{{ url_for('home_page') }}"><input  name="Analysis" class="btn btn-primary"type="submit" value="Analysis"></a>
 </div>
   </div>
 </div>
-
-
 	</td>
-
 	</tr>
-
 
 </form>
 </table>
+
 </body>
 </html>

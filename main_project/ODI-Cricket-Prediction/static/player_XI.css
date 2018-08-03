@@ -17,11 +17,9 @@ form {
 }
 
 select{
-    margin: 37px 20px 33px 0px;
+    margin: 40px 20px 33px 0px;
     color: white;
     background-color: green;
     border: green;
     padding: 0px;
-
 }
-
