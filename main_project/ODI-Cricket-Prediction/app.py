@@ -109,7 +109,7 @@ def Toss(df1):
 
 def Classifier(df1):
     predictors = ['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form']
-    alg = LogisticRegressionScratch(lr=0.1, num_iter=100, fit_intercept=True, verbose=False)
+    alg = LogisticRegressionScratch(lr=0.1, num_iter=3000, fit_intercept=True, verbose=False)
 
     df = df1[['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form', 'Winner']]
     train_predictors = (df[predictors])
