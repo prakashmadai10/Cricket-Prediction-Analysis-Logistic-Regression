@@ -3,10 +3,14 @@ from __future__ import division
 import glob
 import time
 from collections import defaultdict
-import  _pickle as pk
+import _pickle as pk
 import numpy as np
 import pandas as pd
+from time import time
 from sklearn.model_selection import KFold
+# from sklearn.linear_model import  LogisticRegression
+# from sklearn.ensemble import  RandomForestRegressor
+# from sklearn.svm import SVC
 
 from main_project.LogisticRegression import LogisticRegressionScratch
 
@@ -105,12 +109,13 @@ def Toss(df1):
 
 def Classifier(df1):
     predictors = ['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form']
-    alg = LogisticRegressionScratch(lr=0.1, num_iter=3000)
+    alg = LogisticRegressionScratch(lr=0.1, num_iter=100, fit_intercept=True, verbose=False)
 
     df = df1[['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form', 'Winner']]
     train_predictors = (df[predictors])
     train_target = df["Winner"]
     alg.fit(train_predictors, train_target)
+
 
     with open('my_dumped_classifier.pkl', 'wb') as fid:
         pk.dump(alg, fid)
@@ -119,10 +124,10 @@ def Classifier(df1):
     with open('my_dumped_classifier.pkl', 'rb') as fid:
         alg = pk.load(fid)
 
-    #test_predictions = alg.predict(testData)
+    # test_predictions = alg.predict(testData)
 
     train_predictors = train_predictors.values
-    print("shape",train_predictors.shape)
+    print("shape", train_predictors.shape)
 
     # accuracy calculation
     predictions = []
@@ -140,7 +145,8 @@ def Classifier(df1):
             cnt = cnt + 1
 
     accuracy = cnt / len(predictions)
-    print("Test Accuracy is :", accuracy*100)
+    print("Test Accuracy is :%", accuracy * 100)
+    print(alg.theta)
 
 def bat_debut():
     path = "D:/Cricket/main_project/cricket-match-prediction-master/Dataset/PlayerInfo"  # use your path
@@ -299,11 +305,12 @@ def latest_form(df1, bat_avg):
 
     # def testPredicit(df1,testData):
 
+
 ####Main
 
 df1 = pd.read_csv('Dataset/CompleteMatchDetails.csv')
 
-df1['Date'] = pd.to_datetime(df1.Date)
+# df1['Date'] = pd.to_datetime(df1.Date)
 
 df1['HTH'] = 0
 df1['WinningPerDes'] = 0

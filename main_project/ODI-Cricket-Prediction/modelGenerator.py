@@ -170,7 +170,7 @@ def testPredict(df1, testData, TeamA, TeamB):
 # main Function
 
 def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecision_input):
-    df = pd.read_csv('OutputOfAllModified.csv')
+    df = pd.read_csv('OutputOfAll.csv')
 
     if teamB_input < teamA_input:
         teamB_input, teamA_input = teamA_input, teamB_input#swapping a and b
@@ -212,11 +212,11 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
         print(" ")
         print("teamB :" + TeamB)
         print(" ")
-        print("winning probability of TeamA based on previous matches : %.2f" + str(HTH).format())
+        print("winning probability of TeamA based on previous matches : " + str(HTH))
         print(" ")
-        print("winning probability of Team batting first %.3f: " + str(WinningPerDes).format())
+        print("winning probability of Team batting first : " + str(WinningPerDes).format())
         print(" ")
-        print("Team A Performance - Team B Performance %.2f: " + str(latest_form))
+        print("Team A Performance - Team B Performance : " + str(latest_form))
         print(" ")
         print("Performance is calculated based on team's batting average")
         print(" ")
