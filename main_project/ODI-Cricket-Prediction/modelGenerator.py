@@ -200,8 +200,6 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
         #print(WinningPerDes)
 
         bat_avg = 22.6046511628
-        bowl_avg = 29.7670682731
-
         Strength = strength_based_on_batBowl_avg(df, TeamA, TeamB)#strengh anusaar sort gareko
     # print(Strength)
 
