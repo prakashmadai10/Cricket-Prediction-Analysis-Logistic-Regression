@@ -116,7 +116,6 @@ def Classifier(df1):
     train_target = df["Winner"]
     alg.fit(train_predictors, train_target)
 
-
     with open('my_dumped_classifier.pkl', 'wb') as fid:
         pk.dump(alg, fid)
 
@@ -148,111 +147,6 @@ def Classifier(df1):
     print("Test Accuracy is :%", accuracy * 100)
     print(alg.theta)
 
-def bat_debut():
-    path = "D:/Cricket/main_project/cricket-match-prediction-master/Dataset/PlayerInfo"  # use your path
-    allFiles = glob.glob(path + "/*.csv")
-    frame = pd.DataFrame()
-    list_ = []
-    for file_ in allFiles:
-        df = pd.read_csv(file_, index_col=None, header=0)
-        # print df
-        list_.append(df)
-    frame = pd.concat(list_)
-    frame.to_csv('batDebutOutput.csv')
-
-    # batsman
-    debutant_bat = frame[((frame['Bat_Inngs'] == '1') & (frame['Bowl_Inngs'] == '-') & (frame['Matches_Played'] == 1))]
-    sum1 = 0
-    for index, row in debutant_bat.iterrows():
-        sum1 = sum1 + int(row['Runs_Scored'])
-    sum1 = sum1 * 1.0
-    avg = sum1 / len(debutant_bat)
-
-    # bowler
-    debutant_bowl = frame[((frame['Bowl_Inngs'] == '1') & (frame['Matches_Played'] == 1))]
-    wickts_taken = 0.0
-    runs_conceded = 0.0
-
-    for index, row in debutant_bowl.iterrows():
-        runs_conceded = runs_conceded + int(row['Runs_Conceded'])
-        wickts_taken = wickts_taken + int(row['Wkts_Taken'])
-    # print row['Wkts_Taken'],row['Runs_Conceded']
-
-    # print runs_conceded,wickts_taken
-    bowl_avg = runs_conceded / wickts_taken
-
-    return avg, bowl_avg
-
-
-def Scoringfn(df1, bat_avg, bowl_avg):
-    MAX = 100
-    for i in range(0, len(df1)):
-        # print "------------------------------------------------------------------"
-        teamA = str(df1.loc[i, 'TeamA'])
-        teamB = str(df1.loc[i, 'TeamB'])
-
-        name = str(df1.loc[i, 'MatchID']) + '.csv'  # "657643" #657645
-
-        df = pd.read_csv("Dataset/PlayerInfo/" + name)
-
-        df['Bowl_Inngs'] = df['Bowl_Inngs'].replace('-', 0)
-        df['Matches_Played'] = df['Matches_Played'].replace('-', 0)
-        df.loc[(df['Bowl_Inngs'] == 1) & (df['Matches_Played'] == 1), 'Bowl_Avg'] = bowl_avg
-
-        df['Bat_Avg'] = df['Bat_Avg'].replace('-', bat_avg)
-        df['Bowl_Avg'] = df['Bowl_Avg'].replace('-', MAX)
-        df['Wkts_Taken'] = df['Wkts_Taken'].replace('-', 0)
-
-        teamA_list = df[(df.Country == teamA)]
-        teamB_list = df[(df.Country == teamB)]
-
-        total_A = 0.0
-        total_B = 0.0
-
-        # batting ab=vg considering 11 players
-
-        for index, row in teamA_list.iterrows():
-            total_A = total_A + float(row['Bat_Avg'])
-        power_A = total_A / 11
-        # print(power_A)
-
-        for index, row in teamB_list.iterrows():
-            total_B = total_B + float(row['Bat_Avg'])
-        power_B = total_B / 11
-        # print power_A, power_B
-
-        # bowling avg of 6 bowlers
-
-        teamA_list = teamA_list.sort_values(by='Wkts_Taken', ascending=0)
-        top_bowl_A = teamA_list.head(6)
-
-        # teamB_list[['Bowl_Avg']] = teamB_list[['Bowl_Avg']].astype(float)
-        teamB_list = teamB_list.sort_values(by='Wkts_Taken', ascending=0)
-        top_bowl_B = teamB_list.head(6)
-
-        top_A = 0.0
-        top_B = 0.0
-        for index, row in top_bowl_A.iterrows():
-            top_A = top_A + float(row['Bowl_Avg'])
-        # print row.Wkts_Taken, row.Bowl_Avg, row.Five_Wkts_Hawl
-        top_A = top_A / 6
-
-        # print top_A
-
-        for index, row in top_bowl_B.iterrows():
-            top_B = top_B + float(row['Bowl_Avg'])
-        # print row.Wkts_Taken, row.Bowl_Avg, row.Five_Wkts_Hawl
-        top_B = top_B / 6
-
-        # print top_B
-
-        # strngth=power_A-top_B + top_A-power_B
-        strngth = (power_A - top_A) - (power_B - top_B)
-
-        df1.iloc[i, 11] = strngth
-
-
-# print cnt/tot
 
 def latest_form(df1, bat_avg):
     for i in range(0, len(df1)):

@@ -92,7 +92,6 @@ def strength_based_on_batBowl_avg(df, TeamA, TeamB):
 
     playOffAandB = playOffAandB['Strength'].iloc[0]
     #print(playOffAandB)
-
     return playOffAandB
 
 
@@ -212,7 +211,7 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
         print(" ")
         print("winning probability of TeamA based on previous matches : " + str(HTH))
         print(" ")
-        print("winning probability of Team batting first : " + str(WinningPerDes).format())
+        print("winning probability on Venue : " + str(WinningPerDes))
         print(" ")
         print("Team A Performance - Team B Performance : " + str(latest_form))
         print(" ")
