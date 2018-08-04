@@ -6,7 +6,6 @@ import  _pickle as pk
 # from distributed import joblib
 from main_project.LogisticRegression import LogisticRegressionScratch
 
-
 def Venue_Changes(teamA, teamB, venue):  # venue is changed to 1 for teamA, -1 for teamB and 0 for no team.
     d = defaultdict(list)  # creates empty list,if list doesnot exists
     country = ''
@@ -213,11 +212,11 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
         print(" ")
         print("teamB :" + TeamB)
         print(" ")
-        print("winning probability of TeamA based on previous matches : " + str(HTH))
+        print("winning probability of TeamA based on previous matches : %.2f" + str(HTH).format())
         print(" ")
-        print("winning probability of Team batting first : " + str(WinningPerDes))
+        print("winning probability of Team batting first %.2f: " + str(WinningPerDes))
         print(" ")
-        print("Team A Performance - Team B Performance : " + str(latest_form))
+        print("Team A Performance - Team B Performance %.2f: " + str(latest_form))
         print(" ")
         print("Performance is calculated based on team's batting average")
         print(" ")
