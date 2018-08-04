@@ -214,7 +214,7 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
         print(" ")
         print("winning probability of TeamA based on previous matches : %.2f" + str(HTH).format())
         print(" ")
-        print("winning probability of Team batting first %.2f: " + str(WinningPerDes))
+        print("winning probability of Team batting first %.3f: " + str(WinningPerDes).format())
         print(" ")
         print("Team A Performance - Team B Performance %.2f: " + str(latest_form))
         print(" ")
