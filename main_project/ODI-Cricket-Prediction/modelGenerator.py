@@ -1,10 +1,11 @@
 from collections import defaultdict
 
 import pandas as pd
-import  _pickle as pk
+import _pickle as pk
 
 # from distributed import joblib
 from main_project.LogisticRegression import LogisticRegressionScratch
+
 
 def Venue_Changes(teamA, teamB, venue):  # venue is changed to 1 for teamA, -1 for teamB and 0 for no team.
     d = defaultdict(list)  # creates empty list,if list doesnot exists
@@ -24,8 +25,9 @@ def Venue_Changes(teamA, teamB, venue):  # venue is changed to 1 for teamA, -1 f
                 i += 1
 
     if venue in (d['Australia']) or venue in (d['Bangladesh']) or venue in (d['England']) or venue in (
-    d['India']) or venue in (d['New Zealand']) or venue in (d['Pakistan']) or venue in (d['South Africa']) or venue in (
-    d['Sri Lanka']) or venue in (d['West Indies']) or venue in (d['Zimbabwe']):
+            d['India']) or venue in (d['New Zealand']) or venue in (d['Pakistan']) or venue in (
+    d['South Africa']) or venue in (
+            d['Sri Lanka']) or venue in (d['West Indies']) or venue in (d['Zimbabwe']):
         if venue in (d[teamA]):
             return 1
         if venue in (d[teamB]):
@@ -48,36 +50,39 @@ def Toss_Decision_Changes(Toss, Toss_Decision):
 
 
 def Win_Prob_Of_TeamA(df, teamA, teamB):
-     playOffAandB=df[((df['TeamA']==teamA)&(df['TeamB']==teamB) | (df['TeamA']==teamB)&(df['TeamB']==teamA))]
+    df1 = pd.read_csv('beforeHTH.csv')
+    # playOffAandB=df[((df['TeamA']==teamA)&(df['TeamB']==teamB) | (df['TeamA']==teamB)&(df['TeamB']==teamA))]
+    playOffAandB = df1[
+        ((df['TeamA'] == teamA) & (df['TeamB'] == teamB) | (df['TeamA'] == teamB) & (df['TeamB'] == teamA))]
 
-     playOffAandB = playOffAandB.sort_values(by='Date', ascending=[0])
+    playOffAandB = playOffAandB.sort_values(by='Date', ascending=[0])
     # print(playOffAandB)
     # playOffAandB = playOffAandB.head(10)
 
-     Awin = playOffAandB[(playOffAandB['Winner'] == 1)]
-     a = len(Awin)
-     p = len(playOffAandB)
+    Awin = playOffAandB[(playOffAandB['Winner'] == teamA)]
+    a = len(Awin)
+    p = len(playOffAandB)
 
-     if p == 0:
+    if p == 0:
         return 0
-     return a / p
+    return a / p
 
 
 def Win_prob_on_venue(df1, venue, Toss_Decision):
-    prevMatches = df1[(df1['Venue'] == venue)]#takes data on that venue
-    #print(prevMatches)
+    prevMatches = df1[(df1['Venue'] == venue)]  # takes data on that venue
+    # print(prevMatches)
     prevMatches = prevMatches.sort_values(by='Date', ascending=[0])
     # prevMatches = prevMatches.head(10)
 
-    #print(prevMatches)
+    # print(prevMatches)
 
-    if Toss_Decision == 1:#team1 won the and choose the bat first
+    if Toss_Decision == 1:  # team1 won the and choose the bat first
         Awin = prevMatches[(prevMatches['Toss_Decision'] == prevMatches['Winner'])]
-        #print(Awin)
+        # print(Awin)
     else:
         Awin = prevMatches[(prevMatches['Toss_Decision'] != prevMatches['Winner'])]
 
-    #print(Awin.head())
+    # print(Awin.head())
     a = len(Awin)
     p = len(prevMatches)
 
@@ -87,17 +92,19 @@ def Win_prob_on_venue(df1, venue, Toss_Decision):
 
 
 def strength_based_on_batBowl_avg(df, TeamA, TeamB):
-    playOffAandB=df[((df['TeamA']==TeamA) & (df['TeamB']==TeamB) | (df['TeamA']==TeamB) & (df['TeamB']==TeamA))]
+    playOffAandB = df[
+        ((df['TeamA'] == TeamA) & (df['TeamB'] == TeamB) | (df['TeamA'] == TeamB) & (df['TeamB'] == TeamA))]
     playOffAandB = playOffAandB.sort_values(by='Date', ascending=[0])
 
     playOffAandB = playOffAandB['Strength'].iloc[0]
-    #print(playOffAandB)
+    # print(playOffAandB)
+
     return playOffAandB
 
 
 def pastPerformance(df1, teamA, teamB, bat_avg):
     prevA = df1[((df1['TeamA'] == teamA) | (df1['TeamB'] == teamA))]
-    #print(prevA)
+    # print(prevA)
     prevA = prevA.sort_values(by='Date', ascending=[0])
     prevA = prevA.head(10)
 
@@ -105,7 +112,7 @@ def pastPerformance(df1, teamA, teamB, bat_avg):
     cntA = 0
     for index, row in prevA.iterrows():
         name = str(row['MatchID']) + '.csv'  # "657643" #657645
-        #print(name)
+        # print(name)
         df = pd.read_csv("Dataset/PlayerInfo/" + name)
         df['Bat_Avg'] = df['Bat_Avg'].replace('-', bat_avg)
 
@@ -144,7 +151,7 @@ def pastPerformance(df1, teamA, teamB, bat_avg):
 
 
 def testPredict(df1, testData, TeamA, TeamB):
-    df1 = df1[((df1['TeamA']==TeamA)&(df1['TeamB']==TeamB) | (df1['TeamA']==TeamB)&(df1['TeamB']==TeamA))]
+    df1 = df1[((df1['TeamA'] == TeamA) & (df1['TeamB'] == TeamB) | (df1['TeamA'] == TeamB) & (df1['TeamB'] == TeamA))]
     predictors = ['Toss', 'Toss_Decision', 'Venue', 'HTH', 'WinningPerDes', 'Strength', 'latest_form']
     alg = LogisticRegressionScratch(lr=0.1, num_iter=3000)
 
@@ -154,25 +161,25 @@ def testPredict(df1, testData, TeamA, TeamB):
     alg.fit(train_predictors, train_target)
 
     with open('my_dumped_classifier.pkl', 'wb') as fid:
-       pk.dump(alg, fid)
+        pk.dump(alg, fid)
 
         # load it again
     with open('my_dumped_classifier.pkl', 'rb') as fid:
         alg = pk.load(fid)
 
     test_predictions = alg.predict(testData)
-    #print(testData)
-    #print(test_predictions[0])
+    # print(testData)
+    # print(test_predictions[0])
     return test_predictions[0]
 
 
 # main Function
 
 def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecision_input):
-    df = pd.read_csv('OutputOfAll.csv')
+    df = pd.read_csv('OutputOfAllModified.csv')
 
-    if teamB_input < teamA_input:
-        teamB_input, teamA_input = teamA_input, teamB_input#swapping a and b
+    # if teamB_input < teamA_input:
+    #     teamB_input, teamA_input = teamA_input, teamB_input#swapping a and b
 
     TeamA = teamA_input
     TeamB = teamB_input
@@ -181,29 +188,30 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
     Venue = venue_input
 
     Venue = Venue_Changes(TeamA, TeamB, Venue)
-    mad=''
-    HTH=''
-    WinningPerDes=''
-    latest_form=''
-    str12='a'
+    mad = ''
+    HTH = ''
+    WinningPerDes = ''
+    latest_form = ''
+    str12 = 'a'
 
     if (Venue != 2):
-        str12='b'
-        Toss = Toss_Changes(TeamA, TeamB, Toss)#if team ais a toss winner then it will return 1
-        Toss_Decision = Toss_Decision_Changes(Toss, Toss_Decision)#if team1 is toss winner and choose bat returns 1
+        str12 = 'b'
+        Toss = Toss_Changes(TeamA, TeamB, Toss)  # if team ais a toss winner then it will return 1
+        Toss_Decision = Toss_Decision_Changes(Toss, Toss_Decision)  # if team1 is toss winner and choose bat returns 1
 
-        HTH = Win_Prob_Of_TeamA(df, TeamA, TeamB)#probability of winning the match bay teama
-    # print(HTH)
+        HTH = Win_Prob_Of_TeamA(df, TeamA, TeamB)  # probability of winning the match by teama
+        # print(HTH)
 
         WinningPerDes = Win_prob_on_venue(df, Venue, Toss_Decision)
-        #print(WinningPerDes)
+        # print(WinningPerDes)
 
         bat_avg = 22.6046511628
-        Strength = strength_based_on_batBowl_avg(df, TeamA, TeamB)#strengh anusaar sort gareko
-    # print(Strength)
 
-        latest_form = pastPerformance(df, TeamA, TeamB, bat_avg)#relative strength of teama and teamb
-    # print(latest_form)
+        Strength = strength_based_on_batBowl_avg(df, TeamA, TeamB)  # strengh anusaar sort gareko
+        # print(Strength)
+
+        latest_form = pastPerformance(df, TeamA, TeamB, bat_avg)  # relative strength of teama and teamb
+        # print(latest_form)
 
         print("teamA : " + TeamA)
         print(" ")
@@ -211,23 +219,24 @@ def startPrediction(teamA_input, teamB_input, venue_input, toss_input, tossDecis
         print(" ")
         print("winning probability of TeamA based on previous matches : " + str(HTH))
         print(" ")
-        print("winning probability on Venue : " + str(WinningPerDes))
+        print("winning probability of Team batting first : " + str(WinningPerDes))
         print(" ")
         print("Team A Performance - Team B Performance : " + str(latest_form))
         print(" ")
         print("Performance is calculated based on team's batting average")
         print(" ")
-        dict = {'Toss': Toss, 'Toss_Decision': Toss_Decision, 'Venue': Venue, 'HTH': HTH, 'WinningPerDes': WinningPerDes,
-            'Strength': Strength, 'latest_form': latest_form}
+        dict = {'Toss': Toss, 'Toss_Decision': Toss_Decision, 'Venue': Venue, 'HTH': HTH,
+                'WinningPerDes': WinningPerDes,
+                'Strength': Strength, 'latest_form': latest_form}
 
         testData = pd.DataFrame(dict, index=["result"])
-    # print(testData)
+        # print(testData)
 
         if testPredict(df, testData, TeamA, TeamB) == 1:
-            mad=teamA_input
-            #return teamA_input, str(HTH), str(WinningPerDes), str(latest_form)
+            mad = teamA_input
+            # return teamA_input, str(HTH), str(WinningPerDes), str(latest_form)
         else:
-            mad=teamB_input
-        #return teamB_input, str(HTH), str(WinningPerDes), str(latest_form)
+            mad = teamB_input
+        # return teamB_input, str(HTH), str(WinningPerDes), str(latest_form)
 
-    return mad, str(HTH), str(WinningPerDes), str(latest_form),str12
+    return mad, str(HTH), str(WinningPerDes), str(latest_form), str12
