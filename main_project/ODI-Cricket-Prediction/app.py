@@ -63,9 +63,8 @@ def HTH(df):
         else:
             df.iloc[i, 9] = a / p
 
-    df.to_csv("HTHOutput1.csv")
+    df.to_csv("HTHOutput.csv")
     return
-
 
 def WinningPerDes(df):
     for i in range(0, len(df)):
