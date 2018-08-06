@@ -1,9 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
+	 <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+<style type="text/css">
+    .mx-5{
+    padding-left:200px;
+    padding-right:200px;
+    }
+    </style>
+
 	<style>
 		td.a {
 			text-transform: capitalize;
+		}
+		.bg-success{
+		height:40px;
+		align: center;
 		}
 
 	</style>
@@ -12,37 +29,41 @@
 <body>
 
 
-	<table style="float: left">
-
-		<tr><td><img src="{{url_for('static',filename='playerinfo/' + naam + '.png')}}" width="345" height="345"></td>
+	<table style="float: left" width="400px">
+		<tr><td><br><br><br></td></tr>
+		<tr><td><img src="{{url_for('static',filename='playerinfo/' + naam + '.png')}}" width="485" height="485" align="middle"></td>
 
 
 	</table>
 
-	<table  style="float: left;">
-		<tr><td class="a"><h2><b>{{ naam }}</b></h2><hr></td></tr>
+	<table  style="float: left;" width="350px">
 
-		<tr><td><b>Matches</b></td></tr>
-'		<tr><td>{{ m  }}<hr></td></tr>
+		<tr><td align="center" class="a"><h2><b><div class="p-3 mb-2 bg-secondary text-white">{{ naam }}</div></b></h2><hr width="300px"></td></tr>
+
+		<tr><td align="center" style="font-size:18px;"><b>Matches</b></td></tr>
+		<tr><td align="center"><div class="p-3 mb-2 bg-success text-white">{{ m  }}</div><hr width="300px"></td></tr>
 		
-		<tr><td><b>Innings</b></td></tr>
-		<tr><td>{{ i }}<hr></td></tr>
+		<tr><td align="center" style="font-size:18px;"><b>Innings</b></td></tr>
+		<tr><td align="center"><div class="p-3 mb-2 bg-success text-white">{{ i }}</div><hr width="300px"></td></tr>
 
-		<tr><td><b>Runs</b></td></tr>
-		<tr><td>{{ r }}<hr></td></tr>
+		<tr><td align="center" style="font-size:18px;"><b>Runs</b></td></tr>
+		<tr><td align="center"><div class="p-3 mb-2 bg-success text-white">{{ r }}</div><hr width="300px"></td></tr>
 
-		<tr><td><b>Highest score&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</b></td></tr>
-		<tr><td>{{ h }}<hr></td></tr>
+		<tr><td align="center" style="font-size:18px;"><b>Highest score</b></td></tr>
+		<tr><td align="center"><div class="p-3 mb-2 bg-success text-white">{{ h }}</div><hr width="300px"></td></tr>
 
-		<tr><td><b>Average score</b></td></tr>
-		<tr><td>{{ avg }}<hr></td></tr>
+		<tr><td align="center" style="font-size:18px;"><b>Average score</b></td></tr>
+		<tr><td align="center"><div class="p-3 mb-2 bg-success text-white">{{ avg }}</div><hr width="300px"></td></tr>
 
-		<tr><td><b>Strike rate</b></td></tr>
-		<tr><td>{{ sr }}<hr></td></tr>
-
+		<tr><td align="center" style="font-size:18px;"><b>Strike rate</b></td></tr>
+		<tr><td align="center"><div class="p-3 mb-2 bg-success text-white">{{ sr }}</div><hr width="300px"></td></tr>
 
 	</table>
-<img src="{{url_for('static',filename='graph/' + idd + '1.png')}}" width="600" height="500">
+<table>
+	<tr><td><img src="{{url_for('static',filename='graph/' + idd + '1.png')}}" width="600" height="550"><br></td></tr>
+
+	</table>
+	<br><br><br><br><br><br><br><br><br><br>
 <p align="center" style="font-size:25px;">{{ detail }}</p>
 </body>
 </html>

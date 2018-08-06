@@ -10,6 +10,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
+
     return render_template('home_page.html')
 
 @app.route('/home_page', methods=['GET', 'POST'])
@@ -67,25 +68,45 @@ def player_stats():
             return render_template('home_page.html')
         elif str(request.form.get('Analysis')) == 'Analysis':
             return render_template('feature_analysis.html')
-        select = str(request.form.get('role'))
-        # print(select)
-        player = str(request.form.get('playername'))
 
-        a, b, c, d, e, f, g,det,re,nam = database.readdata(player)
-        # a1= ", ".join( repr(e) for e in a )
-        a1 = str(a)[2:-3]
-        b1 = str(b)[2:-3]
-        c1 = str(c)[2:-3]
-        d1 = str(d)[2:-3]
-        e1 = str(e)[2:-3]
-        f1 = str(f)[2:-3]
-        re1=str(re)[2:-3]
-        detail1=str(det)[2:-3]
-        nam1 = str(nam)[3:-4]
-        print(nam1)
-        graph.graphofplayer(select,re1)
+        if str(request.form.get('psearch')) == 'psearch':
+            select = str(request.form.get('role'))
+            # print(select)
+            player = str(request.form.get('playername'))
 
-        return render_template('player_stats.html', naam=nam1, m=a1, i=b1, r=c1, h=d1, avg=e1, sr=f1, p=g,detail=detail1,idd=re1)
+            a, b, c, d, e, f, g, det, re, nam = database.readdata(player)
+            # a1= ", ".join( repr(e) for e in a )
+            a1 = str(a)[2:-3]
+            b1 = str(b)[2:-3]
+            c1 = str(c)[2:-3]
+            d1 = str(d)[2:-3]
+            e1 = str(e)[2:-3]
+            f1 = str(f)[2:-3]
+            re1 = str(re)[2:-3]
+            detail1 = str(det)[2:-3]
+            nam1 = str(nam)[3:-4]
+            graph.graphofplayer(select, re1)
+            return render_template('player_stats.html', naam=nam1, m=a1, i=b1, r=c1, h=d1, avg=e1, sr=f1, p=g,detail=detail1,idd=re1)
+        elif str(request.form.get('country')) == 'country':
+            country = str(request.form.get('countryname'))
+
+            a, b, c, d, e, f, g, det, re,rank,mstwins = database.desh(country)
+            # a1= ", ".join( repr(e) for e in a )
+            print(a)
+            mat = str(a)[2:-3]
+            w = str(b)[2:-3]
+            los = str(c)[2:-3]
+            tie = str(d)[2:-3]
+            no = str(e)[2:-3]
+            wl = str(f)[2:-3]
+            hs = str(g)[2:-3]
+
+            name = str(re)[3:-4]
+            ls = str(det)[2:-3]
+            rank1 = str(rank)[2:-3]
+            mstwins1 = str(mstwins)[3:-4]
+
+            return render_template('countrydisplay.html', naam=hs,rank1=rank1,mstwins1=mstwins1.capitalize(), m=mat, i=w, r=los, h=tie, avg=no, sr=wl,detail=ls,idd=name)
 
 
         return 'her'

@@ -142,10 +142,42 @@ body {
 
 
 				<div class="container-contact100-form-btn">
-					<button class="contact100-form-btn" type="submit">
+					<button class="contact100-form-btn" type="submit" name="psearch" value="psearch">
 						<span>
 							<a href="{{ url_for('player_stats') }}">
 							Submit
+							   </a>
+							<i class="zmdi zmdi-arrow-right m-l-8"></i>
+						</span>
+					</button>
+				</div>
+				<label class="label-input100">COUNTRY NAME</label>
+				<div class="wrap-input100 rs1 validate-input">
+					<!-- <input id="first-name" class="input100" type="text" name="first-name" placeholder="First Team"> -->
+					<select class="input100" id="country" name="countryname">
+						<option>NEPAL</option>
+						<option>AUSTRALIA</option>
+
+						<option>BANGLADESH</option>
+						<option>ENGLAND</option>
+						<option>INDIA</option>
+						<option>NEW ZEALAND</option>
+						<option>PAKISTAN</option>
+						<option>SOUTH AFRICA</option>
+						<option>WEST INDIES</option>
+						<option>SRI LANKA</option>
+						<option>ZIMBABWE</option>
+
+
+					</select>
+
+					<span class="focus-input100"></span>
+				</div>
+				<div class="container-contact100-form-btn">
+					<button class="contact100-form-btn"type="submit" name="country" value="country">
+						<span>
+							<a href="{{ url_for('player_stats') }}">
+							SubmitCountry
 							   </a>
 							<i class="zmdi zmdi-arrow-right m-l-8"></i>
 						</span>

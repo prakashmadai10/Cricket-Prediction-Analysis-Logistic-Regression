@@ -260,10 +260,10 @@ header{
 .input100 {
   display: block;
   width: 100%;
-  background: transparent;
+
   font-family: Raleway-SemiBold;
   font-size: 18px;
-  color: white;
+  color: #333333;
   line-height: 1.2;
   padding: 0 25px;
 }

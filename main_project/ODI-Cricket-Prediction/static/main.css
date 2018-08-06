@@ -11,17 +11,17 @@ body{
 
 @font-face {
   font-family: Raleway-SemiBold;
-  src: url('../fonts/raleway/Raleway-SemiBold.ttf'); 
+  src: url('../fonts/raleway/Raleway-SemiBold.ttf');
 }
 
 @font-face {
   font-family: Raleway-Bold;
-  src: url('../fonts/raleway/Raleway-Bold.ttf'); 
+  src: url('../fonts/raleway/Raleway-Bold.ttf');
 }
 
 @font-face {
   font-family: Raleway-Black;
-  src: url('../fonts/raleway/Raleway-Black.ttf'); 
+  src: url('../fonts/raleway/Raleway-Black.ttf');
 }
 
 
@@ -29,8 +29,8 @@ body{
 [ RESTYLE TAG ]*/
 
 * {
-	margin: 0px; 
-	padding: 0px; 
+	margin: 0px;
+	padding: 0px;
 	box-sizing: border-box;
 }
 
@@ -155,7 +155,7 @@ header{
 }
 
 .container-contact100 {
-  width: 100%;  
+  width: 100%;
   min-height: 100vh;
   display: -webkit-box;
   display: -webkit-flex;
@@ -171,7 +171,7 @@ header{
   background: -o-linear-gradient(45deg, #c77ff2, #e8519e);
   background: -moz-linear-gradient(45deg, #c77ff2, #e8519e);
   background: linear-gradient(45deg, #c77ff2, #e8519e);*/
-  
+
 }
 
 .background-wrap{
@@ -222,7 +222,7 @@ header{
   display: block;
   font-family: Raleway-Black;
   font-size: 30px;
-  color: #3333768;
+  color: #2f6cce;
   line-height: 1.2;
   text-align: center;
   padding-bottom: 45px;
@@ -249,7 +249,7 @@ header{
 .label-input100 {
   font-family: Raleway-SemiBold;
   font-size: 20px;
-  color: #ffff;
+  color:#2DF7DB;
   line-height: 1.5;
   text-transform: uppercase;
   width: 100%;
@@ -260,7 +260,7 @@ header{
 .input100 {
   display: block;
   width: 100%;
-  background: transparent;
+
   font-family: Raleway-SemiBold;
   font-size: 18px;
   color: #333333;
