@@ -13,7 +13,7 @@ class LogisticRegressionScratch(object):
 
     def __sigmoid(self, z):
         return 1 / (1 + np.exp(-z))
-
+#h is estimated output and y is correct output
     def __loss(self, h, y):
         return (-y * np.log(h) - (1 - y) * np.log(1 - h)).mean()
 
@@ -21,15 +21,15 @@ class LogisticRegressionScratch(object):
         if self.fit_intercept:
             X = self.__add_intercept(X)
         # weights initialization
-        self.theta = np.zeros(X.shape[1])
+        self.weight = np.zeros(X.shape[1])
 
         for i in range(self.num_iter):
-            z = np.dot(X, self.theta)
+            z = np.dot(X, self.weight)
             h = self.__sigmoid(z)
             gradient = np.dot(X.T, (h - y)) / y.size
-            self.theta -= self.lr * gradient
+            self.weight -= self.lr * gradient
 
-            z = np.dot(X, self.theta)
+            z = np.dot(X, self.weight)
             h = self.__sigmoid(z)
             loss = self.__loss(h, y)
 
@@ -40,7 +40,7 @@ class LogisticRegressionScratch(object):
         if self.fit_intercept:
             X = self.__add_intercept(X)
 
-        return self.__sigmoid(np.dot(X, self.theta))
+        return self.__sigmoid(np.dot(X, self.weight))
 
     def predict(self, X):
         return self.predict_prob(X).round()

@@ -1,546 +1,546 @@
 ,Toss,MatchID,Toss_Decision,Margin,Winner,Date,Venue,TeamA,TeamB,HTH,WinningPerDes,Strength,latest_form
-0,1,514036,0,5 wickets,1,14-Jan-17,1,South Africa,Sri Lanka,1.0,0.0,0,0
-1,1,514038,1,5 wickets,0,20-Jan-17,0,South Africa,Sri Lanka,1.0,0.0,0,0
-2,1,514035,1,258 runs,1,11-Jan-17,1,South Africa,Sri Lanka,0.0,0.0,0,0
-3,0,514039,1,2 wickets,0,22-Jan-17,1,South Africa,Sri Lanka,0.6,1.0,0,0
-4,0,520592,1,90 runs,1,3-Feb-17,1,New Zealand,Zimbabwe,0.6666666666666666,0.0,0,0
-5,1,520594,1,202 runs,1,9-Feb-17,1,New Zealand,Zimbabwe,0.8333333333333334,0.3333333333333333,0,0
-6,0,518957,0,4 wickets,1,8-Feb-17,0,India,Sri Lanka,0.6,0.3333333333333333,0,0
-7,1,518959,1,4 wickets,0,12-Feb-17,1,Australia,India,0.0,0.0,0,0
-8,0,520593,1,141 runs,1,6-Feb-17,0,New Zealand,Zimbabwe,0.8,0.0,0,0
-9,1,545656,1,7 wickets,0,10-Feb-17,-1,Afghanistan,Pakistan,0.0,0.0,0,0
-10,1,531631,1,130 runs,1,13-Feb-17,-1,England,Pakistan,1.0,1.0,0,0
-11,0,518958,1,5 runs,1,10-Feb-17,1,Australia,Sri Lanka,1.0,0.0,0,0
-12,1,531632,1,20 runs,1,15-Feb-17,-1,England,Pakistan,1.0,1.0,0,0
-13,0,531633,0,9 wickets,1,18-Feb-17,0,England,Pakistan,0.8,0.5,0,0
-14,1,543882,1,117 runs,1,20-Feb-17,0,Ireland,Kenya,0.5,0.0,0,0
-15,1,543881,1,7 wickets,0,18-Feb-17,0,Ireland,Kenya,1.0,0.0,0,0
-16,1,518962,1,110 runs,1,19-Feb-17,1,Australia,India,0.3333333333333333,0.3333333333333333,0,0
-17,0,518963,0,51 runs,0,21-Feb-17,0,India,Sri Lanka,0.8,0.5,0,0
-18,0,661689,1,159 runs,1,1-Jan-14,1,New Zealand,West Indies,0.0,0.0,0,0
-19,1,667641,0,24 runs,0,19-Jan-14,-1,India,New Zealand,0.6666666666666666,1.0,0,0
-20,0,636159,0,6 wickets,1,12-Jan-14,1,Australia,England,0.0,0.0,0,0
-21,1,661693,0,203 runs,0,8-Jan-14,1,New Zealand,West Indies,0.3333333333333333,0.6666666666666666,0,0
-22,0,531634,0,4 wickets,1,21-Feb-17,0,England,Pakistan,0.7142857142857143,0.5,0,0
-23,0,636160,0,1 wicket,1,17-Jan-14,1,Australia,England,0.6,0.0,0,0
-24,0,636161,0,7 wickets,1,19-Jan-14,1,Australia,England,0.6666666666666666,0.0,0,0
-25,1,696731,0,170 runs,0,23-Jan-14,0,Canada,Scotland,0.0,1.0,0,0
-26,1,696733,0,4 wickets,1,23-Jan-14,0,Kenya,Netherlands,0.3333333333333333,0.0,0,0
-27,1,636162,0,57 runs,0,24-Jan-14,1,Australia,England,0.8,0.5,0,0
-28,1,696747,1,8 wickets,0,28-Jan-14,0,Canada,Netherlands,0.0,0.5,0,0
-29,1,667647,1,7 wickets,0,28-Jan-14,-1,India,New Zealand,0.6,0.0,0,0
-30,1,636163,1,5 runs,1,26-Jan-14,1,Australia,England,0.7,0.0,0,0
-31,1,696759,1,3 wickets,0,30-Jan-14,0,Kenya,Scotland,0.0,0.6666666666666666,0,0
-32,1,696763,1,41 runs,1,1-Feb-14,0,Scotland,United Arab Emirates,0.0,0.0,0,0
-33,1,667649,0,87 runs,0,31-Jan-14,-1,India,New Zealand,0.5714285714285714,0.6666666666666666,0,0
-34,0,690359,1,6 wickets,0,22-Feb-14,1,Bangladesh,Sri Lanka,0.0,0.5,0,0
-35,1,690355,0,13 runs,0,17-Feb-14,1,Bangladesh,Sri Lanka,0.0,0.5,0,0
-36,0,690357,0,61 runs,0,20-Feb-14,1,Bangladesh,Sri Lanka,0.0,0.6,0,0
-37,1,702139,1,4 wickets,0,23-Feb-14,0,Ireland,West Indies,0.0,0.6666666666666666,0,0
-38,1,520600,1,6 wickets,0,25-Feb-17,1,New Zealand,South Africa,0.4,0.5,0,0
-39,1,518964,1,3 wickets,0,24-Feb-17,1,Australia,Sri Lanka,0.4,1.0,0,0
-40,1,518965,1,87 runs,1,26-Feb-17,1,Australia,India,0.375,0.25,0,0
-41,1,518966,0,7 wickets,1,28-Feb-17,0,India,Sri Lanka,0.4,0.3333333333333333,0,0
-42,0,518967,0,9 runs,0,2-Mar-17,1,Australia,Sri Lanka,0.5,0.4,0,0
-43,0,520602,1,5 wickets,0,3-Mar-17,1,New Zealand,South Africa,0.375,0.0,0,0
-44,0,520601,1,6 wickets,0,2/29/2017,1,New Zealand,South Africa,1.0,0.5,0,0
-45,1,518969,1,8 wickets,0,6-Mar-17,1,Australia,Sri Lanka,0.3,0.6,0,0
-46,0,518970,1,16 runs,1,8-Mar-17,1,Australia,Sri Lanka,0.4,0.5,0,0
-47,1,518968,1,15 runs,1,4-Mar-17,1,Australia,Sri Lanka,0.3,0.5714285714285714,0,0
-48,1,535794,0,21 runs,0,11-Mar-17,1,Bangladesh,Pakistan,0.0,0.8333333333333334,0,0
-49,0,535795,1,50 runs,1,13-Mar-17,0,India,Sri Lanka,0.6666666666666666,0.3,0,0
-50,1,540168,1,64 runs,1,16-Mar-17,0,Australia,West Indies,1.0,0.3333333333333333,0,0
-51,1,535797,0,5 wickets,1,16-Mar-17,1,Bangladesh,India,0.0,0.5,0,0
-52,0,535796,0,6 wickets,1,15-Mar-17,0,Pakistan,Sri Lanka,0.3333333333333333,0.5,0,0
-53,0,535798,0,6 wickets,1,18-Mar-17,0,India,Pakistan,0.0,0.4,0,0
-54,1,540171,0,42 runs,0,23-Mar-17,0,Australia,West Indies,1.0,1.0,0,0
-55,0,540172,1,30 runs,1,25-Mar-17,0,Australia,West Indies,0.8333333333333334,0.25,0,0
-56,1,535800,0,2 runs,0,22-Mar-17,1,Bangladesh,Pakistan,0.0,0.5,0,0
-57,0,710291,0,12 runs,0,25-Feb-14,0,Pakistan,Sri Lanka,0.7,0.0,0,0
-58,0,710293,1,6 wickets,0,26-Feb-14,0,Bangladesh,India,0.25,1.0,0,0
-59,1,710295,0,72 runs,0,27-Feb-14,0,Afghanistan,Pakistan,0.0,0.3333333333333333,0,0
-60,0,710301,1,1 wicket,0,2-Mar-14,0,India,Pakistan,1.0,0.6,0,0
-61,0,710297,1,2 wickets,0,28-Feb-14,0,India,Sri Lanka,0.4,0.75,0,0
-62,1,636534,0,3 wickets,1,2-Mar-14,0,England,West Indies,1.0,0.5,0,0
-63,0,710303,0,129 runs,0,3-Mar-14,0,Afghanistan,Sri Lanka,0.0,0.4,0,0
-64,1,710305,1,3 wickets,0,4-Mar-14,1,Bangladesh,Pakistan,0.0,0.7,0,0
-65,1,636533,0,15 runs,0,28-Feb-14,0,England,West Indies,1.0,0.5,0,0
-66,0,710299,1,32 runs,1,1-Mar-14,0,Afghanistan,Bangladesh,0.0,0.0,0,0
-67,0,710307,1,8 wickets,0,5-Mar-14,0,Afghanistan,India,0.0,0.4,0,0
-68,0,636535,1,25 runs,1,5-Mar-14,0,England,West Indies,0.75,0.6,0,0
-69,0,736503,1,70 runs,1,2-May-14,0,Afghanistan,United Arab Emirates,1.0,0.0,0,0
-70,1,710311,1,5 wickets,0,8-Mar-14,0,Pakistan,Sri Lanka,0.6,0.2,0,0
-71,1,706767,0,79 runs,0,6-May-14,0,Ireland,Sri Lanka,0.0,0.2857142857142857,0,0
-72,0,736511,1,2 wickets,0,4-May-14,0,Hong Kong,United Arab Emirates,0.0,0.5,0,0
-73,1,710309,1,3 wickets,0,6-Mar-14,1,Bangladesh,Sri Lanka,0.0,0.4,0,0
-74,1,736497,0,6 wickets,1,1-May-14,0,Afghanistan,Hong Kong,0.0,0.0,0,0
-75,1,543888,1,9 wickets,0,29-Mar-17,0,Afghanistan,Netherlands,1.0,0.6,0,0
-76,1,543889,0,5 wickets,1,31-Mar-17,0,Afghanistan,Netherlands,0.5,0.5,0,0
-77,0,562440,0,76 runs,0,9-Jun-17,0,Pakistan,Sri Lanka,0.5,0.25,0,0
-78,0,562442,0,44 runs,0,16-Jun-17,0,Pakistan,Sri Lanka,0.5,0.5,0,0
-79,1,562443,1,2 wickets,0,18-Jun-17,0,Pakistan,Sri Lanka,0.5,0.6666666666666666,0,0
-80,1,534215,0,15 runs,0,29-Jun-17,0,Australia,England,0.5,0.5,0,0
-81,1,534210,0,8 wickets,1,19-Jun-17,0,England,West Indies,1.0,0.6,0,0
-82,1,555892,0,59 runs,0,5-Jul-17,0,Afghanistan,Ireland,0.0,0.3333333333333333,0,0
-83,1,534216,1,6 wickets,0,1-Jul-17,0,Australia,England,0.0,0.0,0,0
-84,0,534218,1,8 wickets,0,7-Jul-17,-1,Australia,England,0.5,1.0,0,0
-85,1,560924,0,55 runs,0,7-Jul-17,0,New Zealand,West Indies,0.4,0.6666666666666666,0,0
-86,0,555894,1,4 wickets,0,"Jul 11-12, 2017",0,Canada,Scotland,0.0,0.0,0,0
-87,0,560925,1,88 runs,1,11-Jul-17,0,New Zealand,West Indies,1.0,0.0,0,0
-88,1,564781,1,21 runs,1,21-Jul-17,0,India,Sri Lanka,0.7,0.75,0,0
-89,0,560926,0,24 runs,0,14-Jul-17,0,New Zealand,West Indies,1.0,0.0,0,0
-90,0,560927,0,20 runs,0,16-Jul-17,0,New Zealand,West Indies,0.6666666666666666,0.0,0,0
-91,1,564782,1,9 wickets,0,24-Jul-17,0,India,Sri Lanka,0.6,0.8333333333333334,0,0
-92,0,564783,0,5 wickets,1,28-Jul-17,0,India,Sri Lanka,0.4,0.5,0,0
-93,1,667891,0,157 runs,0,25-May-14,1,England,Sri Lanka,0.0,0.0,0,0
-94,1,667893,0,10 wickets,1,28-May-14,1,England,Sri Lanka,0.0,1.0,0,0
-95,1,667897,1,6 wickets,0,3-Jun-14,1,England,Sri Lanka,0.1,0.75,0,0
-96,1,667895,0,7 runs,0,31-May-14,0,England,Sri Lanka,0.1,0.4,0,0
-97,1,730083,1,75 runs,1,6-Jul-14,0,South Africa,Sri Lanka,0.4444444444444444,0.4,0,0
-98,1,730087,1,82 runs,1,12-Jul-14,0,South Africa,Sri Lanka,1.0,0.0,0,0
-99,0,756035,1,6 wickets,0,18-Jul-14,-1,Afghanistan,Zimbabwe,0.0,0.3333333333333333,0,0
-100,0,730085,0,87 runs,0,9-Jul-14,0,South Africa,Sri Lanka,0.5,0.2857142857142857,0,0
-101,1,756039,0,2 wickets,1,22-Jul-14,-1,Afghanistan,Zimbabwe,0.0,0.6666666666666666,0,0
-102,0,756037,1,8 wickets,0,20-Jul-14,-1,Afghanistan,Zimbabwe,0.0,0.3333333333333333,0,0
-103,0,756041,1,100 runs,1,24-Jul-14,-1,Afghanistan,Zimbabwe,0.3333333333333333,0.3,0,0
-104,0,736437,1,93 runs,1,17-Aug-14,-1,South Africa,Zimbabwe,1.0,0.0,0,0
-105,0,736439,1,61 runs,1,19-Aug-14,-1,South Africa,Zimbabwe,1.0,0.25,0,0
-106,1,730289,0,177 runs,0,22-Aug-14,0,Bangladesh,West Indies,0.4,1.0,0,0
-107,0,730287,1,3 wickets,0,20-Aug-14,0,Bangladesh,West Indies,0.5,0.0,0,0
-108,1,736441,0,7 wickets,1,21-Aug-14,-1,South Africa,Zimbabwe,1.0,0.7142857142857143,0,0
-109,0,736443,1,198 runs,1,25-Aug-14,-1,Australia,Zimbabwe,1.0,0.3333333333333333,0,0
-110,0,730291,0,91 runs,0,25-Aug-14,0,Bangladesh,West Indies,0.3333333333333333,0.0,0,0
-111,0,564784,0,6 wickets,1,31-Jul-17,0,India,Sri Lanka,0.5,0.6,0,0
-112,1,564785,1,20 runs,1,4-Aug-17,0,India,Sri Lanka,0.5,0.6,0,0
-113,0,534229,0,80 runs,0,28-Aug-17,1,England,South Africa,1.0,0.25,0,0
-114,0,745161,0,77 runs,0,26-Aug-14,0,Pakistan,Sri Lanka,0.6,0.2857142857142857,0,0
-115,0,571947,0,66 runs,0,25-Aug-17,0,Afghanistan,Australia,0.0,0.4,0,0
-116,0,571145,0,4 wickets,1,28-Aug-17,-1,Australia,Pakistan,0.8333333333333334,0.3,0,0
-117,1,571146,1,7 wickets,0,31-Aug-17,-1,Australia,Pakistan,0.8888888888888888,0.5555555555555556,0,0
-118,0,534230,0,4 wickets,1,31-Aug-17,0,England,South Africa,0.6666666666666666,0.625,0,0
-119,1,534231,0,6 wickets,1,2-Sep-17,0,England,South Africa,1.0,0.0,0,0
-120,1,534232,1,7 wickets,0,5-Sep-17,1,England,South Africa,0.75,0.5,0,0
-121,1,571147,0,3 wickets,1,3-Sep-17,-1,Australia,Pakistan,0.875,0.4,0,0
-122,0,587472,1,160 runs,1,2-Dec-17,0,Bangladesh,West Indies,0.3333333333333333,0.0,0,0
-123,0,587471,0,7 wickets,1,30-Nov-17,0,Bangladesh,West Indies,0.2857142857142857,0.0,0,0
-124,1,587474,0,75 runs,0,7-Dec-17,1,Bangladesh,West Indies,0.3,0.7,0,0
-125,1,587475,0,2 wickets,1,8-Dec-17,1,Bangladesh,West Indies,0.3,0.8,0,0
-126,0,587473,1,4 wickets,0,5-Dec-17,1,Bangladesh,West Indies,0.3333333333333333,0.5,0,0
-127,0,736445,1,7 wickets,0,27-Aug-14,0,Australia,South Africa,0.6666666666666666,0.5,0,0
-128,0,589308,1,6 wickets,0,30-Dec-17,1,India,Pakistan,0.5,0.6,0,0
-129,0,736447,1,61 runs,1,29-Aug-14,-1,South Africa,Zimbabwe,1.0,0.2,0,0
-130,0,667725,1,6 wickets,0,30-Aug-14,1,England,India,0.1,0.0,0,0
-131,0,736451,1,62 runs,1,2-Sep-14,0,Australia,South Africa,0.6666666666666666,0.4,0,0
-132,0,667727,1,9 wickets,0,2-Sep-14,1,England,India,0.2,1.0,0,0
-133,0,736453,1,63 runs,1,4-Sep-14,-1,South Africa,Zimbabwe,1.0,0.4,0,0
-134,0,667729,1,41 runs,1,5-Sep-14,1,England,India,0.1,0.5,0,0
-135,1,727935,0,7 wickets,1,8-Sep-14,0,Ireland,Scotland,0.6666666666666666,1.0,0,0
-136,1,736449,1,3 wickets,0,31-Aug-14,-1,Australia,Zimbabwe,1.0,0.4,0,0
-137,0,736455,1,6 wickets,0,6-Sep-14,0,Australia,South Africa,0.625,0.5,0,0
-138,0,727939,1,8 wickets,0,12-Sep-14,0,Ireland,Scotland,0.6666666666666666,0.0,0,0
-139,1,727937,0,3 wickets,1,10-Sep-14,0,Ireland,Scotland,1.0,0.0,0,0
-140,1,727919,1,93 runs,1,7-Oct-14,-1,Australia,Pakistan,0.8,0.4,0,0
-141,1,770123,1,48 runs,1,11-Oct-14,1,India,West Indies,1.0,0.0,0,0
-142,1,770121,0,124 runs,0,8-Oct-14,1,India,West Indies,0.7,0.5,0,0
-143,0,727921,0,5 wickets,1,10-Oct-14,0,Australia,Pakistan,0.0,0.0,0,0
-144,0,749771,1,6 wickets,0,21-Oct-14,0,New Zealand,South Africa,0.5,0.0,0,0
-145,0,770127,1,59 runs,1,17-Oct-14,0,India,West Indies,0.6666666666666666,0.0,0,0
-146,1,727923,1,1 run,1,12-Oct-14,-1,Australia,Pakistan,1.0,0.0,0,0
-147,1,749773,0,72 runs,0,24-Oct-14,0,New Zealand,South Africa,0.5,1.0,0,0
-148,1,791635,1,3 wickets,0,9-Nov-14,0,Hong Kong,Papua New Guinea,0.0,0.0,0,0
-149,1,792295,1,153 runs,1,13-Nov-14,1,India,Sri Lanka,0.75,0.0,0,0
-150,0,792289,1,169 runs,1,2-Nov-14,1,India,Sri Lanka,0.7777777777777778,0.0,0,0
-151,0,792291,0,6 wickets,1,6-Nov-14,1,India,Sri Lanka,0.6,0.4,0,0
-152,0,754723,1,32 runs,1,14-Nov-14,1,Australia,South Africa,0.0,0.5,0,0
-153,1,791633,1,4 wickets,0,8-Nov-14,0,Hong Kong,Papua New Guinea,0.0,0.0,0,0
-154,0,792293,0,6 wickets,1,9-Nov-14,0,India,Sri Lanka,0.7,0.0,0,0
-155,1,754725,1,3 wickets,0,16-Nov-14,1,Australia,South Africa,1.0,0.6666666666666666,0,0
-156,1,754727,1,73 runs,1,19-Nov-14,1,Australia,South Africa,0.5,0.0,0,0
-157,0,792297,0,3 wickets,1,16-Nov-14,0,India,Sri Lanka,0.8333333333333334,0.0,0,0
-158,0,760787,1,87 runs,1,21-Nov-14,1,Bangladesh,Zimbabwe,0.5,0.0,0,0
-159,1,760789,1,68 runs,1,23-Nov-14,1,Bangladesh,Zimbabwe,0.5555555555555556,0.2,0,0
-160,0,754729,0,3 wickets,1,21-Nov-14,1,Australia,South Africa,0.75,0.3333333333333333,0,0
-161,0,760791,1,124 runs,1,26-Nov-14,1,Bangladesh,Zimbabwe,0.6,0.6,0,0
-162,1,760793,1,21 runs,1,28-Nov-14,1,Bangladesh,Zimbabwe,0.6,0.5,0,0
-163,1,803795,1,5 wickets,0,28-Nov-14,0,Afghanistan,United Arab Emirates,1.0,0.0,0,0
-164,0,803797,1,6 wickets,0,30-Nov-14,0,Afghanistan,United Arab Emirates,0.6666666666666666,0.0,0,0
-165,0,760795,0,5 wickets,1,1-Dec-14,1,Bangladesh,Zimbabwe,0.0,0.0,0,0
-166,1,750665,1,8 wickets,0,29-Nov-14,0,England,Sri Lanka,0.125,0.3,0,0
-167,1,803799,0,2 wickets,1,2-Dec-14,0,Afghanistan,United Arab Emirates,0.0,1.0,0,0
-168,1,750663,0,25 runs,0,26-Nov-14,0,England,Sri Lanka,0.0,0.6,0,0
-169,1,803801,0,30 runs,0,4-Dec-14,0,Afghanistan,United Arab Emirates,0.5,1.0,0,0
-170,0,742619,1,3 wickets,0,8-Dec-14,0,New Zealand,Pakistan,0.5555555555555556,0.4,0,0
-171,0,742623,0,147 runs,0,14-Dec-14,-1,New Zealand,Pakistan,0.5,0.6666666666666666,0,0
-172,0,742621,0,4 wickets,1,12-Dec-14,-1,New Zealand,Pakistan,0.0,0.5,0,0
-173,1,750669,1,6 wickets,0,7-Dec-14,0,England,Sri Lanka,0.1,0.5,0,0
-174,1,750671,0,5 wickets,1,"Dec 10-11, 2014",0,England,Sri Lanka,0.2,0.2222222222222222,0,0
-175,1,742625,1,7 runs,1,17-Dec-14,-1,New Zealand,Pakistan,0.3333333333333333,1.0,0,0
-176,0,750673,0,90 runs,0,13-Dec-14,0,England,Sri Lanka,0.0,0.5,0,0
-177,1,742627,1,68 runs,1,19-Dec-14,-1,New Zealand,Pakistan,0.5,1.0,0,0
-178,0,434258,1,7 wickets,0,4-Jan-15,1,Bangladesh,Sri Lanka,0.0,0.7,0,0
-179,0,750675,0,87 runs,0,16-Dec-14,0,England,Sri Lanka,0.0,1.0,0,0
-180,0,434259,1,5 wickets,0,5-Jan-15,0,India,Sri Lanka,0.6,0.4,0,0
-181,0,406202,0,5 wickets,1,22-Jan-15,1,Australia,Pakistan,0.6666666666666666,0.4,0,0
-182,0,434263,1,6 wickets,0,11-Jan-15,1,Bangladesh,India,0.0,0.2,0,0
-183,0,434261,1,9 wickets,0,8-Jan-15,1,Bangladesh,Sri Lanka,0.0,0.2,0,0
-184,0,434262,0,8 wickets,1,10-Jan-15,0,India,Sri Lanka,0.0,0.6666666666666666,0,0
-185,0,434264,1,4 wickets,0,13-Jan-15,0,India,Sri Lanka,1.0,0.3333333333333333,0,0
-186,1,434260,1,6 wickets,0,7-Jan-15,1,Bangladesh,India,0.2,0.3,0,0
-187,0,406203,1,140 runs,1,24-Jan-15,1,Australia,Pakistan,0.75,0.0,0,0
-188,1,406204,1,40 runs,1,26-Jan-15,1,Australia,Pakistan,0.8,0.3333333333333333,0,0
-189,1,406205,1,135 runs,1,29-Jan-15,1,Australia,Pakistan,0.8571428571428571,0.6,0,0
-190,0,406193,0,8 wickets,1,9-Feb-15,1,Australia,West Indies,0.9,0.42857142857142855,0,0
-191,0,406192,1,113 runs,1,7-Feb-15,1,Australia,West Indies,0.8888888888888888,0.5,0,0
-192,0,406206,0,2 wickets,1,31-Jan-15,1,Australia,Pakistan,0.8,0.2857142857142857,0,0
-193,0,423784,1,5 wickets,0,8-Feb-15,-1,Bangladesh,New Zealand,0.7142857142857143,1.0,0,0
-194,0,423785,1,3 wickets,0,11-Feb-15,-1,Bangladesh,New Zealand,0.0,0.0,0,0
-195,0,423783,0,146 runs,0,5-Feb-15,-1,Bangladesh,New Zealand,0.8333333333333334,0.8,0,0
-196,0,441781,1,4 wickets,0,18-Feb-15,0,Afghanistan,Canada,1.0,0.6666666666666666,0,0
-197,0,406195,1,50 runs,1,14-Feb-15,1,Australia,West Indies,1.0,0.0,0,0
-198,1,441783,0,80 runs,0,18-Feb-15,0,Kenya,Netherlands,0.5,1.0,0,0
-199,0,441780,1,1 run,1,16-Feb-15,0,Afghanistan,Canada,1.0,0.5,0,0
-200,1,441782,0,6 wickets,1,16-Feb-15,0,Kenya,Netherlands,0.0,1.0,0,0
-201,1,406196,1,125 runs,1,19-Feb-15,1,Australia,West Indies,1.0,0.5,0,0
-202,0,441827,1,1 run,1,21-Feb-15,1,India,South Africa,0.5,0.0,0,0
-203,1,441828,1,153 runs,1,24-Feb-15,1,India,South Africa,0.6,0.0,0,0
-204,0,441829,0,90 runs,0,27-Feb-15,1,India,South Africa,0.6666666666666666,0.5,0,0
-205,1,423791,1,2 wickets,0,3-Mar-15,-1,Australia,New Zealand,0.5,0.25,0,0
-206,0,426420,1,6 wickets,0,28-Feb-15,1,Bangladesh,England,0.5,0.6,0,0
-207,0,426421,1,2 wickets,0,2-Mar-15,1,Bangladesh,England,0.6666666666666666,0.5,0,0
-208,0,439140,0,2 runs,0,4-Mar-15,0,West Indies,Zimbabwe,1.0,0.0,0,0
-209,1,426422,0,45 runs,0,5-Mar-15,1,Bangladesh,England,0.4,0.6666666666666666,0,0
-210,0,439141,0,4 wickets,1,6-Mar-15,0,West Indies,Zimbabwe,0.8571428571428571,0.25,0,0
-211,1,423793,0,6 wickets,1,9-Mar-15,-1,Australia,New Zealand,0.3333333333333333,0.5,0,0
-212,1,423795,0,51 runs,0,13-Mar-15,-1,Australia,New Zealand,0.0,0.0,0,0
-213,0,439142,1,141 runs,1,10-Mar-15,0,West Indies,Zimbabwe,0.0,0.0,0,0
-214,1,439144,0,4 wickets,1,14-Mar-15,0,West Indies,Zimbabwe,1.0,0.5,0,0
-215,1,439143,0,4 wickets,1,12-Mar-15,0,West Indies,Zimbabwe,1.0,0.0,0,0
-216,1,452146,1,6 wickets,0,28-May-15,-1,India,Zimbabwe,1.0,0.4,0,0
-217,0,448370,0,208 runs,0,13-Apr-15,0,Canada,West Indies,0.0,0.0,0,0
-218,1,452147,0,7 wickets,1,30-May-15,0,India,Sri Lanka,0.4,0.7,0,0
-219,1,439148,1,17 runs,1,24-May-15,0,South Africa,West Indies,1.0,0.3333333333333333,0,0
-220,1,439149,1,67 runs,1,28-May-15,0,South Africa,West Indies,1.0,0.0,0,0
-221,1,452148,0,9 wickets,1,1-Jun-15,-1,Sri Lanka,Zimbabwe,0.0,1.0,0,0
-222,0,439150,0,7 wickets,1,30-May-15,0,South Africa,West Indies,1.0,0.0,0,0
-223,0,452149,1,7 wickets,0,3-Jun-15,-1,India,Zimbabwe,0.8333333333333334,0.4,0,0
-224,0,439151,0,1 wicket,1,3-Jun-15,0,South Africa,West Indies,1.0,1.0,0,0
-225,0,452151,1,8 wickets,0,7-Jun-15,-1,Sri Lanka,Zimbabwe,1.0,0.5,0,0
-226,0,452150,1,6 wickets,0,5-Jun-15,0,India,Sri Lanka,0.6,0.5,0,0
-227,1,452152,0,9 wickets,1,9-Jun-15,-1,Sri Lanka,Zimbabwe,0.6666666666666666,0.5,0,0
-228,1,455232,1,6 wickets,0,16-Jun-15,0,Bangladesh,India,0.0,0.5,0,0
-229,0,455231,0,16 runs,0,15-Jun-15,0,Pakistan,Sri Lanka,0.5,0.5,0,0
-230,0,442232,0,6 wickets,1,15-Jun-15,0,Netherlands,Scotland,0.0,1.0,0,0
-231,1,426384,1,39 runs,1,17-Jun-15,0,Australia,Ireland,0.0,1.0,0,0
-232,0,455233,0,126 runs,0,18-Jun-15,0,Bangladesh,Sri Lanka,0.0,0.6,0,0
-233,0,455234,0,3 wickets,1,19-Jun-15,0,India,Pakistan,1.0,0.5,0,0
-234,0,426406,0,7 wickets,1,19-Jun-15,0,England,Scotland,0.0,0.3333333333333333,0,0
-235,1,426387,1,4 wickets,0,22-Jun-15,-1,Australia,England,0.7777777777777778,1.0,0,0
-236,0,455236,1,7 wickets,0,22-Jun-15,0,India,Sri Lanka,0.7,0.4444444444444444,0,0
-237,1,455237,1,81 runs,1,24-Jun-15,0,India,Sri Lanka,0.5,0.4,0,0
-238,0,455235,0,139 runs,0,21-Jun-15,0,Bangladesh,Pakistan,0.0,0.5714285714285714,0,0
-239,1,426388,1,4 wickets,0,24-Jun-15,-1,Australia,England,0.7,0.3333333333333333,0,0
-240,0,426390,1,78 runs,1,30-Jun-15,0,Australia,England,0.4,0.2857142857142857,0,0
-241,0,426389,1,1 wicket,0,27-Jun-15,-1,Australia,England,0.6,0.0,0,0
-242,0,450370,0,6 wickets,1,1-Jul-15,0,Afghanistan,Canada,0.0,0.0,0,0
-243,1,450372,1,1 wicket,0,1-Jul-15,0,Netherlands,Scotland,0.0,0.0,0,0
-244,0,450373,0,39 runs,0,"Jul 3-4, 2015",0,Afghanistan,Ireland,0.0,0.8333333333333334,0,0
-245,1,450371,0,7 wickets,1,1-Jul-15,0,Ireland,Kenya,0.0,0.0,0,0
-246,1,450375,0,117 runs,0,3-Jul-15,0,Kenya,Netherlands,0.5,1.0,0,0
-247,1,426391,1,42 runs,1,3-Jul-15,0,Australia,England,0.4,0.6666666666666666,0,0
-248,1,450378,1,7 wickets,0,5-Jul-15,0,Canada,Netherlands,0.0,0.0,0,0
-249,0,450376,0,1 wicket,1,5-Jul-15,0,Afghanistan,Kenya,0.6666666666666666,0.6666666666666666,0,0
-250,1,450379,1,5 wickets,0,7-Jul-15,0,Canada,Ireland,0.0,0.25,0,0
-251,1,450377,0,5 wickets,1,5-Jul-15,0,Ireland,Scotland,0.5,0.6666666666666666,0,0
-252,1,450381,0,6 wickets,1,7-Jul-15,0,Afghanistan,Netherlands,0.6666666666666666,0.75,0,0
-253,0,450380,0,6 runs,0,7-Jul-15,0,Kenya,Scotland,0.0,1.0,0,0
-254,1,426403,1,6 wickets,0,8-Jul-15,-1,Bangladesh,England,0.3333333333333333,0.3333333333333333,0,0
-255,1,450382,1,2 wickets,0,9-Jul-15,0,Afghanistan,Scotland,0.75,0.2,0,0
-256,1,450385,0,6 wickets,1,10-Jul-15,0,Ireland,Scotland,0.0,1.0,0,0
-257,1,450387,0,3 wickets,1,10-Jul-15,0,Canada,Kenya,0.0,0.0,0,0
-258,0,426404,1,5 runs,1,10-Jul-15,-1,Bangladesh,England,0.0,0.0,0,0
-259,1,450384,1,39 runs,1,9-Jul-15,0,Ireland,Netherlands,1.0,0.3333333333333333,0,0
-260,0,450386,0,5 wickets,1,10-Jul-15,0,Afghanistan,Netherlands,0.0,1.0,0,0
-261,1,426405,0,144 runs,0,12-Jul-15,-1,Bangladesh,England,1.0,0.0,0,0
-262,1,450383,0,6 wickets,1,9-Jul-15,0,Canada,Kenya,0.5,1.0,0,0
-263,0,450105,1,6 wickets,0,20-Jul-15,0,Bangladesh,Netherlands,1.0,0.0,0,0
-264,0,450106,1,7 wickets,0,15-Jul-15,0,Bangladesh,Ireland,0.0,0.0,0,0
-265,1,456664,1,3 wickets,0,13-Aug-15,0,New Zealand,Sri Lanka,0.0,1.0,0,0
-266,0,456662,0,200 runs,0,10-Aug-15,0,India,New Zealand,1.0,0.0,0,0
-267,0,450498,0,9 wickets,1,16-Aug-15,0,Afghanistan,Scotland,0.0,0.0,0,0
-268,0,456663,0,6 wickets,1,16-Aug-15,0,India,Sri Lanka,0.8,0.3333333333333333,0,0
-269,0,464717,1,70 runs,1,16-Aug-15,0,Ireland,Netherlands,0.0,0.0,0,0
-270,0,464720,0,9 wickets,1,18-Aug-15,0,Ireland,Netherlands,1.0,0.0,0,0
-271,1,450501,1,6 wickets,0,17-Aug-15,0,Afghanistan,Scotland,1.0,0.0,0,0
-272,1,456666,1,8 wickets,0,22-Aug-15,0,India,Sri Lanka,0.8,0.5,0,0
-273,1,456665,1,105 runs,1,25-Aug-15,0,India,New Zealand,0.5,0.4,0,0
-274,0,456668,0,74 runs,0,28-Aug-15,0,India,Sri Lanka,0.5,0.5,0,0
-275,1,464724,0,92 runs,0,7-Sep-15,0,Canada,Ireland,0.0,0.0,0,0
-276,0,426428,1,24 runs,1,10-Sep-15,1,England,Pakistan,0.0,0.0,0,0
-277,0,426429,0,4 wickets,1,12-Sep-15,1,England,Pakistan,1.0,0.0,0,0
-278,0,426431,0,38 runs,0,20-Sep-15,0,England,Pakistan,0.8333333333333334,1.0,0,0
-279,1,426432,1,121 runs,1,22-Sep-15,1,England,Pakistan,0.75,0.6666666666666666,0,0
-280,0,474453,1,2 wickets,0,26-Sep-15,-1,Ireland,Zimbabwe,0.0,0.5,0,0
-281,0,474454,1,3 wickets,0,28-Sep-15,-1,Ireland,Zimbabwe,0.0,0.3,0,0
-282,0,474455,1,20 runs,1,30-Sep-15,-1,Ireland,Zimbabwe,0.0,0.4,0,0
-283,0,426430,0,23 runs,0,17-Sep-15,0,England,Pakistan,1.0,0.75,0,0
-284,0,470624,0,92 runs,0,7-Oct-15,0,Afghanistan,Kenya,0.75,0.6666666666666666,0,0
-285,1,476598,0,7 wickets,1,11-Oct-15,1,Bangladesh,New Zealand,0.0,0.7142857142857143,0,0
-286,0,470625,0,6 wickets,1,9-Oct-15,0,Afghanistan,Kenya,0.6,0.5,0,0
-287,1,470626,1,8 wickets,0,11-Oct-15,0,Afghanistan,Kenya,0.0,0.0,0,0
-288,0,463144,0,8 wickets,1,17-Oct-15,1,South Africa,Zimbabwe,1.0,0.0,0,0
-289,1,463143,1,64 runs,1,15-Oct-15,1,South Africa,Zimbabwe,0.0,1.0,0,0
-290,0,464529,1,5 wickets,0,20-Oct-15,-1,Australia,India,0.5,0.0,0,0
-291,1,476600,1,3 runs,1,17-Oct-15,1,Bangladesh,New Zealand,0.6666666666666666,0.5,0,0
-292,0,476599,1,9 runs,1,14-Oct-15,1,Bangladesh,New Zealand,0.5,0.4,0,0
-293,1,461566,1,8 wickets,0,29-Oct-15,1,Pakistan,South Africa,0.4,0.625,0,0
-294,1,463145,1,272 runs,1,22-Oct-15,1,South Africa,Zimbabwe,1.0,0.0,0,0
-295,0,461569,0,1 wicket,1,5-Nov-15,0,Pakistan,South Africa,0.4,0.5555555555555556,0,0
-296,0,461567,0,1 wicket,1,31-Oct-15,1,Pakistan,South Africa,0.3,0.5,0,0
-297,1,461568,0,2 runs,0,2-Nov-15,0,Pakistan,South Africa,0.2,0.5,0,0
-298,1,446957,1,1 wicket,0,3-Nov-15,1,Australia,Sri Lanka,0.3,0.5714285714285714,0,0
-299,0,446959,0,8 wickets,1,7-Nov-15,1,Australia,Sri Lanka,0.3,0.375,0,0
-300,0,461570,0,57 runs,0,8-Nov-15,0,Pakistan,South Africa,0.5,0.7,0,0
-301,0,467883,1,40 runs,1,28-Nov-15,1,India,New Zealand,0.5,0.0,0,0
-302,1,486522,0,6 wickets,1,3-Dec-15,1,Bangladesh,Zimbabwe,0.7,0.4,0,0
-303,1,486520,0,9 runs,0,1-Dec-15,1,Bangladesh,Zimbabwe,1.0,1.0,0,0
-304,1,467885,0,9 wickets,1,4-Dec-15,1,India,New Zealand,0.5,0.0,0,0
-305,1,467886,0,5 wickets,1,7-Dec-15,1,India,New Zealand,0.5555555555555556,0.6,0,0
-306,0,486523,1,65 runs,1,6-Dec-15,1,Bangladesh,Zimbabwe,0.8,0.3,0,0
-307,0,486526,0,6 wickets,1,12-Dec-15,1,Bangladesh,Zimbabwe,0.3333333333333333,1.0,0,0
-308,0,467887,0,8 wickets,1,10-Dec-15,1,India,New Zealand,0.5,0.0,0,0
-309,1,467884,0,8 wickets,1,1-Dec-15,1,India,New Zealand,0.0,0.0,0,0
-310,1,463151,1,1 run,1,15-Jan-16,-1,India,South Africa,0.0,0.0,0,0
-311,0,463150,0,135 runs,0,12-Jan-16,-1,India,South Africa,0.0,0.0,0,0
-312,0,446962,0,6 wickets,1,16-Jan-16,1,Australia,England,0.3333333333333333,0.3333333333333333,0,0
-313,0,463152,0,2 wickets,1,18-Jan-16,-1,India,South Africa,0.3333333333333333,0.0,0,0
-314,0,446963,1,46 runs,1,21-Jan-16,1,Australia,England,0.75,0.0,0,0
-315,0,473923,0,9 wickets,1,22-Jan-16,1,New Zealand,Pakistan,0.6,0.0,0,0
-316,0,446964,0,4 wickets,1,23-Jan-16,1,Australia,England,0.7,1.0,0,0
-317,0,446965,0,21 runs,0,26-Jan-16,1,Australia,England,0.7,0.5,0,0
-318,1,446966,1,51 runs,1,30-Jan-16,1,Australia,England,0.4,0.5,0,0
-319,1,473925,0,43 runs,0,29-Jan-16,1,New Zealand,Pakistan,0.6666666666666666,0.5,0,0
-320,1,473926,1,2 wickets,0,1-Feb-16,1,New Zealand,Pakistan,0.0,0.0,0,0
-321,0,446967,0,2 wickets,1,2-Feb-16,1,Australia,England,0.7142857142857143,1.0,0,0
-322,1,473927,0,41 runs,0,3-Feb-16,1,New Zealand,Pakistan,0.5714285714285714,1.0,0,0
-323,0,473928,1,57 runs,1,5-Feb-16,1,New Zealand,Pakistan,0.5,0.0,0,0
-324,0,464992,1,26 runs,1,6-Feb-16,0,Sri Lanka,West Indies,0.0,0.0,0,0
-325,1,446968,1,57 runs,1,6-Feb-16,1,Australia,England,0.5,0.625,0,0
-326,1,433559,1,10 wickets,0,20-Feb-16,0,Kenya,New Zealand,0.0,0.6666666666666666,0,0
-327,1,433558,0,87 runs,0,19-Feb-16,1,Bangladesh,India,0.3333333333333333,0.5,0,0
-328,1,433561,1,91 runs,1,21-Feb-16,0,Australia,Zimbabwe,0.0,0.0,0,0
-329,0,433560,0,210 runs,0,20-Feb-16,0,Canada,Sri Lanka,0.0,0.3333333333333333,0,0
-330,1,433564,0,7 wickets,1,24-Feb-16,0,South Africa,West Indies,0.0,0.5,0,0
-331,1,433565,0,7 wickets,1,25-Feb-16,0,Australia,New Zealand,0.0,1.0,0,0
-332,0,433562,0,6 wickets,1,22-Feb-16,0,England,Netherlands,0.0,1.0,0,0
-333,0,433563,0,205 runs,0,23-Feb-16,0,Kenya,Pakistan,0.0,0.2,0,0
-334,1,433566,1,27 runs,1,25-Feb-16,1,Bangladesh,Ireland,0.0,0.5,0,0
-335,1,433567,1,11 runs,1,26-Feb-16,0,Pakistan,Sri Lanka,0.6,0.375,0,0
-336,0,433570,0,175 runs,0,28-Feb-16,0,Canada,Zimbabwe,0.0,1.0,0,0
-337,1,433572,1,3 wickets,0,2-Mar-16,0,England,Ireland,0.0,0.5,0,0
-338,1,433569,0,215 runs,0,28-Feb-16,0,Netherlands,West Indies,0.0,0.6666666666666666,0,0
-339,1,433573,0,231 runs,0,3-Mar-16,0,Netherlands,South Africa,0.0,0.75,0,0
-340,1,433571,1,9 wickets,0,1-Mar-16,0,Kenya,Sri Lanka,0.0,0.0,0,0
-341,1,433576,1,9 wickets,0,4-Mar-16,1,Bangladesh,West Indies,0.375,0.6,0,0
-342,0,433574,0,46 runs,0,3-Mar-16,0,Canada,Pakistan,0.0,0.7,0,0
-343,0,433575,0,10 wickets,1,4-Mar-16,0,New Zealand,Zimbabwe,0.75,0.3333333333333333,0,0
-344,1,433581,1,110 runs,1,8-Mar-16,0,New Zealand,Pakistan,0.5,0.6666666666666666,0,0
-345,1,433579,1,6 runs,1,6-Mar-16,0,England,South Africa,0.6,0.5,0,0
-346,1,433578,0,5 wickets,1,6-Mar-16,1,India,Ireland,0.0,0.5,0,0
-347,0,433580,0,5 wickets,1,7-Mar-16,0,Canada,Kenya,0.3333333333333333,0.4,0,0
-348,0,433582,0,5 wickets,1,9-Mar-16,1,India,Netherlands,0.0,0.5,0,0
-349,1,433584,0,44 runs,0,11-Mar-16,0,Ireland,West Indies,0.0,0.0,0,0
-350,1,433585,0,2 wickets,1,11-Mar-16,1,Bangladesh,England,1.0,0.0,0,0
-351,0,433583,1,139 runs,1,10-Mar-16,0,Sri Lanka,Zimbabwe,1.0,0.0,0,0
-352,1,433588,1,60 runs,1,13-Mar-16,0,Australia,Kenya,0.0,0.0,0,0
-353,1,433586,1,3 wickets,0,12-Mar-16,1,India,South Africa,0.0,0.0,0,0
-354,1,433587,0,97 runs,0,13-Mar-16,0,Canada,New Zealand,0.0,0.0,0,0
-355,0,433590,0,6 wickets,1,14-Mar-16,1,Bangladesh,Netherlands,0.0,1.0,0,0
-356,1,433591,0,131 runs,0,15-Mar-16,0,Ireland,South Africa,0.0,0.0,0,0
-357,1,433593,1,18 runs,1,17-Mar-16,0,England,West Indies,0.0,0.5,0,0
-358,0,433592,0,7 wickets,1,16-Mar-16,0,Australia,Canada,0.0,0.0,0,0
-359,1,433595,0,6 wickets,1,18-Mar-16,0,Ireland,Netherlands,1.0,0.0,0,0
-360,0,433597,0,206 runs,0,19-Mar-16,1,Bangladesh,South Africa,0.0,0.4,0,0
-361,0,433594,0,112 runs,0,18-Mar-16,0,New Zealand,Sri Lanka,0.0,0.0,0,0
-362,1,433596,1,4 wickets,0,19-Mar-16,0,Australia,Pakistan,1.0,0.5,0,0
-363,0,433598,0,161 runs,0,20-Mar-16,0,Kenya,Zimbabwe,0.0,0.3333333333333333,0,0
-364,0,433600,0,10 wickets,1,23-Mar-16,0,Pakistan,West Indies,0.6666666666666666,0.4,0,0
-365,1,433601,1,5 wickets,0,24-Mar-16,-1,Australia,India,0.42857142857142855,1.0,0,0
-366,1,433599,1,80 runs,1,20-Mar-16,1,India,West Indies,0.75,0.5,0,0
-367,1,433603,1,10 wickets,0,26-Mar-16,0,England,Sri Lanka,0.0,0.4444444444444444,0,0
-368,1,433602,1,49 runs,1,25-Mar-16,0,New Zealand,South Africa,0.2857142857142857,0.5,0,0
-369,1,433604,1,5 wickets,0,29-Mar-16,0,New Zealand,Sri Lanka,0.0,0.4,0,0
-370,1,433605,1,29 runs,1,30-Mar-16,0,India,Pakistan,0.4,0.4,0,0
-371,0,433606,0,6 wickets,1,2-Apr-16,1,India,Sri Lanka,0.8571428571428571,0.0,0,0
-372,0,503364,0,9 wickets,1,11-Apr-16,-1,Australia,Bangladesh,0.0,0.75,0,0
-373,0,503363,1,60 runs,1,9-Apr-16,-1,Australia,Bangladesh,1.0,0.2,0,0
-374,1,503365,1,66 runs,1,13-Apr-16,-1,Australia,Bangladesh,1.0,0.25,0,0
-375,1,489214,0,7 wickets,1,25-Apr-16,0,Pakistan,West Indies,0.8,0.6666666666666666,0,0
-376,0,489213,0,8 wickets,1,23-Apr-16,0,Pakistan,West Indies,0.5,0.0,0,0
-377,1,489215,0,3 wickets,1,28-Apr-16,0,Pakistan,West Indies,0.8333333333333334,0.0,0,0
-378,1,489217,1,10 wickets,0,5-May-16,0,Pakistan,West Indies,0.8571428571428571,1.0,0,0
-379,1,507996,1,5 wickets,0,30-May-16,0,Ireland,Pakistan,0.0,0.0,0,0
-380,0,489221,0,4 wickets,1,6-Jun-16,0,India,West Indies,0.6,1.0,0,0
-381,1,489224,0,103 runs,0,13-Jun-16,0,India,West Indies,1.0,1.0,0,0
-382,1,489223,0,3 wickets,1,11-Jun-16,0,India,West Indies,1.0,0.0,0,0
-383,0,489225,1,7 wickets,0,16-Jun-16,0,India,West Indies,0.8,1.0,0,0
-384,1,474469,1,6 wickets,0,3-Jul-16,0,England,Sri Lanka,0.1111111111111111,0.75,0,0
-385,1,474468,0,69 runs,0,1-Jul-16,1,England,Sri Lanka,0.0,0.0,0,0
-386,0,504778,0,15 runs,0,28-Jun-16,0,Netherlands,Scotland,0.5,0.0,0,0
-387,1,474471,1,16 runs,1,9-Jul-16,1,England,Sri Lanka,0.1,0.3333333333333333,0,0
-388,1,506208,0,183 runs,0,13-Jul-16,0,Scotland,Sri Lanka,0.0,1.0,0,0
-389,0,506207,1,5 wickets,0,12-Jul-16,0,Ireland,Scotland,1.0,0.0,0,0
-390,1,518203,1,17 runs,1,9-Aug-16,0,Afghanistan,Canada,0.6666666666666666,1.0,0,0
-391,0,522246,1,4 wickets,0,12-Aug-16,-1,Bangladesh,Zimbabwe,0.5,0.0,0,0
-392,0,516206,0,7 wickets,1,10-Aug-16,0,Australia,Sri Lanka,0.0,0.0,0,0
-393,0,522247,1,7 wickets,0,14-Aug-16,-1,Bangladesh,Zimbabwe,0.5,0.0,0,0
-394,0,516207,0,8 wickets,1,14-Aug-16,0,Australia,Sri Lanka,0.75,0.0,0,0
-395,1,522248,0,5 runs,0,16-Aug-16,-1,Bangladesh,Zimbabwe,0.4,0.75,0,0
-396,1,522249,0,6 wickets,1,19-Aug-16,-1,Bangladesh,Zimbabwe,0.3333333333333333,0.6,0,0
-397,0,516209,0,5 wickets,1,20-Aug-16,0,Australia,Sri Lanka,0.4444444444444444,0.6,0,0
-398,0,516210,1,4 wickets,0,22-Aug-16,0,Australia,Sri Lanka,0.5,0.42857142857142855,0,0
-399,1,516208,0,78 runs,0,16-Aug-16,0,Australia,Sri Lanka,0.8,0.5,0,0
-400,0,522250,1,93 runs,1,21-Aug-16,-1,Bangladesh,Zimbabwe,0.42857142857142855,0.25,0,0
-401,1,523732,1,5 runs,1,8-Sep-16,-1,Pakistan,Zimbabwe,0.8,0.3,0,0
-402,1,474478,0,7 wickets,1,6-Sep-16,1,England,India,0.2,0.2,0,0
-403,0,523733,0,10 wickets,1,11-Sep-16,-1,Pakistan,Zimbabwe,0.0,0.0,0,0
-404,0,523734,1,28 runs,1,14-Sep-16,-1,Pakistan,Zimbabwe,1.0,0.0,0,0
-405,1,523483,1,4 wickets,0,13-Sep-16,0,Kenya,Netherlands,0.0,0.0,0,0
-406,0,523805,0,56 runs,0,20-Sep-16,0,Canada,Ireland,0.0,0.25,0,0
-407,1,531983,0,40 runs,0,13-Oct-16,1,Bangladesh,West Indies,0.0,0.6,0,0
-408,1,523804,0,133 runs,0,19-Sep-16,0,Canada,Ireland,0.0,0.3333333333333333,0,0
-409,1,531984,1,8 wickets,0,15-Oct-16,1,Bangladesh,West Indies,0.0,0.5,0,0
-410,1,521219,1,8 wickets,0,17-Oct-16,-1,England,India,0.3333333333333333,1.0,0,0
-411,0,521218,0,126 runs,0,14-Oct-16,0,England,India,1.0,0.0,0,0
-412,1,531985,0,8 wickets,1,18-Oct-16,1,Bangladesh,West Indies,0.0,1.0,0,0
-413,1,521220,1,5 wickets,0,20-Oct-16,0,England,India,0.16666666666666666,0.5,0,0
-414,1,527015,0,4 wickets,1,22-Oct-16,-1,New Zealand,Zimbabwe,1.0,0.5714285714285714,0,0
-415,0,527014,0,9 wickets,1,20-Oct-16,-1,New Zealand,Zimbabwe,0.0,0.5,0,0
-416,1,521221,1,6 wickets,0,23-Oct-16,-1,England,India,0.1111111111111111,0.6666666666666666,0,0
-417,0,514026,0,80 runs,0,23-Oct-16,-1,Australia,South Africa,0.8,0.0,0,0
-418,1,527016,1,1 wicket,0,25-Oct-16,-1,New Zealand,Zimbabwe,1.0,0.4,0,0
-419,0,530428,0,25 runs,0,14-Nov-16,0,Pakistan,Sri Lanka,1.0,0.6666666666666666,0,0
-420,1,521222,0,95 runs,0,25-Oct-16,-1,England,India,0.1,0.25,0,0
-421,0,530427,0,8 wickets,1,11-Nov-16,0,Pakistan,Sri Lanka,0.0,0.5,0,0
-422,1,530430,1,26 runs,1,20-Nov-16,1,Pakistan,Sri Lanka,0.4444444444444444,0.5,0,0
-423,1,530429,1,21 runs,1,18-Nov-16,0,Pakistan,Sri Lanka,0.42857142857142855,0.4,0,0
-424,0,514027,0,3 wickets,1,28-Oct-16,-1,Australia,South Africa,0.5714285714285714,0.5,0,0
-425,0,530431,0,3 wickets,1,23-Nov-16,1,Pakistan,Sri Lanka,0.5,0.0,0,0
-426,1,536929,0,1 wicket,1,29-Nov-16,1,India,West Indies,0.7,0.0,0,0
-427,1,538069,1,5 wickets,0,1-Dec-16,1,Bangladesh,Pakistan,0.0,0.5,0,0
-428,1,536930,0,5 wickets,1,2-Dec-16,1,India,West Indies,0.7142857142857143,0.0,0,0
-429,0,538070,0,76 runs,0,3-Dec-16,1,Bangladesh,Pakistan,0.0,0.4,0,0
-430,1,536932,1,153 runs,1,8-Dec-16,1,India,West Indies,0.7,0.0,0,0
-431,1,536933,1,34 runs,1,11-Dec-16,1,India,West Indies,0.0,0.0,0,0
-432,0,538071,0,58 runs,0,6-Dec-16,1,Bangladesh,Pakistan,0.0,0.5714285714285714,0,0
-433,1,589309,0,85 runs,0,3-Jan-18,1,India,Pakistan,0.6666666666666666,0.2,0,0
-434,1,536931,0,16 runs,0,5-Dec-16,1,India,West Indies,0.6,0.5,0,0
-435,1,589310,1,10 runs,1,6-Jan-18,1,India,Pakistan,0.5,0.5,0,0
-436,1,565812,1,9 runs,1,11-Jan-18,-1,England,India,0.0,0.0,0,0
-437,1,573014,1,107 runs,1,11-Jan-18,1,Australia,Sri Lanka,1.0,1.0,0,0
-438,0,565813,0,127 runs,0,15-Jan-18,-1,England,India,0.5,0.0,0,0
-439,0,573015,1,8 wickets,0,13-Jan-18,1,Australia,Sri Lanka,1.0,0.0,0,0
-440,0,565814,1,7 wickets,0,19-Jan-18,0,England,India,0.25,0.0,0,0
-441,1,567358,0,1 wicket,1,19-Jan-18,-1,New Zealand,South Africa,0.0,0.0,0,0
-442,1,573016,1,4 wickets,0,18-Jan-18,1,Australia,Sri Lanka,0.5714285714285714,0.5,0,0
-443,0,565815,1,5 wickets,0,23-Jan-18,0,England,India,0.14285714285714285,0.3333333333333333,0,0
-444,0,567359,1,27 runs,1,22-Jan-18,0,New Zealand,South Africa,0.3333333333333333,0.0,0,0
-445,0,573018,1,32 runs,1,23-Jan-18,1,Australia,Sri Lanka,0.4,1.0,0,0
-446,1,565816,0,7 wickets,1,27-Jan-18,0,England,India,0.0,0.0,0,0
-447,0,573022,0,9 wickets,1,1-Feb-18,1,Australia,West Indies,0.0,0.0,0,0
-448,1,567360,1,1 wicket,0,25-Jan-18,-1,New Zealand,South Africa,0.3333333333333333,0.0,0,0
-449,0,569240,1,3 wickets,0,17-Feb-18,-1,England,New Zealand,1.0,0.0,0,0
-450,0,573023,1,54 runs,1,3-Feb-18,1,Australia,West Indies,0.8571428571428571,0.6666666666666666,0,0
-451,0,573025,0,5 wickets,1,8-Feb-18,1,Australia,West Indies,0.9,0.6,0,0
-452,1,573024,1,39 runs,1,6-Feb-18,1,Australia,West Indies,0.875,1.0,0,0
-453,0,573026,1,17 runs,1,10-Feb-18,1,Australia,West Indies,1.0,0.0,0,0
-454,1,569241,0,8 wickets,1,20-Feb-18,-1,England,New Zealand,0.3333333333333333,0.6666666666666666,0,0
-455,0,593983,1,156 runs,1,22-Feb-18,0,West Indies,Zimbabwe,1.0,0.5,0,0
-456,1,569242,0,5 wickets,1,23-Feb-18,-1,England,New Zealand,0.5,0.0,0,0
-457,0,593985,0,5 wickets,1,26-Feb-18,0,West Indies,Zimbabwe,1.0,0.5,0,0
-458,0,593984,0,7 wickets,1,24-Feb-18,0,West Indies,Zimbabwe,1.0,0.3333333333333333,0,0
-459,0,592270,0,7 wickets,1,6-Mar-18,0,Afghanistan,Scotland,0.5,0.6,0,0
-460,1,567368,0,125 runs,0,10-Mar-18,-1,Pakistan,South Africa,0.5,0.0,0,0
-461,1,592266,1,6 wickets,0,11-Mar-18,0,Canada,Kenya,1.0,0.0,0,0
-462,1,592271,0,5 wickets,1,8-Mar-18,0,Afghanistan,Scotland,0.6666666666666666,0.6,0,0
-463,1,592267,1,6 wickets,0,13-Mar-18,0,Canada,Kenya,0.5,0.0,0,0
-464,0,567371,0,3 wickets,1,21-Mar-18,-1,Pakistan,South Africa,0.16666666666666666,0.0,0,0
-465,1,567372,1,6 wickets,0,24-Mar-18,-1,Pakistan,South Africa,0.2857142857142857,1.0,0,0
-466,0,623573,1,121 runs,1,3-May-18,-1,Bangladesh,Zimbabwe,0.8,0.3,0,0
-467,1,567370,0,34 runs,0,17-Mar-18,-1,Pakistan,South Africa,0.25,0.0,0,0
-468,1,601077,1,96 runs,1,17-May-18,0,Pakistan,Scotland,0.0,0.5,0,0
-469,0,623575,1,7 wickets,0,8-May-18,-1,Bangladesh,Zimbabwe,0.9,0.3,0,0
-470,0,623574,1,6 wickets,0,5-May-18,-1,Bangladesh,Zimbabwe,0.8,0.3,0,0
-471,0,566923,1,5 wickets,0,31-May-18,0,England,New Zealand,0.6,0.6666666666666666,0,0
-472,0,601613,1,2 wickets,0,26-May-18,0,Ireland,Pakistan,0.0,0.8,0,0
-473,0,602761,0,83 runs,0,31-May-18,0,Netherlands,South Africa,0.0,1.0,0,0
-474,0,566924,0,86 runs,0,2-Jun-18,1,England,New Zealand,0.5,0.0,0,0
-475,0,578614,1,26 runs,1,6-Jun-18,0,India,South Africa,0.5,0.25,0,0
-476,0,566925,1,34 runs,1,5-Jun-18,1,England,New Zealand,0.5,0.0,0,0
-477,0,578615,1,2 wickets,0,7-Jun-18,0,Pakistan,West Indies,0.75,0.3333333333333333,0,0
-478,0,578616,0,48 runs,0,8-Jun-18,-1,Australia,England,0.5,0.4,0,0
-479,0,578618,0,67 runs,0,10-Jun-18,0,Pakistan,South Africa,1.0,0.0,0,0
-480,0,578617,0,1 wicket,1,9-Jun-18,0,New Zealand,Sri Lanka,0.0,0.6,0,0
-481,1,578619,0,8 wickets,1,11-Jun-18,0,India,West Indies,1.0,1.0,0,0
-482,0,578621,1,7 wickets,0,13-Jun-18,0,England,Sri Lanka,0.0,0.0,0,0
-483,0,578624,1,10 runs,1,16-Jun-18,1,England,New Zealand,0.0,0.0,0,0
-484,1,578625,0,20 runs,0,17-Jun-18,0,Australia,Sri Lanka,0.6666666666666666,1.0,0,0
-485,0,597923,1,6 wickets,0,28-Jun-18,0,Sri Lanka,West Indies,0.0,0.5,0,0
-486,1,566946,0,7 wickets,1,19-Jun-18,0,England,South Africa,0.0,0.6666666666666666,0,0
-487,1,566947,0,8 wickets,1,20-Jun-18,0,India,Sri Lanka,0.8,0.5,0,0
-488,1,631136,0,12 runs,0,30-Jun-18,0,Kenya,Scotland,0.0,0.0,0,0
-489,1,566948,0,5 runs,0,23-Jun-18,1,England,India,0.125,0.3333333333333333,0,0
-490,0,597924,1,1 wicket,0,30-Jun-18,0,India,West Indies,0.7,0.4,0,0
-491,1,597925,0,161 runs,0,2-Jul-18,0,India,Sri Lanka,0.875,0.5,0,0
-492,1,631138,1,88 runs,1,7-Jul-18,0,Ireland,Netherlands,1.0,0.2,0,0
-493,1,597929,0,1 wicket,1,11-Jul-18,0,India,Sri Lanka,1.0,0.0,0,0
-494,0,645635,1,126 runs,1,14-Jul-18,0,Pakistan,West Indies,0.0,0.0,0,0
-495,1,645637,0,37 runs,0,16-Jul-18,0,Pakistan,West Indies,1.0,0.0,0,0
-496,1,635653,0,180 runs,0,20-Jul-18,0,South Africa,Sri Lanka,0.75,0.6666666666666666,0,0
-497,1,643665,0,6 wickets,1,24-Jul-18,-1,India,Zimbabwe,1.0,0.625,0,0
-498,1,635655,1,56 runs,1,26-Jul-18,0,South Africa,Sri Lanka,0.5,0.6666666666666666,0,0
-499,1,645643,0,4 wickets,1,24-Jul-18,0,Pakistan,West Indies,0.75,0.5,0,0
-500,0,643667,1,58 runs,1,26-Jul-18,-1,India,Zimbabwe,1.0,0.4,0,0
-501,1,643669,0,7 wickets,1,28-Jul-18,-1,India,Zimbabwe,1.0,0.6,0,0
-502,1,635656,1,8 wickets,0,28-Jul-18,0,South Africa,Sri Lanka,0.5714285714285714,0.75,0,0
-503,1,643675,0,9 wickets,1,1-Aug-18,-1,India,Zimbabwe,0.0,0.0,0,0
-504,0,635657,0,128 runs,0,31-Jul-18,0,South Africa,Sri Lanka,0.5,0.6,0,0
-505,0,659551,1,90 runs,1,29-Aug-18,-1,Pakistan,Zimbabwe,0.6666666666666666,0.3,0,0
-506,1,643677,0,7 wickets,1,3-Aug-18,-1,India,Zimbabwe,0.8,0.7,0,0
-507,1,659549,1,7 wickets,0,27-Aug-18,-1,Pakistan,Zimbabwe,1.0,0.5,0,0
-508,0,660827,1,9 wickets,0,29-Aug-18,0,Canada,Netherlands,0.0,0.0,0,0
-509,0,659553,1,108 runs,1,31-Aug-18,-1,Pakistan,Zimbabwe,0.75,0.3,0,0
-510,0,660837,0,1 wicket,1,6-Sep-18,0,Ireland,Scotland,0.6,1.0,0,0
-511,1,566940,0,6 wickets,1,3-Sep-18,0,England,Ireland,0.0,1.0,0,0
-512,0,566942,1,88 runs,1,8-Sep-18,-1,Australia,England,0.5,0.0,0,0
-513,0,660841,0,7 wickets,1,8-Sep-18,0,Ireland,Scotland,0.7142857142857143,1.0,0,0
-514,0,566939,1,200 runs,1,3-Sep-18,0,Australia,Scotland,0.0,0.5,0,0
-515,0,566944,1,3 wickets,0,14-Sep-18,-1,Australia,England,0.5,0.0,0,0
-516,1,566945,1,49 runs,1,16-Sep-18,-1,Australia,England,0.5,0.0,0,0
-517,0,661891,0,8 wickets,1,2-Oct-18,0,Afghanistan,Kenya,0.0,0.42857142857142855,0,0
-518,1,647249,1,72 runs,1,13-Oct-18,-1,Australia,India,0.0,0.0,0,0
-519,1,647251,1,9 wickets,0,16-Oct-18,-1,Australia,India,0.5,0.0,0,0
-520,1,647253,0,4 wickets,1,19-Oct-18,0,Australia,India,0.5,0.0,0,0
-521,1,661893,0,7 wickets,1,4-Oct-18,0,Afghanistan,Kenya,0.5,0.6,0,0
-522,0,647259,1,6 wickets,0,30-Oct-18,-1,Australia,India,0.4444444444444444,0.25,0,0
-523,1,668957,0,4 wickets,1,3-Nov-18,0,Bangladesh,New Zealand,0.75,0.4,0,0
-524,0,649095,0,68 runs,0,6-Nov-18,1,Pakistan,South Africa,0.5,0.6,0,0
-525,1,647261,0,57 runs,0,2-Nov-18,-1,Australia,India,0.6,0.6666666666666666,0,0
-526,1,649093,1,66 runs,1,1-Nov-18,0,Pakistan,South Africa,0.0,0.0,0,0
-527,1,668955,1,40 runs,1,31-Oct-18,1,Bangladesh,New Zealand,0.8,0.7,0,0
-528,0,649091,0,1 run,0,30-Oct-18,1,Pakistan,South Africa,0.3,0.5,0,0
-529,0,649097,0,28 runs,0,8-Nov-18,1,Pakistan,South Africa,0.4,0.6,0,0
-530,0,649099,0,117 runs,0,11-Nov-18,1,Pakistan,South Africa,0.3333333333333333,1.0,0,0
-531,0,676529,0,6 wickets,1,21-Nov-18,1,India,West Indies,0.7777777777777778,0.0,0,0
-532,1,685731,1,23 runs,1,24-Nov-18,-1,Pakistan,South Africa,0.25,0.0,0,0
-533,0,676531,1,2 wickets,0,24-Nov-18,1,India,West Indies,0.8,0.0,0,0
-534,1,676533,0,5 wickets,1,27-Nov-18,1,India,West Indies,0.7,0.0,0,0
-535,0,685733,1,1 run,1,27-Nov-18,-1,Pakistan,South Africa,0.3333333333333333,1.0,0,0
-536,1,648651,0,141 runs,0,5-Dec-18,-1,India,South Africa,0.5714285714285714,0.3333333333333333,0,0
-537,0,685735,1,4 wickets,0,30-Nov-18,0,Pakistan,South Africa,0.3,0.0,0,0
-538,0,657639,1,2 wickets,0,20-Dec-18,0,Pakistan,Sri Lanka,0.5,0.5714285714285714,0,0
-539,0,657641,1,113 runs,1,22-Dec-18,1,Pakistan,Sri Lanka,0.5,0.5555555555555556,0,0
-540,1,657637,1,11 runs,1,18-Dec-18,1,Pakistan,Sri Lanka,0.4,0.6,0,0
-541,0,661685,1,2 wickets,0,26-Dec-18,1,New Zealand,West Indies,0.5,0.0,0,0
-542,1,657645,1,2 wickets,0,27-Dec-18,1,Pakistan,Sri Lanka,0.6,0.7142857142857143,0,0
-543,0,657643,0,8 wickets,1,25-Dec-18,1,Pakistan,Sri Lanka,0.6,0.16666666666666666,0,0
-544,1,648653,0,134 runs,0,8-Dec-18,-1,India,South Africa,0.5555555555555556,0.6666666666666666,0,0
+0,1,514036,0,5 wickets,1,14-Jan-17,1,South Africa,Sri Lanka,1.0,0.0,18.635454545454547,4.975090909090909
+1,1,514038,1,5 wickets,0,20-Jan-17,0,South Africa,Sri Lanka,1.0,0.0,6.406825633383015,3.848727272727274
+2,1,514035,1,258 runs,1,11-Jan-17,1,South Africa,Sri Lanka,0.0,0.0,17.874545454545462,1.0083368107302526
+3,0,514039,1,2 wickets,0,22-Jan-17,1,South Africa,Sri Lanka,0.6,1.0,5.992280178837568,3.6354545454545395
+4,0,520592,1,90 runs,1,3-Feb-17,1,New Zealand,Zimbabwe,0.6666666666666666,0.0,-2.9322801788375656,4.294181818181819
+5,1,520594,1,202 runs,1,9-Feb-17,1,New Zealand,Zimbabwe,0.8333333333333334,0.3333333333333333,17.524530551415804,4.0495439642324875
+6,0,518957,0,4 wickets,1,8-Feb-17,0,India,Sri Lanka,0.6,0.3333333333333333,22.138181818181824,6.571630402384496
+7,1,518959,1,4 wickets,0,12-Feb-17,1,Australia,India,0.0,0.0,-1.7968107302533554,1.5371833084947824
+8,0,520593,1,141 runs,1,6-Feb-17,0,New Zealand,Zimbabwe,0.8,0.0,-1.6568256333830043,4.0495439642324875
+9,1,545656,1,7 wickets,0,10-Feb-17,-1,Afghanistan,Pakistan,0.0,0.0,-9.817272727272734,-0.5816691505216127
+10,1,531631,1,130 runs,1,13-Feb-17,-1,England,Pakistan,1.0,1.0,-1.7027272727272766,4.365180327868853
+11,0,518958,1,5 runs,1,10-Feb-17,1,Australia,Sri Lanka,1.0,0.0,18.045454545454554,3.0631085444609987
+12,1,531632,1,20 runs,1,15-Feb-17,-1,England,Pakistan,1.0,1.0,1.8309090909090777,3.9553621460506747
+13,0,531633,0,9 wickets,1,18-Feb-17,0,England,Pakistan,0.8,0.5,7.400909090909089,2.393636363636361
+14,1,543882,1,117 runs,1,20-Feb-17,0,Ireland,Kenya,0.5,0.0,14.313636363636348,6.185728763040238
+15,1,543881,1,7 wickets,0,18-Feb-17,0,Ireland,Kenya,1.0,0.0,15.771818181818194,4.828092399403875
+16,1,518962,1,110 runs,1,19-Feb-17,1,Australia,India,0.3333333333333333,0.3333333333333333,-11.044083457526071,1.3379105812220544
+17,0,518963,0,51 runs,0,21-Feb-17,0,India,Sri Lanka,0.8,0.5,1.5686289120715493,5.92308792846498
+18,0,661689,1,159 runs,1,1-Jan-14,1,New Zealand,West Indies,0.0,0.0,16.218628912071537,1.7734053651266812
+19,1,667641,0,24 runs,0,19-Jan-14,-1,India,New Zealand,0.6666666666666666,1.0,-3.227719821162445,3.1733621460506747
+20,0,636159,0,6 wickets,1,12-Jan-14,1,Australia,England,0.0,0.0,8.441818181818185,2.7576333830104325
+21,1,661693,0,203 runs,0,8-Jan-14,1,New Zealand,West Indies,0.3333333333333333,0.6666666666666666,27.826363636363638,0.7884530551415807
+22,0,531634,0,4 wickets,1,21-Feb-17,0,England,Pakistan,0.7142857142857143,0.5,4.607719821162448,2.0199999999999996
+23,0,636160,0,1 wicket,1,17-Jan-14,1,Australia,England,0.6,0.0,6.602727272727265,3.828360655737704
+24,0,636161,0,7 wickets,1,19-Jan-14,1,Australia,England,0.6666666666666666,0.0,8.187272727272731,3.6449061102831593
+25,1,696731,0,170 runs,0,23-Jan-14,0,Canada,Scotland,0.0,1.0,-17.04636363636362,-0.8697257824143065
+26,1,696733,0,4 wickets,1,23-Jan-14,0,Kenya,Netherlands,0.3333333333333333,0.0,11.992742175856918,-4.947362146050672
+27,1,636162,0,57 runs,0,24-Jan-14,1,Australia,England,0.8,0.5,7.805454545454552,4.3609985096870325
+28,1,696747,1,8 wickets,0,28-Jan-14,0,Canada,Netherlands,0.0,0.5,-6.309985096870349,-4.585272727272727
+29,1,667647,1,7 wickets,0,28-Jan-14,-1,India,New Zealand,0.6,0.0,-9.756378539493294,6.571815201192248
+30,1,636163,1,5 runs,1,26-Jan-14,1,Australia,England,0.7,0.0,6.867272727272724,4.3609985096870325
+31,1,696759,1,3 wickets,0,30-Jan-14,0,Kenya,Scotland,0.0,0.6666666666666666,-8.06727272727272,-1.973359165424739
+32,1,696763,1,41 runs,1,1-Feb-14,0,Scotland,United Arab Emirates,0.0,0.0,43.98001490312967,0.0
+33,1,667649,0,87 runs,0,31-Jan-14,-1,India,New Zealand,0.5714285714285714,0.6666666666666666,-11.279538002980612,6.272998509687035
+34,0,690359,1,6 wickets,0,22-Feb-14,1,Bangladesh,Sri Lanka,0.0,0.5,7.300000000000008,-0.2792727272727298
+35,1,690355,0,13 runs,0,17-Feb-14,1,Bangladesh,Sri Lanka,0.0,0.5,16.55044709388971,-0.4059076005961266
+36,0,690357,0,61 runs,0,20-Feb-14,1,Bangladesh,Sri Lanka,0.0,0.6,4.827272727272739,-0.30054545454545334
+37,1,702139,1,4 wickets,0,23-Feb-14,0,Ireland,West Indies,0.0,0.6666666666666666,2.492280178837561,-0.2014545454545491
+38,1,520600,1,6 wickets,0,25-Feb-17,1,New Zealand,South Africa,0.4,0.5,3.315454545454557,-2.482730253353207
+39,1,518964,1,3 wickets,0,24-Feb-17,1,Australia,Sri Lanka,0.4,1.0,1.8572727272727292,7.929907600596124
+40,1,518965,1,87 runs,1,26-Feb-17,1,Australia,India,0.375,0.25,-9.918628912071547,0.3359105812220555
+41,1,518966,0,7 wickets,1,28-Feb-17,0,India,Sri Lanka,0.4,0.3333333333333333,11.625901639344264,6.6768137108792835
+42,0,518967,0,9 runs,0,2-Mar-17,1,Australia,Sri Lanka,0.5,0.4,-2.629999999999999,7.160360655737705
+43,0,520602,1,5 wickets,0,3-Mar-17,1,New Zealand,South Africa,0.375,0.0,3.3731892697466392,-3.679728763040238
+44,0,520601,1,6 wickets,0,2/29/2017,1,New Zealand,South Africa,1.0,0.5,7.559999999999988,-1.646640834575262
+45,1,518969,1,8 wickets,0,6-Mar-17,1,Australia,Sri Lanka,0.3,0.6,15.124545454545444,6.922727272727272
+46,0,518970,1,16 runs,1,8-Mar-17,1,Australia,Sri Lanka,0.4,0.5,1.1572727272727263,6.922727272727272
+47,1,518968,1,15 runs,1,4-Mar-17,1,Australia,Sri Lanka,0.3,0.5714285714285714,7.339999999999989,6.922727272727272
+48,1,535794,0,21 runs,0,11-Mar-17,1,Bangladesh,Pakistan,0.0,0.8333333333333334,3.6945454545454623,-1.553636363636361
+49,0,535795,1,50 runs,1,13-Mar-17,0,India,Sri Lanka,0.6666666666666666,0.3,19.998181818181802,5.564268256333833
+50,1,540168,1,64 runs,1,16-Mar-17,0,Australia,West Indies,1.0,0.3333333333333333,7.0872727272727225,5.9801788375558935
+51,1,535797,0,5 wickets,1,16-Mar-17,1,Bangladesh,India,0.0,0.5,-13.470000000000006,-6.1332667660208635
+52,0,535796,0,6 wickets,1,15-Mar-17,0,Pakistan,Sri Lanka,0.3333333333333333,0.5,-5.3690909090909145,0.34281967213114584
+53,0,535798,0,6 wickets,1,18-Mar-17,0,India,Pakistan,0.0,0.4,9.379999999999999,4.700631892697466
+54,1,540171,0,42 runs,0,23-Mar-17,0,Australia,West Indies,1.0,1.0,-3.1099999999999994,6.507907600596123
+55,0,540172,1,30 runs,1,25-Mar-17,0,Australia,West Indies,0.8333333333333334,0.25,-2.720909090909089,7.370816691505219
+56,1,535800,0,2 runs,0,22-Mar-17,1,Bangladesh,Pakistan,0.0,0.5,0.009090909090900823,-2.4254545454545493
+57,0,710291,0,12 runs,0,25-Feb-14,0,Pakistan,Sri Lanka,0.7,0.0,-3.4854545454545445,2.1949985096870357
+58,0,710293,1,6 wickets,0,26-Feb-14,0,Bangladesh,India,0.25,1.0,11.497272727272744,-7.873269746646798
+59,1,710295,0,72 runs,0,27-Feb-14,0,Afghanistan,Pakistan,0.0,0.3333333333333333,7.330909090909103,-3.8365484351713874
+60,0,710301,1,1 wicket,0,2-Mar-14,0,India,Pakistan,1.0,0.6,-4.702727272727273,4.534724292101341
+61,0,710297,1,2 wickets,0,28-Feb-14,0,India,Sri Lanka,0.4,0.75,-15.58818181818183,6.6768137108792835
+62,1,636534,0,3 wickets,1,2-Mar-14,0,England,West Indies,1.0,0.5,27.312265275707905,3.87436363636364
+63,0,710303,0,129 runs,0,3-Mar-14,0,Afghanistan,Sri Lanka,0.0,0.4,2.2218181818181755,-2.2085484351713873
+64,1,710305,1,3 wickets,0,4-Mar-14,1,Bangladesh,Pakistan,0.0,0.7,2.717719821162447,-2.5667302533532066
+65,1,636533,0,15 runs,0,28-Feb-14,0,England,West Indies,1.0,0.5,26.51454545454545,3.6067272727272766
+66,0,710299,1,32 runs,1,1-Mar-14,0,Afghanistan,Bangladesh,0.0,0.0,10.929090909090906,3.8816641828117255
+67,0,710307,1,8 wickets,0,5-Mar-14,0,Afghanistan,India,0.0,0.4,7.769999999999996,-9.776268256333832
+68,0,636535,1,25 runs,1,5-Mar-14,0,England,West Indies,0.75,0.6,20.51408345752608,1.012000000000004
+69,0,736503,1,70 runs,1,2-May-14,0,Afghanistan,United Arab Emirates,1.0,0.0,37.781371087928456,1.2052831594634839
+70,1,710311,1,5 wickets,0,8-Mar-14,0,Pakistan,Sri Lanka,0.6,0.2,-11.818181818181834,1.6280000000000001
+71,1,706767,0,79 runs,0,6-May-14,0,Ireland,Sri Lanka,0.0,0.2857142857142857,5.786363636363632,-0.4942742175856907
+72,0,736511,1,2 wickets,0,4-May-14,0,Hong Kong,United Arab Emirates,0.0,0.5,-5.24727272727273,-10.847180327868855
+73,1,710309,1,3 wickets,0,6-Mar-14,1,Bangladesh,Sri Lanka,0.0,0.4,-7.397734724292114,-1.211639344262295
+74,1,736497,0,6 wickets,1,1-May-14,0,Afghanistan,Hong Kong,0.0,0.0,31.248643815201184,23.683405365126678
+75,1,543888,1,9 wickets,0,29-Mar-17,0,Afghanistan,Netherlands,1.0,0.6,-2.2913561847988007,-0.4661818181818198
+76,1,543889,0,5 wickets,1,31-Mar-17,0,Afghanistan,Netherlands,0.5,0.5,2.2713710879284648,-0.4661818181818198
+77,0,562440,0,76 runs,0,9-Jun-17,0,Pakistan,Sri Lanka,0.5,0.25,-12.397734724292079,1.6280000000000001
+78,0,562442,0,44 runs,0,16-Jun-17,0,Pakistan,Sri Lanka,0.5,0.5,-12.565901639344268,-0.11645305514158011
+79,1,562443,1,2 wickets,0,18-Jun-17,0,Pakistan,Sri Lanka,0.5,0.6666666666666666,-7.142727272727271,0.9911833084947865
+80,1,534215,0,15 runs,0,29-Jun-17,0,Australia,England,0.5,0.5,3.1645454545454434,4.3609985096870325
+81,1,534210,0,8 wickets,1,19-Jun-17,0,England,West Indies,1.0,0.6,-2.5018181818181837,3.7580000000000027
+82,1,555892,0,59 runs,0,5-Jul-17,0,Afghanistan,Ireland,0.0,0.3333333333333333,2.430909090909097,-2.334181818181822
+83,1,534216,1,6 wickets,0,1-Jul-17,0,Australia,England,0.0,0.0,-1.08545454545456,3.6431743666169893
+84,0,534218,1,8 wickets,0,7-Jul-17,-1,Australia,England,0.5,1.0,-4.8618181818181725,7.165818181818178
+85,1,560924,0,55 runs,0,7-Jul-17,0,New Zealand,West Indies,0.4,0.6666666666666666,-8.707272727272727,0.7884530551415807
+86,0,555894,1,4 wickets,0,"Jul 11-12, 2017",0,Canada,Scotland,0.0,0.0,-23.25453055141579,1.6100029806259322
+87,0,560925,1,88 runs,1,11-Jul-17,0,New Zealand,West Indies,1.0,0.0,-2.3731892697466606,2.885904619970198
+88,1,564781,1,21 runs,1,21-Jul-17,0,India,Sri Lanka,0.7,0.75,12.509538002980637,5.92308792846498
+89,0,560926,0,24 runs,0,14-Jul-17,0,New Zealand,West Indies,1.0,0.0,-10.647734724292107,1.976816691505217
+90,0,560927,0,20 runs,0,16-Jul-17,0,New Zealand,West Indies,0.6666666666666666,0.0,-19.07454545454544,1.8458152011922522
+91,1,564782,1,9 wickets,0,24-Jul-17,0,India,Sri Lanka,0.6,0.8333333333333334,15.445454545454535,7.237907600596127
+92,0,564783,0,5 wickets,1,28-Jul-17,0,India,Sri Lanka,0.4,0.5,11.665007451564822,6.6768137108792835
+93,1,667891,0,157 runs,0,25-May-14,1,England,Sri Lanka,0.0,0.0,-7.137734724292088,2.326181818181823
+94,1,667893,0,10 wickets,1,28-May-14,1,England,Sri Lanka,0.0,1.0,-2.3186438152011775,2.3516363636363664
+95,1,667897,1,6 wickets,0,3-Jun-14,1,England,Sri Lanka,0.1,0.75,-3.9550074515648213,2.3516363636363664
+96,1,667895,0,7 runs,0,31-May-14,0,England,Sri Lanka,0.1,0.4,-2.3140983606557484,-0.24309090909090614
+97,1,730083,1,75 runs,1,6-Jul-14,0,South Africa,Sri Lanka,0.4444444444444444,0.4,1.450909090909093,4.277090909090909
+98,1,730087,1,82 runs,1,12-Jul-14,0,South Africa,Sri Lanka,1.0,0.0,2.0454545454545467,3.6218181818181847
+99,0,756035,1,6 wickets,0,18-Jul-14,-1,Afghanistan,Zimbabwe,0.0,0.3333333333333333,5.935007451564832,2.048456035767508
+100,0,730085,0,87 runs,0,9-Jul-14,0,South Africa,Sri Lanka,0.5,0.2857142857142857,0.9345454545454643,4.283818181818177
+101,1,756039,0,2 wickets,1,22-Jul-14,-1,Afghanistan,Zimbabwe,0.0,0.6666666666666666,-6.0486438152011885,1.8192727272727254
+102,0,756037,1,8 wickets,0,20-Jul-14,-1,Afghanistan,Zimbabwe,0.0,0.3333333333333333,1.3168256333830008,1.2433651266766041
+103,0,756041,1,100 runs,1,24-Jul-14,-1,Afghanistan,Zimbabwe,0.3333333333333333,0.3,5.629090909090909,1.5500894187779402
+104,0,736437,1,93 runs,1,17-Aug-14,-1,South Africa,Zimbabwe,1.0,0.0,0.455007451564839,6.4784590163934475
+105,0,736439,1,61 runs,1,19-Aug-14,-1,South Africa,Zimbabwe,1.0,0.25,-7.507272727272728,6.0479135618479845
+106,1,730289,0,177 runs,0,22-Aug-14,0,Bangladesh,West Indies,0.4,1.0,-7.269999999999996,-0.8634545454545446
+107,0,730287,1,3 wickets,0,20-Aug-14,0,Bangladesh,West Indies,0.5,0.0,-3.435007451564829,0.2625454545454602
+108,1,736441,0,7 wickets,1,21-Aug-14,-1,South Africa,Zimbabwe,1.0,0.7142857142857143,10.20816691505215,6.342366616989565
+109,0,736443,1,198 runs,1,25-Aug-14,-1,Australia,Zimbabwe,1.0,0.3333333333333333,12.948181818181808,10.054274217585693
+110,0,730291,0,91 runs,0,25-Aug-14,0,Bangladesh,West Indies,0.3333333333333333,0.0,-5.616363636363623,-0.8383636363636349
+111,0,564784,0,6 wickets,1,31-Jul-17,0,India,Sri Lanka,0.5,0.6,4.766825633383018,6.649904619970194
+112,1,564785,1,20 runs,1,4-Aug-17,0,India,Sri Lanka,0.5,0.6,0.639552906110282,6.649904619970194
+113,0,534229,0,80 runs,0,28-Aug-17,1,England,South Africa,1.0,0.25,1.6045454545454554,-1.1270909090909065
+114,0,745161,0,77 runs,0,26-Aug-14,0,Pakistan,Sri Lanka,0.6,0.2857142857142857,-13.137272727272727,2.1949985096870357
+115,0,571947,0,66 runs,0,25-Aug-17,0,Afghanistan,Australia,0.0,0.4,4.892727272727278,-8.921183308494786
+116,0,571145,0,4 wickets,1,28-Aug-17,-1,Australia,Pakistan,0.8333333333333334,0.3,7.152727272727276,5.084634873323399
+117,1,571146,1,7 wickets,0,31-Aug-17,-1,Australia,Pakistan,0.8888888888888888,0.5555555555555556,9.600909090909099,5.294727272727272
+118,0,534230,0,4 wickets,1,31-Aug-17,0,England,South Africa,0.6666666666666666,0.625,-1.4799999999999933,-3.727454545454542
+119,1,534231,0,6 wickets,1,2-Sep-17,0,England,South Africa,1.0,0.0,1.2109090909090838,-0.5374545454545476
+120,1,534232,1,7 wickets,0,5-Sep-17,1,England,South Africa,0.75,0.5,-8.075454545454537,-4.520181818181815
+121,1,571147,0,3 wickets,1,3-Sep-17,-1,Australia,Pakistan,0.875,0.4,8.86,5.084634873323399
+122,0,587472,1,160 runs,1,2-Dec-17,0,Bangladesh,West Indies,0.3333333333333333,0.0,-15.41183308494784,0.2625454545454602
+123,0,587471,0,7 wickets,1,30-Nov-17,0,Bangladesh,West Indies,0.2857142857142857,0.0,-20.741385991058127,0.657087928464982
+124,1,587474,0,75 runs,0,7-Dec-17,1,Bangladesh,West Indies,0.3,0.7,-11.423636363636358,0.04345156482861512
+125,1,587475,0,2 wickets,1,8-Dec-17,1,Bangladesh,West Indies,0.3,0.8,-13.247272727272744,0.04345156482861512
+126,0,587473,1,4 wickets,0,5-Dec-17,1,Bangladesh,West Indies,0.3333333333333333,0.5,-10.331356184798818,0.31636065573770367
+127,0,736445,1,7 wickets,0,27-Aug-14,0,Australia,South Africa,0.6666666666666666,0.5,2.4181818181818286,4.159725782414309
+128,0,589308,1,6 wickets,0,30-Dec-17,1,India,Pakistan,0.5,0.6,20.892727272727267,5.048813710879283
+129,0,736447,1,61 runs,1,29-Aug-14,-1,South Africa,Zimbabwe,1.0,0.2,-7.970909090909071,6.31845901639344
+130,0,667725,1,6 wickets,0,30-Aug-14,1,England,India,0.1,0.0,-1.84272727272727,-6.91990461997019
+131,0,736451,1,62 runs,1,2-Sep-14,0,Australia,South Africa,0.6666666666666666,0.4,7.152727272727276,3.5733621460506697
+132,0,667727,1,9 wickets,0,2-Sep-14,1,England,India,0.2,1.0,-6.046810730253348,-2.451997019374069
+133,0,736453,1,63 runs,1,4-Sep-14,-1,South Africa,Zimbabwe,1.0,0.4,-4.749999999999975,8.000545454545453
+134,0,667729,1,41 runs,1,5-Sep-14,1,England,India,0.1,0.5,-5.519090909090917,-7.190903129657226
+135,1,727935,0,7 wickets,1,8-Sep-14,0,Ireland,Scotland,0.6666666666666666,1.0,9.497704918032777,5.4547332339791375
+136,1,736449,1,3 wickets,0,31-Aug-14,-1,Australia,Zimbabwe,1.0,0.4,8.707272727272741,11.111910581222055
+137,0,736455,1,6 wickets,0,6-Sep-14,0,Australia,South Africa,0.625,0.5,12.306363636363642,2.6456363636363633
+138,0,727939,1,8 wickets,0,12-Sep-14,0,Ireland,Scotland,0.6666666666666666,0.0,0.9272578241430658,0.6682682563338247
+139,1,727937,0,3 wickets,1,10-Sep-14,0,Ireland,Scotland,1.0,0.0,1.511803278688518,-1.0256135121708922
+140,1,727919,1,93 runs,1,7-Oct-14,-1,Australia,Pakistan,0.8,0.4,17.194098360655726,5.294727272727272
+141,1,770123,1,48 runs,1,11-Oct-14,1,India,West Indies,1.0,0.0,-4.086363636363629,7.095994038748142
+142,1,770121,0,124 runs,0,8-Oct-14,1,India,West Indies,0.7,0.5,-4.860909090909104,7.826721311475406
+143,0,727921,0,5 wickets,1,10-Oct-14,0,Australia,Pakistan,0.0,0.0,19.83999999999998,5.277269746646791
+144,0,749771,1,6 wickets,0,21-Oct-14,0,New Zealand,South Africa,0.5,0.0,-10.627272727272747,-1.3904590163934358
+145,0,770127,1,59 runs,1,17-Oct-14,0,India,West Indies,0.6666666666666666,0.0,-4.526363636363627,6.0649955290611075
+146,1,727923,1,1 run,1,12-Oct-14,-1,Australia,Pakistan,1.0,0.0,18.46545454545454,6.628813710879285
+147,1,749773,0,72 runs,0,24-Oct-14,0,New Zealand,South Africa,0.5,1.0,-9.5609090909091,-2.482730253353207
+148,1,791635,1,3 wickets,0,9-Nov-14,0,Hong Kong,Papua New Guinea,0.0,0.0,-27.264977645305507,-5.556328862394434
+149,1,792295,1,153 runs,1,13-Nov-14,1,India,Sri Lanka,0.75,0.0,-5.9081967213114694,5.564268256333833
+150,0,792289,1,169 runs,1,2-Nov-14,1,India,Sri Lanka,0.7777777777777778,0.0,-13.555901639344256,5.114906110283162
+151,0,792291,0,6 wickets,1,6-Nov-14,1,India,Sri Lanka,0.6,0.4,-6.752265275707902,6.94781222056632
+152,0,754723,1,32 runs,1,14-Nov-14,1,Australia,South Africa,0.0,0.5,0.5568107302533498,0.3607272727272708
+153,1,791633,1,4 wickets,0,8-Nov-14,0,Hong Kong,Papua New Guinea,0.0,0.0,-24.13496274217585,15.391587183308495
+154,0,792293,0,6 wickets,1,9-Nov-14,0,India,Sri Lanka,0.7,0.0,-3.2345454545454615,6.571630402384496
+155,1,754725,1,3 wickets,0,16-Nov-14,1,Australia,South Africa,1.0,0.6666666666666666,1.6386289120715318,0.8999076005961228
+156,1,754727,1,73 runs,1,19-Nov-14,1,Australia,South Africa,0.5,0.0,2.837719821162441,2.9910879284649745
+157,0,792297,0,3 wickets,1,16-Nov-14,0,India,Sri Lanka,0.8333333333333334,0.0,0.9295380029806211,5.727359165424737
+158,0,760787,1,87 runs,1,21-Nov-14,1,Bangladesh,Zimbabwe,0.5,0.0,2.3868107302533446,2.2292757078986583
+159,1,760789,1,68 runs,1,23-Nov-14,1,Bangladesh,Zimbabwe,0.5555555555555556,0.2,2.5445454545454567,2.374819672131146
+160,0,754729,0,3 wickets,1,21-Nov-14,1,Australia,South Africa,0.75,0.3333333333333333,9.379090909090902,4.2944530551415845
+161,0,760791,1,124 runs,1,26-Nov-14,1,Bangladesh,Zimbabwe,0.6,0.6,13.594545454545468,2.0702771982116204
+162,1,760793,1,21 runs,1,28-Nov-14,1,Bangladesh,Zimbabwe,0.6,0.5,-9.159552906110285,1.0371862891207115
+163,1,803795,1,5 wickets,0,28-Nov-14,0,Afghanistan,United Arab Emirates,1.0,0.0,18.465007451564833,-0.6009905613512174
+164,0,803797,1,6 wickets,0,30-Nov-14,0,Afghanistan,United Arab Emirates,0.6666666666666666,0.0,23.712742175856924,-2.3089463487332367
+165,0,760795,0,5 wickets,1,1-Dec-14,1,Bangladesh,Zimbabwe,0.0,0.0,-14.032742175856914,-20.995454545454546
+166,1,750665,1,8 wickets,0,29-Nov-14,0,England,Sri Lanka,0.125,0.3,-1.9554545454545362,2.3516363636363664
+167,1,803799,0,2 wickets,1,2-Dec-14,0,Afghanistan,United Arab Emirates,0.0,1.0,0.978643815201174,7.672101341281667
+168,1,750663,0,25 runs,0,26-Nov-14,0,England,Sri Lanka,0.0,0.6,-0.1254545454545486,2.537454545454551
+169,1,803801,0,30 runs,0,4-Dec-14,0,Afghanistan,United Arab Emirates,0.5,1.0,11.71090909090908,-3.613809239940391
+170,0,742619,1,3 wickets,0,8-Dec-14,0,New Zealand,Pakistan,0.5555555555555556,0.4,-2.524098360655728,-2.0946378539493296
+171,0,742623,0,147 runs,0,14-Dec-14,-1,New Zealand,Pakistan,0.5,0.6666666666666666,7.501818181818184,0.017362146050672322
+172,0,742621,0,4 wickets,1,12-Dec-14,-1,New Zealand,Pakistan,0.0,0.5,4.029985096870334,-0.6038211624441132
+173,1,750669,1,6 wickets,0,7-Dec-14,0,England,Sri Lanka,0.1,0.5,-10.012727272727282,-0.24309090909090614
+174,1,750671,0,5 wickets,1,"Dec 10-11, 2014",0,England,Sri Lanka,0.2,0.2222222222222222,-7.6781818181818124,-0.8447272727272761
+175,1,742625,1,7 runs,1,17-Dec-14,-1,New Zealand,Pakistan,0.3333333333333333,1.0,6.204992548435175,1.4966348733233978
+176,0,750673,0,90 runs,0,13-Dec-14,0,England,Sri Lanka,0.0,0.5,-5.539090909090927,3.23881967213115
+177,1,742627,1,68 runs,1,19-Dec-14,-1,New Zealand,Pakistan,0.5,1.0,12.184992548435162,1.527269746646791
+178,0,434258,1,7 wickets,0,4-Jan-15,1,Bangladesh,Sri Lanka,0.0,0.7,-1.7445305514158136,-0.9387302533532065
+179,0,750675,0,87 runs,0,16-Dec-14,0,England,Sri Lanka,0.0,1.0,-14.606363636363614,4.844363636363635
+180,0,434259,1,5 wickets,0,5-Jan-15,0,India,Sri Lanka,0.6,0.4,19.462295081967234,6.94781222056632
+181,0,406202,0,5 wickets,1,22-Jan-15,1,Australia,Pakistan,0.6666666666666666,0.4,7.811356184798793,5.7837257824143045
+182,0,434263,1,6 wickets,0,11-Jan-15,1,Bangladesh,India,0.0,0.2,-13.221356184798811,-4.398903129657231
+183,0,434261,1,9 wickets,0,8-Jan-15,1,Bangladesh,Sri Lanka,0.0,0.2,-1.9827272727272671,-1.211639344262295
+184,0,434262,0,8 wickets,1,10-Jan-15,0,India,Sri Lanka,0.0,0.6666666666666666,12.813174366616995,-0.1427950819672148
+185,0,434264,1,4 wickets,0,13-Jan-15,0,India,Sri Lanka,1.0,0.3333333333333333,12.059090909090905,3.9652697466468005
+186,1,434260,1,6 wickets,0,7-Jan-15,1,Bangladesh,India,0.2,0.3,-16.83272727272726,-8.159451564828615
+187,0,406203,1,140 runs,1,24-Jan-15,1,Australia,Pakistan,0.75,0.0,9.139538002980622,5.7837257824143045
+188,1,406204,1,40 runs,1,26-Jan-15,1,Australia,Pakistan,0.8,0.3333333333333333,17.89135618479881,4.49218181818182
+189,1,406205,1,135 runs,1,29-Jan-15,1,Australia,Pakistan,0.8571428571428571,0.6,16.141356184798816,5.084634873323399
+190,0,406193,0,8 wickets,1,9-Feb-15,1,Australia,West Indies,0.9,0.42857142857142855,21.664992548435166,8.177818181818182
+191,0,406192,1,113 runs,1,7-Feb-15,1,Australia,West Indies,0.8888888888888888,0.5,19.306363636363645,8.177818181818182
+192,0,406206,0,2 wickets,1,31-Jan-15,1,Australia,Pakistan,0.8,0.2857142857142857,17.22135618479881,5.294727272727272
+193,0,423784,1,5 wickets,0,8-Feb-15,-1,Bangladesh,New Zealand,0.7142857142857143,1.0,-3.723174366616991,-0.7450014903129656
+194,0,423785,1,3 wickets,0,11-Feb-15,-1,Bangladesh,New Zealand,0.0,0.0,-2.2113561847988095,-1.7848166915052204
+195,0,423783,0,146 runs,0,5-Feb-15,-1,Bangladesh,New Zealand,0.8333333333333334,0.8,-8.565901639344247,-0.8454545454545475
+196,0,441781,1,4 wickets,0,18-Feb-15,0,Afghanistan,Canada,1.0,0.6666666666666666,-0.4213561847987819,2.3038152011922506
+197,0,406195,1,50 runs,1,14-Feb-15,1,Australia,West Indies,1.0,0.0,8.051818181818188,6.822634873323395
+198,1,441783,0,80 runs,0,18-Feb-15,0,Kenya,Netherlands,0.5,1.0,-15.756363636363638,-2.67763636363636
+199,0,441780,1,1 run,1,16-Feb-15,0,Afghanistan,Canada,1.0,0.5,-1.2927421758569437,2.4393621460506694
+200,1,441782,0,6 wickets,1,16-Feb-15,0,Kenya,Netherlands,0.0,1.0,-7.454560357675106,-4.889454545454544
+201,1,406196,1,125 runs,1,19-Feb-15,1,Australia,West Indies,1.0,0.5,15.023621460506718,7.402906110283162
+202,0,441827,1,1 run,1,21-Feb-15,1,India,South Africa,0.5,0.0,16.041818181818183,2.635633383010436
+203,1,441828,1,153 runs,1,24-Feb-15,1,India,South Africa,0.6,0.0,15.346363636363634,3.602453055141588
+204,0,441829,0,90 runs,0,27-Feb-15,1,India,South Africa,0.6666666666666666,0.5,0.26272727272726115,3.8238152011922537
+205,1,423791,1,2 wickets,0,3-Mar-15,-1,Australia,New Zealand,0.5,0.25,19.108181818181826,6.607636363636363
+206,0,426420,1,6 wickets,0,28-Feb-15,1,Bangladesh,England,0.5,0.6,-1.9718181818181861,-3.8481818181818213
+207,0,426421,1,2 wickets,0,2-Mar-15,1,Bangladesh,England,0.6666666666666666,0.5,2.24909090909091,-3.6118181818181796
+208,0,439140,0,2 runs,0,4-Mar-15,0,West Indies,Zimbabwe,1.0,0.0,-19.999985096870333,3.261090909090907
+209,1,426422,0,45 runs,0,5-Mar-15,1,Bangladesh,England,0.4,0.6666666666666666,-2.984992548435198,-0.6956393442623003
+210,0,439141,0,4 wickets,1,6-Mar-15,0,West Indies,Zimbabwe,0.8571428571428571,0.25,-13.930000000000007,3.261090909090907
+211,1,423793,0,6 wickets,1,9-Mar-15,-1,Australia,New Zealand,0.3333333333333333,0.5,16.40181818181818,7.514819672131146
+212,1,423795,0,51 runs,0,13-Mar-15,-1,Australia,New Zealand,0.0,0.0,16.500909090909097,5.62054545454545
+213,0,439142,1,141 runs,1,10-Mar-15,0,West Indies,Zimbabwe,0.0,0.0,-3.570909090909076,-0.6981060606060652
+214,1,439144,0,4 wickets,1,14-Mar-15,0,West Indies,Zimbabwe,1.0,0.5,-12.779090909090904,1.0708226527570766
+215,1,439143,0,4 wickets,1,12-Mar-15,0,West Indies,Zimbabwe,1.0,0.0,-4.417272727272739,0.8674575260804751
+216,1,452146,1,6 wickets,0,28-May-15,-1,India,Zimbabwe,1.0,0.4,-14.088658718330851,9.21054545454545
+217,0,448370,0,208 runs,0,13-Apr-15,0,Canada,West Indies,0.0,0.0,-14.045454545454536,-0.7328534525583699
+218,1,452147,0,7 wickets,1,30-May-15,0,India,Sri Lanka,0.4,0.7,-16.353204172876293,6.6768137108792835
+219,1,439148,1,17 runs,1,24-May-15,0,South Africa,West Indies,1.0,0.3333333333333333,-7.151833084947846,2.24672727272727
+220,1,439149,1,67 runs,1,28-May-15,0,South Africa,West Indies,1.0,0.0,0.13818181818181685,5.039818181818184
+221,1,452148,0,9 wickets,1,1-Jun-15,-1,Sri Lanka,Zimbabwe,0.0,1.0,0.33907600596124965,7.722871336313958
+222,0,439150,0,7 wickets,1,30-May-15,0,South Africa,West Indies,1.0,0.0,7.597719821162457,5.039818181818184
+223,0,452149,1,7 wickets,0,3-Jun-15,-1,India,Zimbabwe,0.8333333333333334,0.4,-24.39137108792847,10.865997019374067
+224,0,439151,0,1 wicket,1,3-Jun-15,0,South Africa,West Indies,1.0,1.0,2.5404470938897283,5.039818181818184
+225,0,452151,1,8 wickets,0,7-Jun-15,-1,Sri Lanka,Zimbabwe,1.0,0.5,-10.01818181818183,4.516181818181817
+226,0,452150,1,6 wickets,0,5-Jun-15,0,India,Sri Lanka,0.6,0.5,-19.7318181818182,6.94781222056632
+227,1,452152,0,9 wickets,1,9-Jun-15,-1,Sri Lanka,Zimbabwe,0.6666666666666666,0.5,1.2509090909091007,4.516181818181817
+228,1,455232,1,6 wickets,0,16-Jun-15,0,Bangladesh,India,0.0,0.5,-16.762727272727272,-6.1332667660208635
+229,0,455231,0,16 runs,0,15-Jun-15,0,Pakistan,Sri Lanka,0.5,0.5,-8.524545454545446,0.34281967213114584
+230,0,442232,0,6 wickets,1,15-Jun-15,0,Netherlands,Scotland,0.0,1.0,4.280000000000015,2.9040692995529014
+231,1,426384,1,39 runs,1,17-Jun-15,0,Australia,Ireland,0.0,1.0,16.266363636363632,6.661087928464976
+232,0,455233,0,126 runs,0,18-Jun-15,0,Bangladesh,Sri Lanka,0.0,0.6,-5.580000000000002,-0.5511803278688525
+233,0,455234,0,3 wickets,1,19-Jun-15,0,India,Pakistan,1.0,0.5,11.197272727272729,4.700631892697466
+234,0,426406,0,7 wickets,1,19-Jun-15,0,England,Scotland,0.0,0.3333333333333333,14.499538002980632,5.5840953800298045
+235,1,426387,1,4 wickets,0,22-Jun-15,-1,Australia,England,0.7777777777777778,1.0,11.459538002980626,4.110816691505217
+236,0,455236,1,7 wickets,0,22-Jun-15,0,India,Sri Lanka,0.7,0.4444444444444444,6.78318926974665,7.237907600596127
+237,1,455237,1,81 runs,1,24-Jun-15,0,India,Sri Lanka,0.5,0.4,7.77454545454545,7.237907600596127
+238,0,455235,0,139 runs,0,21-Jun-15,0,Bangladesh,Pakistan,0.0,0.5714285714285714,-11.896825633383003,-2.078363636363637
+239,1,426388,1,4 wickets,0,24-Jun-15,-1,Australia,England,0.7,0.3333333333333333,13.107272727272726,4.3609985096870325
+240,0,426390,1,78 runs,1,30-Jun-15,0,Australia,England,0.4,0.2857142857142857,15.600909090909088,6.955725782414305
+241,0,426389,1,1 wicket,0,27-Jun-15,-1,Australia,England,0.6,0.0,14.260909090909081,4.3609985096870325
+242,0,450370,0,6 wickets,1,1-Jul-15,0,Afghanistan,Canada,0.0,0.0,22.77363636363636,0.0
+243,1,450372,1,1 wicket,0,1-Jul-15,0,Netherlands,Scotland,0.0,0.0,24.91363636363636,-23.180000000000003
+244,0,450373,0,39 runs,0,"Jul 3-4, 2015",0,Afghanistan,Ireland,0.0,0.8333333333333334,1.9690909090908981,-5.68690909090909
+245,1,450371,0,7 wickets,1,1-Jul-15,0,Ireland,Kenya,0.0,0.0,15.44543964232491,0.0
+246,1,450375,0,117 runs,0,3-Jul-15,0,Kenya,Netherlands,0.5,1.0,-12.18999999999999,-3.743725782414309
+247,1,426391,1,42 runs,1,3-Jul-15,0,Australia,England,0.4,0.6666666666666666,8.858181818181812,4.3609985096870325
+248,1,450378,1,7 wickets,0,5-Jul-15,0,Canada,Netherlands,0.0,0.0,-28.947719821162437,-1.7096333830104342
+249,0,450376,0,1 wicket,1,5-Jul-15,0,Afghanistan,Kenya,0.6666666666666666,0.6666666666666666,14.949090909090916,3.451907600596126
+250,1,450379,1,5 wickets,0,7-Jul-15,0,Canada,Ireland,0.0,0.25,-18.482727272727253,-4.071546944858422
+251,1,450377,0,5 wickets,1,5-Jul-15,0,Ireland,Scotland,0.5,0.6666666666666666,6.734545454545454,3.2661877794336824
+252,1,450381,0,6 wickets,1,7-Jul-15,0,Afghanistan,Netherlands,0.6666666666666666,0.75,-2.1213710879284697,-2.1550879284649795
+253,0,450380,0,6 runs,0,7-Jul-15,0,Kenya,Scotland,0.0,1.0,-4.887272727272737,-2.054354694485845
+254,1,426403,1,6 wickets,0,8-Jul-15,-1,Bangladesh,England,0.3333333333333333,0.3333333333333333,-17.451356184798822,-0.9685484351713889
+255,1,450382,1,2 wickets,0,9-Jul-15,0,Afghanistan,Scotland,0.75,0.2,18.98272727272727,1.1412757078986608
+256,1,450385,0,6 wickets,1,10-Jul-15,0,Ireland,Scotland,0.0,1.0,12.025454545454547,-2.1604694485842053
+257,1,450387,0,3 wickets,1,10-Jul-15,0,Canada,Kenya,0.0,0.0,-4.791818181818158,2.9113561847988088
+258,0,426404,1,5 runs,1,10-Jul-15,-1,Bangladesh,England,0.0,0.0,-6.820000000000004,-4.172049180327871
+259,1,450384,1,39 runs,1,9-Jul-15,0,Ireland,Netherlands,1.0,0.3333333333333333,-9.830000000000013,3.8928226527570757
+260,0,450386,0,5 wickets,1,10-Jul-15,0,Afghanistan,Netherlands,0.0,1.0,10.684083457526093,-9.157160953800297
+261,1,426405,0,144 runs,0,12-Jul-15,-1,Bangladesh,England,1.0,0.0,-7.6227272727272855,-5.488634873323399
+262,1,450383,0,6 wickets,1,9-Jul-15,0,Canada,Kenya,0.5,1.0,-8.566363636363619,2.4223606557377053
+263,0,450105,1,6 wickets,0,20-Jul-15,0,Bangladesh,Netherlands,1.0,0.0,-7.804545454545462,1.2002742175856973
+264,0,450106,1,7 wickets,0,15-Jul-15,0,Bangladesh,Ireland,0.0,0.0,-20.922727272727283,0.47600596125186456
+265,1,456664,1,3 wickets,0,13-Aug-15,0,New Zealand,Sri Lanka,0.0,1.0,4.671356184798803,-1.7301818181818156
+266,0,456662,0,200 runs,0,10-Aug-15,0,India,New Zealand,1.0,0.0,1.1668256333830094,-0.33454793840040153
+267,0,450498,0,9 wickets,1,16-Aug-15,0,Afghanistan,Scotland,0.0,0.0,10.304545454545458,-0.20545454545455044
+268,0,456663,0,6 wickets,1,16-Aug-15,0,India,Sri Lanka,0.8,0.3333333333333333,13.52545454545454,5.727359165424737
+269,0,464717,1,70 runs,1,16-Aug-15,0,Ireland,Netherlands,0.0,0.0,14.939999999999994,-0.2863606557377061
+270,0,464720,0,9 wickets,1,18-Aug-15,0,Ireland,Netherlands,1.0,0.0,15.958181818181824,0.18227421758569307
+271,1,450501,1,6 wickets,0,17-Aug-15,0,Afghanistan,Scotland,1.0,0.0,8.352727272727275,3.5457228017883757
+272,1,456666,1,8 wickets,0,22-Aug-15,0,India,Sri Lanka,0.8,0.5,12.6109090909091,6.889907600596132
+273,1,456665,1,105 runs,1,25-Aug-15,0,India,New Zealand,0.5,0.4,7.699552906110295,5.894545454545458
+274,0,456668,0,74 runs,0,28-Aug-15,0,India,Sri Lanka,0.5,0.5,4.922727272727272,6.6768137108792835
+275,1,464724,0,92 runs,0,7-Sep-15,0,Canada,Ireland,0.0,0.0,-18.157272727272723,-4.630092399403875
+276,0,426428,1,24 runs,1,10-Sep-15,1,England,Pakistan,0.0,0.0,6.390461997019372,2.8464848484848524
+277,0,426429,0,4 wickets,1,12-Sep-15,1,England,Pakistan,1.0,0.0,4.450461997019389,4.283362146050671
+278,0,426431,0,38 runs,0,20-Sep-15,0,England,Pakistan,0.8333333333333334,1.0,-2.109999999999985,2.0199999999999996
+279,1,426432,1,121 runs,1,22-Sep-15,1,England,Pakistan,0.75,0.6666666666666666,-1.7290909090909068,1.6729090909090871
+280,0,474453,1,2 wickets,0,26-Sep-15,-1,Ireland,Zimbabwe,0.0,0.5,4.84545454545454,3.182095380029807
+281,0,474454,1,3 wickets,0,28-Sep-15,-1,Ireland,Zimbabwe,0.0,0.3,2.624545454545455,2.1490044709388982
+282,0,474455,1,20 runs,1,30-Sep-15,-1,Ireland,Zimbabwe,0.0,0.4,-3.2986289120715426,3.6949090909090927
+283,0,426430,0,23 runs,0,17-Sep-15,0,England,Pakistan,1.0,0.75,-6.7918181818181615,3.6465454545454534
+284,0,470624,0,92 runs,0,7-Oct-15,0,Afghanistan,Kenya,0.75,0.6666666666666666,14.36272727272727,1.97690611028316
+285,1,476598,0,7 wickets,1,11-Oct-15,1,Bangladesh,New Zealand,0.0,0.7142857142857143,-9.645454545454541,-1.6729955290611045
+286,0,470625,0,6 wickets,1,9-Oct-15,0,Afghanistan,Kenya,0.6,0.5,24.612712369597606,1.953633383010434
+287,1,470626,1,8 wickets,0,11-Oct-15,0,Afghanistan,Kenya,0.0,0.0,15.660447093889722,5.318542473919521
+288,0,463144,0,8 wickets,1,17-Oct-15,1,South Africa,Zimbabwe,1.0,0.0,3.0204470938897074,6.0479135618479845
+289,1,463143,1,64 runs,1,15-Oct-15,1,South Africa,Zimbabwe,0.0,1.0,-1.9445454545454623,6.365004470938903
+290,0,464529,1,5 wickets,0,20-Oct-15,-1,Australia,India,0.5,0.0,7.854545454545448,1.6588196721311483
+291,1,476600,1,3 runs,1,17-Oct-15,1,Bangladesh,New Zealand,0.6666666666666666,0.5,-15.183174366617006,-2.3225424739195226
+292,0,476599,1,9 runs,1,14-Oct-15,1,Bangladesh,New Zealand,0.5,0.4,-9.986810730253353,-0.8769985096870379
+293,1,461566,1,8 wickets,0,29-Oct-15,1,Pakistan,South Africa,0.4,0.625,-19.746363636363633,-2.1567272727272737
+294,1,463145,1,272 runs,1,22-Oct-15,1,South Africa,Zimbabwe,1.0,0.0,2.7518032786885414,6.446002980625927
+295,0,461569,0,1 wicket,1,5-Nov-15,0,Pakistan,South Africa,0.4,0.5555555555555556,-9.446363636363628,-2.6490909090909085
+296,0,461567,0,1 wicket,1,31-Oct-15,1,Pakistan,South Africa,0.3,0.5,-13.844992548435158,-1.8563636363636355
+297,1,461568,0,2 runs,0,2-Nov-15,0,Pakistan,South Africa,0.2,0.5,-10.601356184798806,-3.0474545454545456
+298,1,446957,1,1 wicket,0,3-Nov-15,1,Australia,Sri Lanka,0.3,0.5714285714285714,1.477719821162431,6.712634873323399
+299,0,446959,0,8 wickets,1,7-Nov-15,1,Australia,Sri Lanka,0.3,0.375,5.802712369597625,6.922727272727272
+300,0,461570,0,57 runs,0,8-Nov-15,0,Pakistan,South Africa,0.5,0.7,-7.934992548435179,-2.6558181818181765
+301,0,467883,1,40 runs,1,28-Nov-15,1,India,New Zealand,0.5,0.0,-7.681818181818183,6.571815201192248
+302,1,486522,0,6 wickets,1,3-Dec-15,1,Bangladesh,Zimbabwe,0.7,0.4,0.613636363636374,2.6926378539493285
+303,1,486520,0,9 runs,0,1-Dec-15,1,Bangladesh,Zimbabwe,1.0,1.0,1.4072727272727406,4.938166915052161
+304,1,467885,0,9 wickets,1,4-Dec-15,1,India,New Zealand,0.5,0.0,0.9063636363636292,6.743180327868853
+305,1,467886,0,5 wickets,1,7-Dec-15,1,India,New Zealand,0.5555555555555556,0.6,-6.211371087928473,7.414450074515649
+306,0,486523,1,65 runs,1,6-Dec-15,1,Bangladesh,Zimbabwe,0.8,0.3,-14.762727272727265,3.7709955290611
+307,0,486526,0,6 wickets,1,12-Dec-15,1,Bangladesh,Zimbabwe,0.3333333333333333,1.0,-14.581818181818171,0.9905484351713838
+308,0,467887,0,8 wickets,1,10-Dec-15,1,India,New Zealand,0.5,0.0,-8.491371087928488,1.6783718330849453
+309,1,467884,0,8 wickets,1,1-Dec-15,1,India,New Zealand,0.0,0.0,-1.8699999999999903,26.899985096870342
+310,1,463151,1,1 run,1,15-Jan-16,-1,India,South Africa,0.0,0.0,6.9086438152011915,0.4036333830104297
+311,0,463150,0,135 runs,0,12-Jan-16,-1,India,South Africa,0.0,0.0,5.676825633383011,1.0988137108792841
+312,0,446962,0,6 wickets,1,16-Jan-16,1,Australia,England,0.3333333333333333,0.3333333333333333,14.861356184798815,0.9079076005961291
+313,0,463152,0,2 wickets,1,18-Jan-16,-1,India,South Africa,0.3333333333333333,0.0,5.668181818181836,1.4152697466467998
+314,0,446963,1,46 runs,1,21-Jan-16,1,Australia,England,0.75,0.0,20.942727272727293,4.110816691505217
+315,0,473923,0,9 wickets,1,22-Jan-16,1,New Zealand,Pakistan,0.6,0.0,22.54681073025336,0.09881371087928414
+316,0,446964,0,4 wickets,1,23-Jan-16,1,Australia,England,0.7,1.0,19.005901639344255,4.110816691505217
+317,0,446965,0,21 runs,0,26-Jan-16,1,Australia,England,0.7,0.5,10.931356184798819,4.3609985096870325
+318,1,446966,1,51 runs,1,30-Jan-16,1,Australia,England,0.4,0.5,9.745454545454539,6.955725782414305
+319,1,473925,0,43 runs,0,29-Jan-16,1,New Zealand,Pakistan,0.6666666666666666,0.5,3.23499254843518,-1.5230014903129643
+320,1,473926,1,2 wickets,0,1-Feb-16,1,New Zealand,Pakistan,0.0,0.0,6.792265275707905,-2.6300000000000026
+321,0,446967,0,2 wickets,1,2-Feb-16,1,Australia,England,0.7142857142857143,1.0,10.175454545454542,4.070178837555886
+322,1,473927,0,41 runs,0,3-Feb-16,1,New Zealand,Pakistan,0.5714285714285714,1.0,12.990909090909085,-1.5230014903129643
+323,0,473928,1,57 runs,1,5-Feb-16,1,New Zealand,Pakistan,0.5,0.0,12.169090909090901,-1.7212757078986591
+324,0,464992,1,26 runs,1,6-Feb-16,0,Sri Lanka,West Indies,0.0,0.0,-4.34090909090909,1.2550909090909101
+325,1,446968,1,57 runs,1,6-Feb-16,1,Australia,England,0.5,0.625,-2.798643815201192,7.165818181818178
+326,1,433559,1,10 wickets,0,20-Feb-16,0,Kenya,New Zealand,0.0,0.6666666666666666,-21.776363636363637,-6.999997019374067
+327,1,433558,0,87 runs,0,19-Feb-16,1,Bangladesh,India,0.3333333333333333,0.5,-26.942727272727257,-5.802450074515647
+328,1,433561,1,91 runs,1,21-Feb-16,0,Australia,Zimbabwe,0.0,0.0,30.128628912071523,10.438456035767512
+329,0,433560,0,210 runs,0,20-Feb-16,0,Canada,Sri Lanka,0.0,0.3333333333333333,-8.600000000000012,-2.588366616989571
+330,1,433564,0,7 wickets,1,24-Feb-16,0,South Africa,West Indies,0.0,0.5,-6.756825633383013,2.213454545454539
+331,1,433565,0,7 wickets,1,25-Feb-16,0,Australia,New Zealand,0.0,1.0,20.63226527570789,6.230456035767514
+332,0,433562,0,6 wickets,1,22-Feb-16,0,England,Netherlands,0.0,1.0,4.141371087928455,4.812092399403877
+333,0,433563,0,205 runs,0,23-Feb-16,0,Kenya,Pakistan,0.0,0.2,-2.079090909090908,-6.415001490312971
+334,1,433566,1,27 runs,1,25-Feb-16,1,Bangladesh,Ireland,0.0,0.5,-17.531818181818192,-1.4998181818181813
+335,1,433567,1,11 runs,1,26-Feb-16,0,Pakistan,Sri Lanka,0.6,0.375,-18.31181818181818,2.1949985096870357
+336,0,433570,0,175 runs,0,28-Feb-16,0,Canada,Zimbabwe,0.0,1.0,-13.520000000000007,-0.9589985096870315
+337,1,433572,1,3 wickets,0,2-Mar-16,0,England,Ireland,0.0,0.5,7.3427272727272594,1.9234545454545433
+338,1,433569,0,215 runs,0,28-Feb-16,0,Netherlands,West Indies,0.0,0.6666666666666666,-8.922727272727272,0.7163606557377058
+339,1,433573,0,231 runs,0,3-Mar-16,0,Netherlands,South Africa,0.0,0.75,-10.021356184798808,-5.527093889716841
+340,1,433571,1,9 wickets,0,1-Mar-16,0,Kenya,Sri Lanka,0.0,0.0,-21.099999999999994,-8.731125186289123
+341,1,433576,1,9 wickets,0,4-Mar-16,1,Bangladesh,West Indies,0.375,0.6,-24.694545454545448,0.31636065573770367
+342,0,433574,0,46 runs,0,3-Mar-16,0,Canada,Pakistan,0.0,0.7,-4.345454545454558,-5.486002980625933
+343,0,433575,0,10 wickets,1,4-Mar-16,0,New Zealand,Zimbabwe,0.75,0.3333333333333333,11.588181818181827,4.422906110283158
+344,1,433581,1,110 runs,1,8-Mar-16,0,New Zealand,Pakistan,0.5,0.6666666666666666,15.192727272727272,-2.0946378539493296
+345,1,433579,1,6 runs,1,6-Mar-16,0,England,South Africa,0.6,0.5,3.9159165424739264,-4.520181818181815
+346,1,433578,0,5 wickets,1,6-Mar-16,1,India,Ireland,0.0,0.5,7.578181818181822,7.44208643815201
+347,0,433580,0,5 wickets,1,7-Mar-16,0,Canada,Kenya,0.3333333333333333,0.4,3.596363636363634,2.4223606557377053
+348,0,433582,0,5 wickets,1,9-Mar-16,1,India,Netherlands,0.0,0.5,10.333636363636373,9.104274217585687
+349,1,433584,0,44 runs,0,11-Mar-16,0,Ireland,West Indies,0.0,0.0,-8.010000000000005,-0.7840705414803786
+350,1,433585,0,2 wickets,1,11-Mar-16,1,Bangladesh,England,1.0,0.0,-16.817272727272737,-5.261907600596128
+351,0,433583,1,139 runs,1,10-Mar-16,0,Sri Lanka,Zimbabwe,1.0,0.0,7.007272727272728,5.366447093889715
+352,1,433588,1,60 runs,1,13-Mar-16,0,Australia,Kenya,0.0,0.0,34.19953800298063,11.129815201192248
+353,1,433586,1,3 wickets,0,12-Mar-16,1,India,South Africa,0.0,0.0,9.536363636363639,0.34345156482861583
+354,1,433587,0,97 runs,0,13-Mar-16,0,Canada,New Zealand,0.0,0.0,-3.0854545454545423,-2.8235461997019407
+355,0,433590,0,6 wickets,1,14-Mar-16,1,Bangladesh,Netherlands,0.0,1.0,-16.194545454545466,-1.2059066070541498
+356,1,433591,0,131 runs,0,15-Mar-16,0,Ireland,South Africa,0.0,0.0,-4.219090909090902,-5.447910581222057
+357,1,433593,1,18 runs,1,17-Mar-16,0,England,West Indies,0.0,0.5,-15.263174366616997,3.7580000000000027
+358,0,433592,0,7 wickets,1,16-Mar-16,0,Australia,Canada,0.0,0.0,26.435901639344248,7.758363636363637
+359,1,433595,0,6 wickets,1,18-Mar-16,0,Ireland,Netherlands,1.0,0.0,3.877272727272736,2.1504560357675153
+360,0,433597,0,206 runs,0,19-Mar-16,1,Bangladesh,South Africa,0.0,0.4,-24.846810730253356,-4.149272727272727
+361,0,433594,0,112 runs,0,18-Mar-16,0,New Zealand,Sri Lanka,0.0,0.0,-5.508181818181818,1.77136214605067
+362,1,433596,1,4 wickets,0,19-Mar-16,0,Australia,Pakistan,1.0,0.5,27.624545454545444,6.03854247391952
+363,0,433598,0,161 runs,0,20-Mar-16,0,Kenya,Zimbabwe,0.0,0.3333333333333333,-8.987272727272739,-2.0554515648286085
+364,0,433600,0,10 wickets,1,23-Mar-16,0,Pakistan,West Indies,0.6666666666666666,0.4,-19.533636363636358,0.7241818181818189
+365,1,433601,1,5 wickets,0,24-Mar-16,-1,Australia,India,0.42857142857142855,1.0,0.678181818181816,0.6919999999999966
+366,1,433599,1,80 runs,1,20-Mar-16,1,India,West Indies,0.75,0.5,10.52500745156484,6.326360655737709
+367,1,433603,1,10 wickets,0,26-Mar-16,0,England,Sri Lanka,0.0,0.4444444444444444,-6.58727272727274,2.537454545454551
+368,1,433602,1,49 runs,1,25-Mar-16,0,New Zealand,South Africa,0.2857142857142857,0.5,-16.415901639344273,-2.482730253353207
+369,1,433604,1,5 wickets,0,29-Mar-16,0,New Zealand,Sri Lanka,0.0,0.4,-4.433636363636367,0.10499850968703583
+370,1,433605,1,29 runs,1,30-Mar-16,0,India,Pakistan,0.4,0.4,21.91818181818181,5.048813710879283
+371,0,433606,0,6 wickets,1,2-Apr-16,1,India,Sri Lanka,0.8571428571428571,0.0,14.872727272727264,5.525907600596128
+372,0,503364,0,9 wickets,1,11-Apr-16,-1,Australia,Bangladesh,0.0,0.75,23.826810730253356,6.089454545454547
+373,0,503363,1,60 runs,1,9-Apr-16,-1,Australia,Bangladesh,1.0,0.2,27.285901639344253,7.783186289120714
+374,1,503365,1,66 runs,1,13-Apr-16,-1,Australia,Bangladesh,1.0,0.25,16.021803278688537,8.246268256333831
+375,1,489214,0,7 wickets,1,25-Apr-16,0,Pakistan,West Indies,0.8,0.6666666666666666,5.906348733233969,2.647907600596124
+376,0,489213,0,8 wickets,1,23-Apr-16,0,Pakistan,West Indies,0.5,0.0,-8.455931445603596,0.7241818181818189
+377,1,489215,0,3 wickets,1,28-Apr-16,0,Pakistan,West Indies,0.8333333333333334,0.0,-8.144098360655747,2.8830909090909103
+378,1,489217,1,10 wickets,0,5-May-16,0,Pakistan,West Indies,0.8571428571428571,1.0,-8.874083457526083,2.8830909090909103
+379,1,507996,1,5 wickets,0,30-May-16,0,Ireland,Pakistan,0.0,0.0,23.043636363636363,-2.122274217585691
+380,0,489221,0,4 wickets,1,6-Jun-16,0,India,West Indies,0.6,1.0,-3.641356184798809,8.20290312965723
+381,1,489224,0,103 runs,0,13-Jun-16,0,India,West Indies,1.0,1.0,-12.656810730253348,7.095994038748142
+382,1,489223,0,3 wickets,1,11-Jun-16,0,India,West Indies,1.0,0.0,-2.3400000000000034,5.335722801788375
+383,0,489225,1,7 wickets,0,16-Jun-16,0,India,West Indies,0.8,1.0,-15.714083457526083,5.955266766020866
+384,1,474469,1,6 wickets,0,3-Jul-16,0,England,Sri Lanka,0.1111111111111111,0.75,-6.581356184798825,2.3516363636363664
+385,1,474468,0,69 runs,0,1-Jul-16,1,England,Sri Lanka,0.0,0.0,-3.2622652757078825,0.0
+386,0,504778,0,15 runs,0,28-Jun-16,0,Netherlands,Scotland,0.5,0.0,-15.236363636363638,3.7155469448584206
+387,1,474471,1,16 runs,1,9-Jul-16,1,England,Sri Lanka,0.1,0.3333333333333333,3.8499999999999943,-0.8447272727272761
+388,1,506208,0,183 runs,0,13-Jul-16,0,Scotland,Sri Lanka,0.0,1.0,-3.8340983606557337,-2.3171803278688543
+389,0,506207,1,5 wickets,0,12-Jul-16,0,Ireland,Scotland,1.0,0.0,0.04773472429209846,0.9247652757078946
+390,1,518203,1,17 runs,1,9-Aug-16,0,Afghanistan,Canada,0.6666666666666666,1.0,16.957734724292106,-0.8164560357675086
+391,0,522246,1,4 wickets,0,12-Aug-16,-1,Bangladesh,Zimbabwe,0.5,0.0,-12.394992548435166,1.0437287630402388
+392,0,516206,0,7 wickets,1,10-Aug-16,0,Australia,Sri Lanka,0.0,0.0,13.035454545454545,3.0961400894187747
+393,0,522247,1,7 wickets,0,14-Aug-16,-1,Bangladesh,Zimbabwe,0.5,0.0,-13.478628912071546,1.160548435171389
+394,0,516207,0,8 wickets,1,14-Aug-16,0,Australia,Sri Lanka,0.75,0.0,15.067719821162445,5.33581818181818
+395,1,522248,0,5 runs,0,16-Aug-16,-1,Bangladesh,Zimbabwe,0.4,0.75,-22.01317436661699,0.9990968703427718
+396,1,522249,0,6 wickets,1,19-Aug-16,-1,Bangladesh,Zimbabwe,0.3333333333333333,0.6,-11.556363636363635,0.8596423248882239
+397,0,516209,0,5 wickets,1,20-Aug-16,0,Australia,Sri Lanka,0.4444444444444444,0.6,3.9645454545454513,7.200998509687036
+398,0,516210,1,4 wickets,0,22-Aug-16,0,Australia,Sri Lanka,0.5,0.42857142857142855,2.574992548435162,7.581907600596129
+399,1,516208,0,78 runs,0,16-Aug-16,0,Australia,Sri Lanka,0.8,0.5,12.858181818181805,5.752271236959764
+400,0,522250,1,93 runs,1,21-Aug-16,-1,Bangladesh,Zimbabwe,0.42857142857142855,0.25,-5.2445454545454595,2.914184798807753
+401,1,523732,1,5 runs,1,8-Sep-16,-1,Pakistan,Zimbabwe,0.8,0.3,1.5422652757078943,6.144181818181817
+402,1,474478,0,7 wickets,1,6-Sep-16,1,England,India,0.2,0.2,5.143636363636379,-7.190903129657226
+403,0,523733,0,10 wickets,1,11-Sep-16,-1,Pakistan,Zimbabwe,0.0,0.0,-2.1681818181818073,2.9114545454545464
+404,0,523734,1,28 runs,1,14-Sep-16,-1,Pakistan,Zimbabwe,1.0,0.0,1.998628912071549,2.275913561847986
+405,1,523483,1,4 wickets,0,13-Sep-16,0,Kenya,Netherlands,0.0,0.0,-2.329090909090901,-7.817545454545453
+406,0,523805,0,56 runs,0,20-Sep-16,0,Canada,Ireland,0.0,0.25,-11.102727272727265,-3.976184798807754
+407,1,531983,0,40 runs,0,13-Oct-16,1,Bangladesh,West Indies,0.0,0.6,-0.9509090909090929,0.4592727272727295
+408,1,523804,0,133 runs,0,19-Sep-16,0,Canada,Ireland,0.0,0.3333333333333333,-15.074098360655736,-3.054637853949334
+409,1,531984,1,8 wickets,0,15-Oct-16,1,Bangladesh,West Indies,0.0,0.5,-6.039999999999999,0.47527272727272774
+410,1,521219,1,8 wickets,0,17-Oct-16,-1,England,India,0.3333333333333333,1.0,8.157734724292109,-2.306995529061105
+411,0,521218,0,126 runs,0,14-Oct-16,0,England,India,1.0,0.0,10.944098360655744,-0.7625424739195168
+412,1,531985,0,8 wickets,1,18-Oct-16,1,Bangladesh,West Indies,0.0,1.0,2.7272727272727337,-0.17799999999999727
+413,1,521220,1,5 wickets,0,20-Oct-16,0,England,India,0.16666666666666666,0.5,1.3640983606557526,-2.451997019374069
+414,1,527015,0,4 wickets,1,22-Oct-16,-1,New Zealand,Zimbabwe,1.0,0.5714285714285714,2.4581669150521748,4.702089418777945
+415,0,527014,0,9 wickets,1,20-Oct-16,-1,New Zealand,Zimbabwe,0.0,0.5,-5.647287630402381,4.47963636363637
+416,1,521221,1,6 wickets,0,23-Oct-16,-1,England,India,0.1111111111111111,0.6666666666666666,-10.98771982116244,-3.668998509687036
+417,0,514026,0,80 runs,0,23-Oct-16,-1,Australia,South Africa,0.8,0.0,4.318628912071535,4.2944530551415845
+418,1,527016,1,1 wicket,0,25-Oct-16,-1,New Zealand,Zimbabwe,1.0,0.4,-9.267272727272704,3.8238181818181793
+419,0,530428,0,25 runs,0,14-Nov-16,0,Pakistan,Sri Lanka,1.0,0.6666666666666666,2.2427272727272722,0.34281967213114584
+420,1,521222,0,95 runs,0,25-Oct-16,-1,England,India,0.1,0.25,-6.141356184798802,-4.025087928464977
+421,0,530427,0,8 wickets,1,11-Nov-16,0,Pakistan,Sri Lanka,0.0,0.5,12.977719821162442,-1.8514515648286185
+422,1,530430,1,26 runs,1,20-Nov-16,1,Pakistan,Sri Lanka,0.4444444444444444,0.5,2.245454545454546,1.4510909090909117
+423,1,530429,1,21 runs,1,18-Nov-16,0,Pakistan,Sri Lanka,0.42857142857142855,0.4,1.9127272727272704,0.9911833084947865
+424,0,514027,0,3 wickets,1,28-Oct-16,-1,Australia,South Africa,0.5714285714285714,0.5,-1.0340983606557188,2.927907600596125
+425,0,530431,0,3 wickets,1,23-Nov-16,1,Pakistan,Sri Lanka,0.5,0.0,-3.5181818181818265,2.1461818181818195
+426,1,536929,0,1 wicket,1,29-Nov-16,1,India,West Indies,0.7,0.0,9.406348733233994,7.931904619970194
+427,1,538069,1,5 wickets,0,1-Dec-16,1,Bangladesh,Pakistan,0.0,0.5,-3.2727272727272734,23.2522652757079
+428,1,536930,0,5 wickets,1,2-Dec-16,1,India,West Indies,0.7142857142857143,0.0,11.395439642324888,5.899087928464983
+429,0,538070,0,76 runs,0,3-Dec-16,1,Bangladesh,Pakistan,0.0,0.4,-7.173189269746647,-3.124545454545455
+430,1,536932,1,153 runs,1,8-Dec-16,1,India,West Indies,0.7,0.0,-2.6309090909090997,8.20290312965723
+431,1,536933,1,34 runs,1,11-Dec-16,1,India,West Indies,0.0,0.0,-0.46318926974663555,5.571947093889722
+432,0,538071,0,58 runs,0,6-Dec-16,1,Bangladesh,Pakistan,0.0,0.5714285714285714,-2.411818181818166,-2.373186289120717
+433,1,589309,0,85 runs,0,3-Jan-18,1,India,Pakistan,0.6666666666666666,0.2,24.322727272727267,5.048813710879283
+434,1,536931,0,16 runs,0,5-Dec-16,1,India,West Indies,0.6,0.5,-6.299090909090907,7.904995529061104
+435,1,589310,1,10 runs,1,6-Jan-18,1,India,Pakistan,0.5,0.5,13.73681073025337,5.31981222056632
+436,1,565812,1,9 runs,1,11-Jan-18,-1,England,India,0.0,0.0,0.695901639344271,0.7697786885245925
+437,1,573014,1,107 runs,1,11-Jan-18,1,Australia,Sri Lanka,1.0,1.0,-14.309999999999988,3.85063785394933
+438,0,565813,0,127 runs,0,15-Jan-18,-1,England,India,0.5,0.0,-3.8640834575260676,-1.0805424739195182
+439,0,573015,1,8 wickets,0,13-Jan-18,1,Australia,Sri Lanka,1.0,0.0,-22.096810730253363,5.610542473919523
+440,0,565814,1,7 wickets,0,19-Jan-18,0,England,India,0.25,0.0,-5.314083457526095,-2.306995529061105
+441,1,567358,0,1 wicket,1,19-Jan-18,-1,New Zealand,South Africa,0.0,0.0,11.19862891207153,-1.7580923994038749
+442,1,573016,1,4 wickets,0,18-Jan-18,1,Australia,Sri Lanka,0.5714285714285714,0.5,-10.549538002980622,6.866089418777943
+443,0,565815,1,5 wickets,0,23-Jan-18,0,England,India,0.14285714285714285,0.3333333333333333,-7.69681073025335,-3.4188166915052207
+444,0,567359,1,27 runs,1,22-Jan-18,0,New Zealand,South Africa,0.3333333333333333,0.0,12.609538002980639,-1.3904590163934358
+445,0,573018,1,32 runs,1,23-Jan-18,1,Australia,Sri Lanka,0.4,1.0,-9.074545454545447,7.929907600596124
+446,1,565816,0,7 wickets,1,27-Jan-18,0,England,India,0.0,0.0,-3.970909090909089,-4.025087928464977
+447,0,573022,0,9 wickets,1,1-Feb-18,1,Australia,West Indies,0.0,0.0,-15.625007451564834,0.0
+448,1,567360,1,1 wicket,0,25-Jan-18,-1,New Zealand,South Africa,0.3333333333333333,0.0,21.43317436661699,-2.482730253353207
+449,0,569240,1,3 wickets,0,17-Feb-18,-1,England,New Zealand,1.0,0.0,-8.706810730253356,2.4677287630402382
+450,0,573023,1,54 runs,1,3-Feb-18,1,Australia,West Indies,0.8571428571428571,0.6666666666666666,-11.711818181818192,7.967725782414309
+451,0,573025,0,5 wickets,1,8-Feb-18,1,Australia,West Indies,0.9,0.6,-2.6090909090909165,8.177818181818182
+452,1,573024,1,39 runs,1,6-Feb-18,1,Australia,West Indies,0.875,1.0,-4.882727272727276,8.177818181818182
+453,0,573026,1,17 runs,1,10-Feb-18,1,Australia,West Indies,1.0,0.0,-5.553636363636368,8.261587183308492
+454,1,569241,0,8 wickets,1,20-Feb-18,-1,England,New Zealand,0.3333333333333333,0.6666666666666666,6.934545454545447,1.1091862891207143
+455,0,593983,1,156 runs,1,22-Feb-18,0,West Indies,Zimbabwe,1.0,0.5,14.095454545454544,3.092730253353203
+456,1,569242,0,5 wickets,1,23-Feb-18,-1,England,New Zealand,0.5,0.0,6.190909090909091,1.9275499254843496
+457,0,593985,0,5 wickets,1,26-Feb-18,0,West Indies,Zimbabwe,1.0,0.5,25.24363636363636,2.1100953800298043
+458,0,593984,0,7 wickets,1,24-Feb-18,0,West Indies,Zimbabwe,1.0,0.3333333333333333,27.01500745156482,4.076092399403876
+459,0,592270,0,7 wickets,1,6-Mar-18,0,Afghanistan,Scotland,0.5,0.6,2.295007451564821,0.9320059612518605
+460,1,567368,0,125 runs,0,10-Mar-18,-1,Pakistan,South Africa,0.5,0.0,-3.873174366616997,-1.842909090909096
+461,1,592266,1,6 wickets,0,11-Mar-18,0,Canada,Kenya,1.0,0.0,-6.702280178837555,3.094465971187283
+462,1,592271,0,5 wickets,1,8-Mar-18,0,Afghanistan,Scotland,0.6666666666666666,0.6,-2.4918181818181786,-0.1047213114754122
+463,1,592267,1,6 wickets,0,13-Mar-18,0,Canada,Kenya,0.5,0.0,2.0790909090909224,2.5069061102831647
+464,0,567371,0,3 wickets,1,21-Mar-18,-1,Pakistan,South Africa,0.16666666666666666,0.0,11.184545454545454,-1.8363636363636324
+465,1,567372,1,6 wickets,0,24-Mar-18,-1,Pakistan,South Africa,0.2857142857142857,1.0,10.977272727272723,-1.48927272727272
+466,0,623573,1,121 runs,1,3-May-18,-1,Bangladesh,Zimbabwe,0.8,0.3,19.113636363636367,2.7427272727272722
+467,1,567370,0,34 runs,0,17-Mar-18,-1,Pakistan,South Africa,0.25,0.0,0.8945454545454652,-4.968816691505221
+468,1,601077,1,96 runs,1,17-May-18,0,Pakistan,Scotland,0.0,0.5,-1.8327272727272614,1.9709120715350217
+469,0,623575,1,7 wickets,0,8-May-18,-1,Bangladesh,Zimbabwe,0.9,0.3,3.1800000000000104,3.304542473919522
+470,0,623574,1,6 wickets,0,5-May-18,-1,Bangladesh,Zimbabwe,0.8,0.3,9.242727272727272,3.5774515648286105
+471,0,566923,1,5 wickets,0,31-May-18,0,England,New Zealand,0.6,0.6666666666666666,-8.02862891207154,-0.6199970193740647
+472,0,601613,1,2 wickets,0,26-May-18,0,Ireland,Pakistan,0.0,0.8,-12.884992548435182,-2.217180327868853
+473,0,602761,0,83 runs,0,31-May-18,0,Netherlands,South Africa,0.0,1.0,0.6172578241430777,-5.226730253353203
+474,0,566924,0,86 runs,0,2-Jun-18,1,England,New Zealand,0.5,0.0,-8.163174366616989,0.880184798807754
+475,0,578614,1,26 runs,1,6-Jun-18,0,India,South Africa,0.5,0.25,1.5368107302533573,2.670721311475411
+476,0,566925,1,34 runs,1,5-Jun-18,1,England,New Zealand,0.5,0.0,-3.623636363636372,-0.14981520119224712
+477,0,578615,1,2 wickets,0,7-Jun-18,0,Pakistan,West Indies,0.75,0.3333333333333333,-4.15727272727273,2.8830909090909103
+478,0,578616,0,48 runs,0,8-Jun-18,-1,Australia,England,0.5,0.4,-1.0390909090909126,7.165818181818178
+479,0,578618,0,67 runs,0,10-Jun-18,0,Pakistan,South Africa,1.0,0.0,5.532727272727282,-0.5377272727272775
+480,0,578617,0,1 wicket,1,9-Jun-18,0,New Zealand,Sri Lanka,0.0,0.6,2.769090909090906,-0.46663785394932944
+481,1,578619,0,8 wickets,1,11-Jun-18,0,India,West Indies,1.0,1.0,-9.330461997019384,5.6086318926974705
+482,0,578621,1,7 wickets,0,13-Jun-18,0,England,Sri Lanka,0.0,0.0,-1.1300000000000026,4.079365126676599
+483,0,578624,1,10 runs,1,16-Jun-18,1,England,New Zealand,0.0,0.0,-0.7045454545454639,3.8608196721311465
+484,1,578625,0,20 runs,0,17-Jun-18,0,Australia,Sri Lanka,0.6666666666666666,1.0,-4.459999999999976,7.358453055141577
+485,0,597923,1,6 wickets,0,28-Jun-18,0,Sri Lanka,West Indies,0.0,0.5,-2.4527272727272766,1.2550909090909101
+486,1,566946,0,7 wickets,1,19-Jun-18,0,England,South Africa,0.0,0.6666666666666666,-1.296363636363644,-0.891725782414305
+487,1,566947,0,8 wickets,1,20-Jun-18,0,India,Sri Lanka,0.8,0.5,-5.359552906110288,5.92308792846498
+488,1,631136,0,12 runs,0,30-Jun-18,0,Kenya,Scotland,0.0,0.0,1.2013710879284787,-1.973359165424739
+489,1,566948,0,5 runs,0,23-Jun-18,1,England,India,0.125,0.3333333333333333,-2.531356184798806,-3.4188166915052207
+490,0,597924,1,1 wicket,0,30-Jun-18,0,India,West Indies,0.7,0.4,3.955901639344262,7.931904619970194
+491,1,597925,0,161 runs,0,2-Jul-18,0,India,Sri Lanka,0.875,0.5,-9.055454545454545,5.525907600596128
+492,1,631138,1,88 runs,1,7-Jul-18,0,Ireland,Netherlands,1.0,0.2,7.519552906110267,2.361913561847988
+493,1,597929,0,1 wicket,1,11-Jul-18,0,India,Sri Lanka,1.0,0.0,7.454545454545439,0.18236065573770688
+494,0,645635,1,126 runs,1,14-Jul-18,0,Pakistan,West Indies,0.0,0.0,-13.08181818181816,1.9594545454545447
+495,1,645637,0,37 runs,0,16-Jul-18,0,Pakistan,West Indies,1.0,0.0,-13.45363636363636,1.2050909090909094
+496,1,635653,0,180 runs,0,20-Jul-18,0,South Africa,Sri Lanka,0.75,0.6666666666666666,-6.262727272727275,3.848727272727274
+497,1,643665,0,6 wickets,1,24-Jul-18,-1,India,Zimbabwe,1.0,0.625,-10.441371087928452,9.77927272727273
+498,1,635655,1,56 runs,1,26-Jul-18,0,South Africa,Sri Lanka,0.5,0.6666666666666666,6.060909090909096,2.9394545454545487
+499,1,645643,0,4 wickets,1,24-Jul-18,0,Pakistan,West Indies,0.75,0.5,-9.109090909090916,0.8083636363636373
+500,0,643667,1,58 runs,1,26-Jul-18,-1,India,Zimbabwe,1.0,0.4,-4.474545454545442,10.515272727272723
+501,1,643669,0,7 wickets,1,28-Jul-18,-1,India,Zimbabwe,1.0,0.6,-7.86818181818181,9.686181818181819
+502,1,635656,1,8 wickets,0,28-Jul-18,0,South Africa,Sri Lanka,0.5714285714285714,0.75,-1.4509090909090823,3.478727272727273
+503,1,643675,0,9 wickets,1,1-Aug-18,-1,India,Zimbabwe,0.0,0.0,-2.6163785394933115,0.0
+504,0,635657,0,128 runs,0,31-Jul-18,0,South Africa,Sri Lanka,0.5,0.6,1.9681818181818187,3.4843636363636357
+505,0,659551,1,90 runs,1,29-Aug-18,-1,Pakistan,Zimbabwe,0.6666666666666666,0.3,-9.401818181818186,4.1617317436661665
+506,1,643677,0,7 wickets,1,3-Aug-18,-1,India,Zimbabwe,0.8,0.7,4.65634873323399,10.053543964232489
+507,1,659549,1,7 wickets,0,27-Aug-18,-1,Pakistan,Zimbabwe,1.0,0.5,-16.444545454545462,5.7872757078986545
+508,0,660827,1,9 wickets,0,29-Aug-18,0,Canada,Netherlands,0.0,0.0,-6.348628912071536,-2.6682742175856937
+509,0,659553,1,108 runs,1,31-Aug-18,-1,Pakistan,Zimbabwe,0.75,0.3,-7.215454545454534,5.8171833084947835
+510,0,660837,0,1 wicket,1,6-Sep-18,0,Ireland,Scotland,0.6,1.0,-4.738628912071533,2.839916542473926
+511,1,566940,0,6 wickets,1,3-Sep-18,0,England,Ireland,0.0,1.0,-17.496810730253344,2.7363636363636346
+512,0,566942,1,88 runs,1,8-Sep-18,-1,Australia,England,0.5,0.0,18.705901639344262,7.165818181818178
+513,0,660841,0,7 wickets,1,8-Sep-18,0,Ireland,Scotland,0.7142857142857143,1.0,9.512265275707904,5.4547332339791375
+514,0,566939,1,200 runs,1,3-Sep-18,0,Australia,Scotland,0.0,0.5,5.074545454545451,9.66654843517139
+515,0,566944,1,3 wickets,0,14-Sep-18,-1,Australia,England,0.5,0.0,24.850447093889713,0.8061818181818126
+516,1,566945,1,49 runs,1,16-Sep-18,-1,Australia,England,0.5,0.0,9.500447093889715,2.3980894187779427
+517,0,661891,0,8 wickets,1,2-Oct-18,0,Afghanistan,Kenya,0.0,0.42857142857142855,21.103636363636348,4.796724292101338
+518,1,647249,1,72 runs,1,13-Oct-18,-1,Australia,India,0.0,0.0,7.3463636363636375,-0.07490611028316607
+519,1,647251,1,9 wickets,0,16-Oct-18,-1,Australia,India,0.5,0.0,6.869090909090904,0.02491207153502728
+520,1,647253,0,4 wickets,1,19-Oct-18,0,Australia,India,0.5,0.0,9.340000000000003,1.3379105812220544
+521,1,661893,0,7 wickets,1,4-Oct-18,0,Afghanistan,Kenya,0.5,0.6,25.42727272727271,2.9168166915052147
+522,0,647259,1,6 wickets,0,30-Oct-18,-1,Australia,India,0.4444444444444444,0.25,8.828181818181818,0.03582116244411537
+523,1,668957,0,4 wickets,1,3-Nov-18,0,Bangladesh,New Zealand,0.75,0.4,17.63046199701937,-1.2180923994038757
+524,0,649095,0,68 runs,0,6-Nov-18,1,Pakistan,South Africa,0.5,0.6,-6.337272727272733,-2.6490909090909085
+525,1,647261,0,57 runs,0,2-Nov-18,-1,Australia,India,0.6,0.6666666666666666,0.3154545454545463,2.045454545454543
+526,1,649093,1,66 runs,1,1-Nov-18,0,Pakistan,South Africa,0.0,0.0,-10.485454545454555,24.46590909090909
+527,1,668955,1,40 runs,1,31-Oct-18,1,Bangladesh,New Zealand,0.8,0.7,11.128181818181798,-1.625543964232488
+528,0,649091,0,1 run,0,30-Oct-18,1,Pakistan,South Africa,0.3,0.5,-10.652727272727265,-1.8260000000000005
+529,0,649097,0,28 runs,0,8-Nov-18,1,Pakistan,South Africa,0.4,0.6,-3.8190909090909315,-2.6558181818181765
+530,0,649099,0,117 runs,0,11-Nov-18,1,Pakistan,South Africa,0.3333333333333333,1.0,-7.061818181818168,-3.255567809239942
+531,0,676529,0,6 wickets,1,21-Nov-18,1,India,West Indies,0.7777777777777778,0.0,3.503174366616996,6.326360655737709
+532,1,685731,1,23 runs,1,24-Nov-18,-1,Pakistan,South Africa,0.25,0.0,-2.4459165424739204,-1.48927272727272
+533,0,676531,1,2 wickets,0,24-Nov-18,1,India,West Indies,0.8,0.0,9.02862891207156,5.849180327868858
+534,1,676533,0,5 wickets,1,27-Nov-18,1,India,West Indies,0.7,0.0,9.96226527570791,7.2679970193740715
+535,0,685733,1,1 run,1,27-Nov-18,-1,Pakistan,South Africa,0.3333333333333333,1.0,-3.5845454545454416,-0.9249090909090896
+536,1,648651,0,141 runs,0,5-Dec-18,-1,India,South Africa,0.5714285714285714,0.3333333333333333,2.1895380029806404,3.165540983606558
+537,0,685735,1,4 wickets,0,30-Nov-18,0,Pakistan,South Africa,0.3,0.0,-9.70818181818182,-2.1567272727272737
+538,0,657639,1,2 wickets,0,20-Dec-18,0,Pakistan,Sri Lanka,0.5,0.5714285714285714,-2.0554545454545448,0.5801818181818206
+539,0,657641,1,113 runs,1,22-Dec-18,1,Pakistan,Sri Lanka,0.5,0.5555555555555556,-2.155454545454546,1.4510909090909117
+540,1,657637,1,11 runs,1,18-Dec-18,1,Pakistan,Sri Lanka,0.4,0.6,-3.4345454545454572,-0.7431803278688527
+541,0,661685,1,2 wickets,0,26-Dec-18,1,New Zealand,West Indies,0.5,0.0,22.31363636363638,1.1403606557377053
+542,1,657645,1,2 wickets,0,27-Dec-18,1,Pakistan,Sri Lanka,0.6,0.7142857142857143,4.213636363636347,2.406271236959764
+543,0,657643,0,8 wickets,1,25-Dec-18,1,Pakistan,Sri Lanka,0.6,0.16666666666666666,-0.8372727272727332,3.206998509687029
+544,1,648653,0,134 runs,0,8-Dec-18,-1,India,South Africa,0.5555555555555556,0.6666666666666666,-6.508181818181807,2.670721311475411

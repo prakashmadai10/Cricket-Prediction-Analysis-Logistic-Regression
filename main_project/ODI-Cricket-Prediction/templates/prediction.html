@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<title>ODI Cricket Analysis and Prediction</title>
+
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
@@ -27,7 +28,20 @@
 	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css')}}">
 <!--===============================================================================================-->
 
+
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+<style type="text/css">
+
+
 	<style>
+
+	.card{
+	height: 450px;
+
+	}
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -56,6 +70,8 @@ body {
   background-color: #4CAF50;
   color: white;
 }
+
+
 </style>
 
 </head>
@@ -99,17 +115,23 @@ body {
 </form>
 	<div class="background-wrap">
 		<video preload="auto" autoplay="true" loop="loop" muted="muted" class="video">
-			<source src="{{url_for('static',filename='video/nepal1.mp4')}}" type="video/mp4">
+			<source src="{{url_for('static',filename='video/stump.mp4')}}" type="video/mp4">
 				not supported
-		</video>
+		</video>	
 		</div>
-
+	
 	<div class="container-contact100">
 		<div class="wrap-contact100">
+
+
 			<form class="contact100-form validate-form" method="post" action="prediction">
+
 				<span class="contact100-form-title">
 					CRICKET PREDICTION
 				</span>
+
+
+
 
 				<label class="label-input100">First Team *</label>
 				<div class="wrap-input100 rs1 validate-input">
@@ -129,7 +151,10 @@ body {
 					</select>
 
 					<span class="focus-input100"></span>
-				</div>
+			</div>
+
+
+
 
 				<label class="label-input100">Second team *</label>
 				<div class="wrap-input100 rs1 validate-input">
@@ -191,8 +216,12 @@ body {
 								</a>
 						</span>
 					</button>
+
 				</div>
 			</form>
+		</div>
+			</div>
+
 		</div>
 	</div>
 
