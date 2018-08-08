@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b50ceb06-39b8-4f7f-b0a3-b1a75d77ac97" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/LogisticRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/LogisticRegression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +28,8 @@
       <file leaf-file-name="LogisticRegression.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="140">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -337,13 +335,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527831729742</updated>
-    </task>
-    <task id="LOCAL-00012" summary="minor changes">
-      <created>1531305908606</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1531305908606</updated>
     </task>
     <task id="LOCAL-00013" summary="Model saved using pickle library">
       <created>1531306359011</created>
@@ -681,7 +672,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533640804099</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="latest form and stregth added and accuracy increased">
+      <created>1533706737833</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1533706737834</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -728,7 +726,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18005952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18005952" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.32843137" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.10491072" side_tool="true" weight="0.3496732" />
@@ -1153,8 +1151,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="140">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
