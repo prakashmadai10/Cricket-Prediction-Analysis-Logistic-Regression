@@ -141,6 +141,7 @@ def Classifier(df1):
 
     accuracy = cnt / len(predictions)
     print("Test Accuracy is :", accuracy*100)
+    print('The weights of Toss, Toss_Decision, Venue, HTH, WinningPerDes, Strength, latest_form, Winner are :')
     print(alg.weight)
 
 def bat_debut():
@@ -172,9 +173,7 @@ def bat_debut():
     for index, row in debutant_bowl.iterrows():
         runs_conceded = runs_conceded + int(row['Runs_Conceded'])
         wickts_taken = wickts_taken + int(row['Wkts_Taken'])
-    # print row['Wkts_Taken'],row['Runs_Conceded']
 
-    # print runs_conceded,wickts_taken
     bowl_avg = runs_conceded / wickts_taken
 
     return avg, bowl_avg
@@ -221,32 +220,7 @@ def Scoringfn(df1, bat_avg, bowl_avg):
             top_B = top_B + float(row['Bowl_Avg'])
         power_B = total_B / 11
         power_B1=top_B/11
-        # print power_A, power_B
 
-        # bowling avg of 6 bowlers
-
-        #teamA_list = teamA_list.sort_values(by=['Wkts_Taken'])
-        #top_bowl_A = teamA_list.head(6)
-
-        # teamB_list[['Bowl_Avg']] = teamB_list[['Bowl_Avg']].astype(float)
-        #teamB_list = teamB_list.sort_values(by='Wkts_Taken', ascending=0)
-        #top_bowl_B = teamB_list.head(6)
-
-        #top_A = 0.0
-        #top_B = 0.0
-        ##   top_A = top_A + float(row['Bowl_Avg'])
-        # print row.Wkts_Taken, row.Bowl_Avg, row.Five_Wkts_Hawl
-        #top_A = top_A / 6
-
-        # print top_A
-
-        ##   top_B = top_B + float(row['Bowl_Avg'])
-        # print row.Wkts_Taken, row.Bowl_Avg, row.Five_Wkts_Hawl
-        #top_B = top_B / 6
-
-        # print top_B
-
-        # strngth=power_A-top_B + top_A-power_B
         strngth = (power_A - power_A1) - (power_B - power_B1)
 
         df1.iloc[i, 11] = strngth
@@ -329,8 +303,6 @@ Toss(df1)
 WinningPerDes(df1)
 HomeTeam(df1)
 bat_avg, bowl_avg = bat_debut()
-print(bat_avg)
-print(bowl_avg)
 Scoringfn(df1, bat_avg, bowl_avg)
 latest_form(df1, bat_avg)
 Classifier(df1)

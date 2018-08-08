@@ -1,12 +1,13 @@
 import numpy as np
 
 class LogisticRegressionScratch(object):
+    #num_iter=no of training iteration
     def __init__(self, lr=0.01, num_iter=300, fit_intercept=True, verbose=False):
         self.lr = lr
         self.num_iter = num_iter
         self.fit_intercept = fit_intercept
         self.verbose = verbose
-
+#add decision boundary to our graph
     def __add_intercept(self, X):
         intercept = np.ones((X.shape[0], 1))
         return np.concatenate((intercept, X), axis=1)
@@ -24,10 +25,10 @@ class LogisticRegressionScratch(object):
         self.weight = np.zeros(X.shape[1])
 
         for i in range(self.num_iter):
-            z = np.dot(X, self.weight)
-            h = self.__sigmoid(z)
-            gradient = np.dot(X.T, (h - y)) / y.size
-            self.weight -= self.lr * gradient
+            z = np.dot(X, self.weight) #z=wX is linear equation
+            h = self.__sigmoid(z) #h=g(z)
+            gradient = np.dot(X.T, (h - y)) / y.size #partial derivative i.e gradient descent formula
+            self.weight -= self.lr * gradient #updating weights
 
             z = np.dot(X, self.weight)
             h = self.__sigmoid(z)

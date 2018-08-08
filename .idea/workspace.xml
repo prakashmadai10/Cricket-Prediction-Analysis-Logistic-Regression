@@ -3,16 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b50ceb06-39b8-4f7f-b0a3-b1a75d77ac97" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/FeatureAnalysis/FeatureAnalysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/FeatureAnalysis/FeatureAnalysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_project/LogisticRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/LogisticRegression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/OutputOfAll.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/OutputOfAllModified.csv" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/OutputOfAllModified.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/my_dumped_classifier.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/my_dumped_classifier.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/graph/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/graph/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/player_stats.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/player_stats.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -35,15 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogisticRegression.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LogisticRegression.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-              <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+            <state>
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -154,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,14 +187,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="startPre&#9;null&#9;null" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -349,13 +337,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527831729742</updated>
-    </task>
-    <task id="LOCAL-00011" summary="commit">
-      <created>1531055687731</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1531055687731</updated>
     </task>
     <task id="LOCAL-00012" summary="minor changes">
       <created>1531305908606</created>
@@ -693,7 +674,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533580536166</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="latest form and stregth added and accuracy increased">
+      <created>1533640804097</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1533640804099</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -740,36 +728,25 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18005952" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18005952" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.32843137" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32843137" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.13839285" side_tool="true" visible="true" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.86160713" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.10491072" side_tool="true" weight="0.3496732" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89508927" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32843137" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32843137" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32843137" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18005952" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.32843137" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.3496732" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32843137" />
       <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50074404" side_tool="true" visible="true" weight="0.3267974" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -834,7 +811,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="jjjsss" />
     <MESSAGE value="commit" />
     <MESSAGE value="Model saved using pickle library" />
     <MESSAGE value="updated csv" />
@@ -859,7 +835,8 @@
     <MESSAGE value="solved winning probability based on previous matches and write permision error" />
     <MESSAGE value="ui changed amd added country database" />
     <MESSAGE value="feature analysis graphs added" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature analysis graphs added" />
+    <MESSAGE value="latest form and stregth added and accuracy increased" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest form and stregth added and accuracy increased" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -880,6 +857,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7530">
@@ -1125,16 +1113,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/OutputOfAllModified.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="126" column="32" lean-forward="true" selection-start-line="126" selection-start-column="32" selection-end-line="126" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#67#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1156,30 +1138,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-524">
           <caret line="156" lean-forward="true" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
