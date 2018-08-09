@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b50ceb06-39b8-4f7f-b0a3-b1a75d77ac97" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/images/bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_project/LogisticRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/LogisticRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +31,8 @@
       <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="35">
+              <caret line="139" selection-start-line="139" selection-end-line="139" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -25,13 +40,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogisticRegression.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
+      <file leaf-file-name="firstflask.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="71">
+              <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prediction.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/prediction.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modelGenerator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5705">
+              <caret line="169" column="47" selection-start-line="169" selection-start-column="47" selection-end-line="169" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogisticRegression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1610">
+              <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prediction_result.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction_result.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/css/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -113,18 +178,20 @@
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/OutputOfAll.csv" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/UI1.html" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/statistics.html" />
-        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/specificCountry.csv" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/math_plot.py" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/css/main.css" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction_result.html" />
-        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/player_stats.html" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/main.css" />
-        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction.html" />
         <option value="$PROJECT_DIR$/main_project/LogisticRegression.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction.html" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/css/style.css" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/prediction.html" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py" />
       </list>
     </option>
   </component>
@@ -171,8 +238,7 @@
               <item name="ODIPrediction" type="462c0819:PsiDirectoryNode" />
               <item name="main_project" type="462c0819:PsiDirectoryNode" />
               <item name="ODI-Cricket-Prediction" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="video" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ODICricketPrediction" type="b2602c69:ProjectViewProjectNode" />
@@ -180,6 +246,16 @@
               <item name="main_project" type="462c0819:PsiDirectoryNode" />
               <item name="ODI-Cricket-Prediction" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ODICricketPrediction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ODIPrediction" type="462c0819:PsiDirectoryNode" />
+              <item name="main_project" type="462c0819:PsiDirectoryNode" />
+              <item name="ODI-Cricket-Prediction" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,19 +270,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction\static\video" />
-      <recent name="D:\ODIPrediction\main_project" />
-      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction" />
-      <recent name="D:\ODIPrediction" />
-      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction\static" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction\templates\web" />
       <recent name="D:\ODIPrediction" />
       <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction" />
       <recent name="D:\ODIPrediction\main_project" />
       <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction\Player_Database" />
-      <recent name="C:\Users\Dell\Desktop\New folder (2)\Cricket Prediction 4\main_project\cricket-match-prediction-master" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction\templates" />
+      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction\static\video" />
+      <recent name="D:\ODIPrediction\main_project" />
+      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction" />
+      <recent name="D:\ODIPrediction" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.app (2)">
+  <component name="RunManager" selected="Python.firstflask">
     <configuration name="LogisticRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ODICricketPrediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,8 +393,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.app (2)" />
         <item itemvalue="Python.firstflask" />
+        <item itemvalue="Python.app (2)" />
         <item itemvalue="Python.LogisticRegression" />
         <item itemvalue="Python tests.py.test in modelGenerator.py" />
         <item itemvalue="Python.app (1)" />
@@ -335,13 +411,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527831729742</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Model saved using pickle library">
-      <created>1531306359011</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1531306359011</updated>
     </task>
     <task id="LOCAL-00014" summary="Model saved using pickle library">
       <created>1531307086577</created>
@@ -679,7 +748,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533706737834</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="latest form and stregth added and accuracy increased 1">
+      <created>1533708167751</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1533708167753</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -726,13 +802,14 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18005952" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18601191" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.32843137" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.10491072" side_tool="true" weight="0.3496732" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89508927" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89508927" visible="true" weight="0.45751634" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -744,7 +821,6 @@
       <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -809,7 +885,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="commit" />
     <MESSAGE value="Model saved using pickle library" />
     <MESSAGE value="updated csv" />
     <MESSAGE value="minor changes" />
@@ -834,7 +909,8 @@
     <MESSAGE value="ui changed amd added country database" />
     <MESSAGE value="feature analysis graphs added" />
     <MESSAGE value="latest form and stregth added and accuracy increased" />
-    <option name="LAST_COMMIT_MESSAGE" value="latest form and stregth added and accuracy increased" />
+    <MESSAGE value="latest form and stregth added and accuracy increased 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest form and stregth added and accuracy increased 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -855,24 +931,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7530">
-          <caret line="251" column="16" selection-start-line="251" selection-start-column="16" selection-end-line="251" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/player_stats.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1860">
@@ -1039,13 +1097,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2640">
-          <caret line="88" column="100" selection-start-line="88" selection-start-column="100" selection-end-line="88" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5096">
@@ -1111,48 +1162,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py">
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="126" column="32" lean-forward="true" selection-start-line="126" selection-start-column="32" selection-end-line="126" selection-end-column="32" />
+        <state relative-caret-position="5705">
+          <caret line="169" column="47" selection-start-line="169" selection-start-column="47" selection-end-line="169" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction.html">
+    <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="117" column="65" selection-start-line="117" selection-start-column="65" selection-end-line="117" selection-end-column="65" />
+        <state relative-caret-position="1610">
+          <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction_result.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="70">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py">
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/prediction.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-524">
-          <caret line="156" lean-forward="true" selection-start-line="156" selection-end-line="156" />
+        <state relative-caret-position="464">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="35">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/prediction.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
         </state>
       </provider>
     </entry>

@@ -17,7 +17,7 @@ def index():
 def home_page():
     if request.method == 'POST':
         if str(request.form.get('Prediction'))=='Prediction':
-           return render_template('prediction.html')
+           return render_template('templates/web/prediction.html')
         elif str(request.form.get('Statistics')) == 'Statistics':
             return render_template('statistics.html')
         elif str(request.form.get('Analysis')) == 'Analysis':
@@ -123,12 +123,6 @@ def feature():
             return render_template('feature_analysis.html')
         elif str(request.form.get('Home')) == 'Home':
             return render_template('home_page.html')
-
-#@app.route('/CapstoneProject/')
-#def CapstoneProject():
-  #print 'I got clicked!'
-
- # return render_template('CapstoneProject.py')
 
 if __name__=='__main__':
     app.run(debug=True)

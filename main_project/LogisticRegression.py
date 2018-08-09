@@ -34,7 +34,7 @@ class LogisticRegressionScratch(object):
             h = self.__sigmoid(z)
             loss = self.__loss(h, y)
 
-            if (self.verbose == True and i % 1000 == 0):
+            if (self.verbose == True and i % 3000 == 0):
                 print(f'loss: {loss} \t')
 
     def predict_prob(self, X):
@@ -43,5 +43,5 @@ class LogisticRegressionScratch(object):
 
         return self.__sigmoid(np.dot(X, self.weight))
 
-    def predict(self, X):
-        return self.predict_prob(X).round()
+    def predict(self, X,threshold):
+        return self.predict_prob(X)>=threshold

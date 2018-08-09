@@ -167,7 +167,7 @@ def testPredict(df1, testData, TeamA, TeamB):
     with open('my_dumped_classifier.pkl', 'rb') as fid:
         alg = pk.load(fid)
 
-    test_predictions = alg.predict(testData)
+    test_predictions = alg.predict(testData,0.5)
     # print(testData)
     # print(test_predictions[0])
     return test_predictions[0]

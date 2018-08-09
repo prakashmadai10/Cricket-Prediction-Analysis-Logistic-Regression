@@ -123,13 +123,12 @@ def Classifier(df1):
 
     train_predictors = train_predictors.values
     print("shape",train_predictors.shape)
-
     # accuracy calculation
     predictions = []
     for i in range(len(train_predictors)):
         rowdf = pd.DataFrame(train_predictors[i])
 
-        result = alg.predict(rowdf.T)
+        result = alg.predict(rowdf.T,0.5)
         predictions.append(result)
 
     predictions = np.concatenate(predictions, axis=0)

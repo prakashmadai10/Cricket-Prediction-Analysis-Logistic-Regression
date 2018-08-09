@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>ODI Cricket Analysis and Prediction</title>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Flat Sign Up Form Responsive Widget Template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Meta tag Keywords -->
+<!-- css files -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+<!-- //css files -->
+<!-- online-fonts -->
+<link href='//fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'><link href='//fonts.googleapis.com/css?family=Raleway+Dots' rel='stylesheet' type='text/css'>
+<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="{{ url_for('static', filename='images/icons/favicon.ico') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('templates', filename='web/css/font-awesome.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('templates', filename='web/css/style.css')}}">
+
+
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+<style type="text/css">
+
+
+	<style>
+
+	.card{
+	height: 450px;
+
+	}
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+</style>
+
+</head>
+<body>
+<form action="prediction" method="post">
+<div class="topnav">
+	<!--<a href="{{ url_for('prediction') }}" ><input class="topnav" name="Statistics" type="submit" value="Statistics" ></a>-->
+<button class="topnav" type="submit" name="Home" value="Home">
+						<span>
+							<a href="{{ url_for('prediction') }}">
+								Home
+								</a>
+						</span>
+</button>
+	<button class="topnav" type="submit" name="Statistics" value="Statistics">
+						<span>
+							<a href="{{ url_for('prediction') }}">
+								Statistics
+								</a>
+						</span>
+</button>
+	<button class="topnav" type="submit" name="Analysis" value="Analysis">
+						<span>
+							<a href="{{ url_for('prediction') }}">
+								Analysis
+								</a>
+						</span>
+</button>
+	<button class="topnav" type="submit" name="Prediction" value="Prediction">
+						<span>
+							<a class="active" href="{{ url_for('prediction') }}">
+								Prediction
+								</a>
+						</span>
+</button>
+
+
+
+</div>
+
+</form>
+	<div class="background-wrap">
+		<video preload="auto" autoplay="true" loop="loop" muted="muted" class="video">
+			<source src="{{url_for('static',filename='video/stump.mp4')}}" type="video/mp4">
+				not supported
+		</video>	
+		</div>
+
+<div class="main-agileits">
+	<h2 class="sub-head">Selection Form</h2>
+		<div class="sub-main">
+			<form action="#" method="post">
+				<input placeholder="First Team" name="Name" class="name" type="text" required="">
+					<span class="icon1"><i class="fa fa-user" aria-hidden="true"></i></span><br>
+				<input placeholder="Second Team" name="Name" class="name2" type="text" required="">
+					<span class="icon2"><i class="fa fa-user" aria-hidden="true"></i></span><br>
+				<input placeholder="Toss Winner" name="Number" class="number" type="text" required="">
+					<span class="icon3"><i class="fa fa-phone" aria-hidden="true"></i></span><br>
+				<input placeholder="Venue" name="mail" class="mail" type="text" required="">
+					<span class="icon4"><i class="fa fa-envelope" aria-hidden="true"></i></span><br>
+				<input  placeholder="Toss Decision" name="Password" class="pass" type="password" required="">
+					<span class="icon5"><i class="fa fa-unlock" aria-hidden="true"></i></span><br>
+
+				<input type="submit" value="Submit">
+			</form>
+		</div>
+		<div class="clear"></div>
+</div>
+<!--//ma
+
+<!--===============================================================================================-->
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/daterangepicker/moment.min.js"></script>
+	<script src="vendor/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+
+</body>
+</html>
