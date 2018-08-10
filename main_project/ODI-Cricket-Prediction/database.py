@@ -14,7 +14,6 @@ def data():
     conn.close()
 '''
 def readdata(naam):
-
     con = sqlite3.connect('Major.db')
     ca = con.cursor()
     str2="%"+naam+"%"
@@ -35,7 +34,6 @@ def readdata(naam):
     querry = str1 + "'{}'".format(str2)
     ca.execute(querry)
     res1 = ca.fetchall()
-
 
     str1 = "select run from playerinfo where name LIKE "
     querry = str1 + "'{}'".format(str2)
@@ -151,9 +149,6 @@ def desh(countr):
     ca.execute(querry)
     ress = ca.fetchall()
     return res,re,res1,res2,res3,res4,res5,res6,res8,res9,ress
-
-
-
 
 #create_table()
 #desh('australia')

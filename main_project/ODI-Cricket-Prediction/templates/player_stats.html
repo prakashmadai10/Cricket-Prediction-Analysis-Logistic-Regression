@@ -8,6 +8,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
 <style type="text/css">
+	<link href="{{ url_for('static', filename='css/style.css')}}" rel="stylesheet" type="text/css" media="all">
+<link href="{{ url_for('static', filename='css/font-awesome.min.css')}}" rel="stylesheet" type="text/css" media="all">
+
     .mx-5{
     padding-left:200px;
     padding-right:200px;
@@ -31,7 +34,7 @@
 
 	<table style="float: left" width="400px">
 		<tr><td><br><br><br></td></tr>
-		<tr><td><img src="{{url_for('static',filename='playerinfo/' + naam + '.png')}}" width="485" height="485" align="middle"></td>
+		<tr><td><img src="{{url_for('static',filename='playerinfo/' + naam + '.png')}}" width="550" height="550" align="middle"></td>
 
 
 	</table>
@@ -60,10 +63,10 @@
 
 	</table>
 <table>
-	<tr><td><img src="{{url_for('static',filename='graph/' + idd + '1.png')}}" width="600" height="500"><br></td></tr>
+	<tr><td><img src="{{url_for('static',filename='graph/' + idd + '1.png')}}" width="680" height="680"><br></td></tr>
 
 	</table>
-	<br><br><br><br><br><br><br><br><br><br>
+	<br><br><br>
 <p align="center" style="font-size:25px;">{{ detail }}</p>
 </body>
 </html>

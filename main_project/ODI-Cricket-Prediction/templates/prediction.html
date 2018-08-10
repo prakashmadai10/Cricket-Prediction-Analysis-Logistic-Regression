@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<title>ODI Cricket Analysis and Prediction</title>
+
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
@@ -25,19 +26,25 @@
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/util.css')}}">
 	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css')}}">
+	<link href="{{ url_for('static', filename='css/style.css')}}" rel="stylesheet" type="text/css" media="all">
+<link href="{{ url_for('static', filename='css/font-awesome.min.css')}}" rel="stylesheet" type="text/css" media="all">
+
 <!--===============================================================================================-->
-<!--video{-->
-  <!--position: fixed;-->
-  <!--top: 50%;-->
-  <!--left: 50%;-->
-  <!--min-width: 100%;-->
-  <!--min-height: 100%;-->
-  <!--width: auto;-->
-  <!--height: auto;-->
-  <!--z-index: -100;-->
-  <!--transform: translate(-50%, -50%);-->
-<!--}-->
+
+
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+<style type="text/css">
+
+
 	<style>
+
+	.card{
+	height: 450px;
+
+	}
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -66,37 +73,39 @@ body {
   background-color: #4CAF50;
   color: white;
 }
+
+
 </style>
 
 </head>
 <body>
-<form action="player_stats" method="post">
+<form action="prediction" method="post">
 <div class="topnav">
 	<!--<a href="{{ url_for('prediction') }}" ><input class="topnav" name="Statistics" type="submit" value="Statistics" ></a>-->
 <button class="topnav" type="submit" name="Home" value="Home">
 						<span>
-							<a href="{{ url_for('player_stats') }}">
+							<a href="{{ url_for('prediction') }}">
 								Home
 								</a>
 						</span>
 </button>
 	<button class="topnav" type="submit" name="Statistics" value="Statistics">
 						<span>
-							<a class="active" href="{{ url_for('player_stats') }}">
+							<a href="{{ url_for('prediction') }}">
 								Statistics
 								</a>
 						</span>
 </button>
 	<button class="topnav" type="submit" name="Analysis" value="Analysis">
 						<span>
-							<a href="{{ url_for('player_stats') }}">
+							<a href="{{ url_for('prediction') }}">
 								Analysis
 								</a>
 						</span>
 </button>
 	<button class="topnav" type="submit" name="Prediction" value="Prediction">
 						<span>
-							<a href="{{ url_for('player_stats') }}">
+							<a class="active" href="{{ url_for('prediction') }}">
 								Prediction
 								</a>
 						</span>
@@ -107,57 +116,31 @@ body {
 </div>
 
 </form>
+
 	<div class="background-wrap">
 		<video preload="auto" autoplay="true" loop="loop" muted="muted" class="video">
-			<source src="{{url_for('static',filename='video/stump.mp4')}}" type="video/mp4">
+			<source src="{{url_for('static',filename='video/nepal1.mp4')}}" type="video/mp4">
 				not supported
 		</video>	
 		</div>
-	
 
-
+<div class="main-agileits">
 	<div class="container-contact100">
 		<div class="wrap-contact100">
-			<form method="post" action="player_stats" class="contact100-form validate-form">
+
+
+			<form class="contact100-form validate-form" method="post" action="prediction">
+
 				<span class="contact100-form-title">
-					<!-- ANALYSIS -->
+					CRICKET PREDICTION
 				</span>
 
-				<label class="label-input100">ROLE</label>
+				<div align="center">
+				<label class="label-input100">First Team *</label>
 				<div class="wrap-input100 rs1 validate-input">
 					<!-- <input id="first-name" class="input100" type="text" name="first-name" placeholder="First Team"> -->
-					<select class="input100" id="fist team" name="role">
-						<option>batsman</option>
-						<option>bowler</option>
-						
-
-					</select>
-
-					<span class="focus-input100"></span>
-				</div>
-
-
-				<label class="label-input100">PLAYER NAME</label>
-				<input type="text" name="playername" class="wrap-input100 rs1 validate-input" required="">
-
-
-				<div class="container-contact100-form-btn">
-					<button class="contact100-form-btn" type="submit" name="psearch" value="psearch">
-						<span>
-							<a href="{{ url_for('player_stats') }}">
-							Submit
-							   </a>
-							<i class="zmdi zmdi-arrow-right m-l-8"></i>
-						</span>
-					</button>
-				</div>
-				<label class="label-input100">COUNTRY NAME</label>
-				<div class="wrap-input100 rs1 validate-input">
-					<!-- <input id="first-name" class="input100" type="text" name="first-name" placeholder="First Team"> -->
-					<select class="input100" id="country" name="countryname">
-						<option>NEPAL</option>
+					<select class="input100" id="fist team" name="team1">
 						<option>AUSTRALIA</option>
-
 						<option>BANGLADESH</option>
 						<option>ENGLAND</option>
 						<option>INDIA</option>
@@ -168,24 +151,82 @@ body {
 						<option>SRI LANKA</option>
 						<option>ZIMBABWE</option>
 
-
 					</select>
 
 					<span class="focus-input100"></span>
+			</div>
+
+
+
+
+				<label class="label-input100">Second team *</label>
+				<div class="wrap-input100 rs1 validate-input">
+					<!-- <input class="input100" type="text" name="second team" placeholder="second team"> -->
+					<select class="input100" id="second team" name="team2">
+						<option>INDIA</option>
+						<option>AUSTRALIA</option>
+						<option>ENGLAND</option>
+						<option>BANGLADESH</option>
+						<option>NEW ZEALAND</option>
+						<option>PAKISTAN</option>
+						<option>SOUTH AFRICA</option>
+						<option>WEST INDIES</option>
+						<option>ZIMBABWE</option>
+						<option>SRI LANKA</option>
+
+					</select>
+					<span class="focus-input100"></span>
 				</div>
+
+
+				<label class="label-input100">Toss *</label>
+				<div class="wrap-input100 rs1 validate-input">
+					<select class="input100" id="Toss" name="tosswin">
+						<option>AUSTRALIA</option>
+						<option>BANGLADESH</option>
+						<option>ENGLAND</option>
+						<option>INDIA</option>
+						<option>NEWZEALAND</option>
+						<option>PAKISTAN</option>
+						<option>SOUTH AFRICA</option>
+						<option>WEST INDIES</option>
+						<option>AUSTRALIA</option>
+						<option>AUSTRALIA</option>
+
+					</select>
+					<span class="focus-input100"></span>
+				</div>
+
+				<label class="label-input100">VENUE</label>
+				<input type="text" name="venue" class="wrap-input100 rs1 validate-input" required="">
+
+				<label class="label-input100">Toss Decision *</label>
+				<div class="wrap-input100 rs1 validate-input">
+					<select class="input100" id="Toss Decision" name="tossdis">
+						<option>bat</option>
+						<option>field</option>
+
+					</select>
+					<span class="focus-input100"></span>
+				</div>
+				</div>
+
 				<div class="container-contact100-form-btn">
-					<button class="contact100-form-btn"type="submit" name="country" value="country">
+					<button class="contact100-form-btn" type="submit">
 						<span>
-							<a href="{{ url_for('player_stats') }}">
-							SubmitCountry
-							   </a>
+							<a href="{{ url_for('prediction') }}">
+							Submit
 							<i class="zmdi zmdi-arrow-right m-l-8"></i>
+								</a>
 						</span>
 					</button>
+
 				</div>
 			</form>
 		</div>
-	</div>
+	</div></div>
+
+		</div>
 
 
 
