@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>ODI Cricket Analysis and Prediction</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="{{ url_for('static', filename='images/icons/favicon.ico') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='fonts/font-awesome-4.7.0/css/font-awesome.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='fonts/iconic/css/material-design-iconic-font.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/animate/animate.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/css-hamburgers/hamburgers.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/animsition/css/animsition.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/select2/select2.min.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/daterangepicker/daterangepicker.css')}}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/util.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/main.css')}}">
+<!--===============================================================================================-->
+<!--video{-->
+  <!--position: fixed;-->
+  <!--top: 50%;-->
+  <!--left: 50%;-->
+  <!--min-width: 100%;-->
+  <!--min-height: 100%;-->
+  <!--width: auto;-->
+  <!--height: auto;-->
+  <!--z-index: -100;-->
+  <!--transform: translate(-50%, -50%);-->
+<!--}-->
+	<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+</head>
+<body>
+<form action="player_stats" method="post">
+<div class="topnav">
+	<!--<a href="{{ url_for('prediction') }}" ><input class="topnav" name="Statistics" type="submit" value="Statistics" ></a>-->
+<button class="topnav" type="submit" name="Home" value="Home">
+						<span>
+							<a href="{{ url_for('player_stats') }}">
+								Home
+								</a>
+						</span>
+</button>
+	<button class="topnav" type="submit" name="Statistics" value="Statistics">
+						<span>
+							<a class="active" href="{{ url_for('player_stats') }}">
+								Statistics
+								</a>
+						</span>
+</button>
+	<button class="topnav" type="submit" name="Analysis" value="Analysis">
+						<span>
+							<a href="{{ url_for('player_stats') }}">
+								Analysis
+								</a>
+						</span>
+</button>
+	<button class="topnav" type="submit" name="Prediction" value="Prediction">
+						<span>
+							<a href="{{ url_for('player_stats') }}">
+								Prediction
+								</a>
+						</span>
+</button>
+
+
+
+</div>
+
+</form>
+	<div class="background-wrap">
+		<video preload="auto" autoplay="true" loop="loop" muted="muted" class="video">
+			<source src="{{url_for('static',filename='video/stump.mp4')}}" type="video/mp4">
+				not supported
+		</video>	
+		</div>
+	
+
+
+	<div class="container-contact100">
+		<div class="wrap-contact100">
+			<form method="post" action="player_stats" class="contact100-form validate-form">
+				<span class="contact100-form-title">
+					<!-- ANALYSIS -->
+				</span>
+
+				<label class="label-input100">ROLE</label>
+				<div class="wrap-input100 rs1 validate-input">
+					<!-- <input id="first-name" class="input100" type="text" name="first-name" placeholder="First Team"> -->
+					<select class="input100" id="fist team" name="role">
+						<option>batsman</option>
+						<option>bowler</option>
+						
+
+					</select>
+
+					<span class="focus-input100"></span>
+				</div>
+
+
+				<label class="label-input100">PLAYER NAME</label>
+				<input type="text" name="playername" class="wrap-input100 rs1 validate-input" required="">
+
+
+				<div class="container-contact100-form-btn">
+					<button class="contact100-form-btn" type="submit" name="psearch" value="psearch">
+						<span>
+							<a href="{{ url_for('player_stats') }}">
+							Submit
+							   </a>
+							<i class="zmdi zmdi-arrow-right m-l-8"></i>
+						</span>
+					</button>
+				</div>
+				<label class="label-input100">COUNTRY NAME</label>
+				<div class="wrap-input100 rs1 validate-input">
+					<!-- <input id="first-name" class="input100" type="text" name="first-name" placeholder="First Team"> -->
+					<select class="input100" id="country" name="countryname">
+						<option>NEPAL</option>
+						<option>AUSTRALIA</option>
+
+						<option>BANGLADESH</option>
+						<option>ENGLAND</option>
+						<option>INDIA</option>
+						<option>NEW ZEALAND</option>
+						<option>PAKISTAN</option>
+						<option>SOUTH AFRICA</option>
+						<option>WEST INDIES</option>
+						<option>SRI LANKA</option>
+						<option>ZIMBABWE</option>
+
+
+					</select>
+
+					<span class="focus-input100"></span>
+				</div>
+				<div class="container-contact100-form-btn">
+					<button class="contact100-form-btn"type="submit" name="country" value="country">
+						<span>
+							<a href="{{ url_for('player_stats') }}">
+							SubmitCountry
+							   </a>
+							<i class="zmdi zmdi-arrow-right m-l-8"></i>
+						</span>
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+
+
+
+<!--===============================================================================================-->
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/daterangepicker/moment.min.js"></script>
+	<script src="vendor/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+
+</body>
+</html>
