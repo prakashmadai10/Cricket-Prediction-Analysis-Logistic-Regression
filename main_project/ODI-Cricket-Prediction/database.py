@@ -1,4 +1,4 @@
-mport sqlite3
+import sqlite3
 import os
 conn = sqlite3.connect('Major.db')
 c = conn.cursor()

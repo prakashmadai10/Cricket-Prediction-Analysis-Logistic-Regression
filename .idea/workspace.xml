@@ -2,55 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fab24ed4-ab6a-4b23-9ea9-7981a699b93c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/Major.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/11.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/13.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/14.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/16.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/17.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/18.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/19.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/21.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/22.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/23.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/24.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/25.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/26.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/27.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/28.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/29.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/31.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/32.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/33.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/34.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/35.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/36.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/37.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/6.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/7.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/8.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/9.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/images/featurepic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/images/player_stats.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/images/statspic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/images/visualization.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/countrydisplay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/feature_analysis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/player_stats.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/statistics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/feature_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/feature_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/feature_generator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="132" selection-start-line="132" selection-end-line="132" />
+              <caret line="133" selection-start-line="133" selection-end-line="133" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -75,8 +32,8 @@
       <file leaf-file-name="firstflask.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="50">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="e#0#67#0" expanded="true" />
               </folding>
@@ -84,11 +41,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="database.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/database.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -107,36 +85,107 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Scorecard</find>
+      <find>bat_av</find>
+      <find>\</find>
+      <find>Clas</find>
+      <find>a</find>
+      <find>contact</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$USER_HOME$" value="madhu07" />
+        <entry key="$PROJECT_DIR$" value="madhu07" />
+      </map>
+    </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="prakash" />
+                <branch-info repo="$PROJECT_DIR$" source="psm" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/psm" />
+                <branch-info repo="$PROJECT_DIR$" source="github/madhu" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/feature_generator.py" />
-        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/graph.py" />
+        <option value="$PROJECT_DIR$/main_project/cricket-match-prediction-master/history_script.py" />
+        <option value="$PROJECT_DIR$/main_project/cricket-match-prediction-master/math_plot.py" />
+        <option value="$PROJECT_DIR$/main_project/Demo.py" />
+        <option value="$PROJECT_DIR$/main_project/cricket-match-prediction-master/CapstoneProject.py" />
+        <option value="$PROJECT_DIR$/main_project/cricket-match-prediction-master/modelGenerator.py" />
+        <option value="$PROJECT_DIR$/main_project/cricket-match-prediction-master/app.py" />
+        <option value="$PROJECT_DIR$/main_project/cricket-match-prediction-master/Logistic.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/Logistic.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/initialOutput1.csv" />
+        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/database.py" />
-        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/CapstoneProject.py" />
+        <option value="$PROJECT_DIR$/main_project/modelGenerator.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/UI3.html" />
+        <option value="$PROJECT_DIR$/main_project/app.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/graph.py" />
+        <option value="$PROJECT_DIR$/main_project/LogisticReg.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/analysis.html" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/feature_analysis.html" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/OutputOfAll.csv" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/UI1.html" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/statistics.html" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/specificCountry.csv" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/math_plot.py" />
         <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/css/main.css" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction_result.html" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/player_stats.html" />
+        <option value="$PROJECT_DIR$/main_project/LogisticRegression.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction.html" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/css/style.css" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/main.css" />
+        <option value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/prediction.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-30" />
-    <option name="y" value="154" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1350" />
+    <option name="height" value="690" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -168,22 +217,7 @@
               <item name="ODIPrediction" type="462c0819:PsiDirectoryNode" />
               <item name="main_project" type="462c0819:PsiDirectoryNode" />
               <item name="ODI-Cricket-Prediction" type="462c0819:PsiDirectoryNode" />
-              <item name="Dataset" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ODIPrediction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ODIPrediction" type="462c0819:PsiDirectoryNode" />
-              <item name="main_project" type="462c0819:PsiDirectoryNode" />
-              <item name="ODI-Cricket-Prediction" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ODIPrediction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ODIPrediction" type="462c0819:PsiDirectoryNode" />
-              <item name="main_project" type="462c0819:PsiDirectoryNode" />
-              <item name="ODI-Cricket-Prediction" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ODIPrediction" type="b2602c69:ProjectViewProjectNode" />
@@ -217,12 +251,26 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="startPre&#9;null&#9;null" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction\templates" />
+      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction\static\video" />
+      <recent name="D:\ODIPrediction\main_project" />
+      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction" />
+      <recent name="D:\ODIPrediction" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction\templates\web" />
+      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction\templates" />
+      <recent name="D:\ODIPrediction" />
+      <recent name="D:\ODIPrediction\main_project\ODI-Cricket-Prediction" />
+      <recent name="D:\ODIPrediction\main_project" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,9 +284,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.firstflask">
+    <configuration name="LogisticRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ODICricketPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_project/LogisticRegression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ODICricketPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\ODIPrediction\main_project\ODI-Cricket-Prediction\app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="app (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ODICricketPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="firstflask" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ODIPrediction" />
+      <module name="ODICricketPrediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -255,50 +357,88 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="ODIPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="ODIPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="ODIPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="ODIPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in modelGenerator.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ODICricketPrediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.firstflask" />
+      <item itemvalue="Python tests.py.test in modelGenerator.py" />
+      <item itemvalue="Python.app (1)" />
+      <item itemvalue="Python.app (2)" />
+      <item itemvalue="Python.LogisticRegression" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.firstflask" />
+        <item itemvalue="Python.app (2)" />
+        <item itemvalue="Python.LogisticRegression" />
+        <item itemvalue="Python tests.py.test in modelGenerator.py" />
+        <item itemvalue="Python.app (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -307,74 +447,544 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fab24ed4-ab6a-4b23-9ea9-7981a699b93c" name="Default" comment="" />
-      <created>1536237366415</created>
+      <changelist id="b50ceb06-39b8-4f7f-b0a3-b1a75d77ac97" name="Default" comment="" />
+      <created>1527831729742</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536237366415</updated>
-      <workItem from="1536237368695" duration="1191000" />
-      <workItem from="1544275758695" duration="723000" />
+      <updated>1527831729742</updated>
     </task>
+    <task id="LOCAL-00014" summary="Model saved using pickle library">
+      <created>1531307086577</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1531307086578</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Model saved using pickle library">
+      <created>1531307115445</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1531307115445</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Model saved using pickle library">
+      <created>1531408215013</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1531408215014</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updated csv">
+      <created>1531409068284</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1531409068284</updated>
+    </task>
+    <task id="LOCAL-00018" summary="updated csv">
+      <created>1531410304454</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1531410304456</updated>
+    </task>
+    <task id="LOCAL-00019" summary="minor changes">
+      <created>1531721954724</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1531721954725</updated>
+    </task>
+    <task id="LOCAL-00020" summary="minor changes">
+      <created>1531723149887</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1531723149887</updated>
+    </task>
+    <task id="LOCAL-00021" summary="added database and graph protion with UI portion">
+      <created>1531924318812</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1531924318812</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added database and graph protion with UI portion">
+      <created>1531925109255</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1531925109255</updated>
+    </task>
+    <task id="LOCAL-00023" summary="re arranged files">
+      <created>1531925378474</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1531925378474</updated>
+    </task>
+    <task id="LOCAL-00024" summary="re arranged files in order">
+      <created>1531925602197</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1531925602197</updated>
+    </task>
+    <task id="LOCAL-00025" summary="re arranged files in order">
+      <created>1531925920876</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1531925920876</updated>
+    </task>
+    <task id="LOCAL-00026" summary="minor bugs">
+      <created>1532701169499</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1532701169499</updated>
+    </task>
+    <task id="LOCAL-00027" summary="minor bugs">
+      <created>1532926159600</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1532926159600</updated>
+    </task>
+    <task id="LOCAL-00028" summary="minor bugs">
+      <created>1532931301108</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1532931301109</updated>
+    </task>
+    <task id="LOCAL-00029" summary="stats graph">
+      <created>1533095574524</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1533095574524</updated>
+    </task>
+    <task id="LOCAL-00030" summary="stats graph">
+      <created>1533096025600</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1533096025600</updated>
+    </task>
+    <task id="LOCAL-00031" summary="stats graph">
+      <created>1533100232643</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1533100232643</updated>
+    </task>
+    <task id="LOCAL-00032" summary="stats graph">
+      <created>1533107553416</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1533107553416</updated>
+    </task>
+    <task id="LOCAL-00033" summary="feature analysis integrated with web">
+      <created>1533137364308</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1533137364309</updated>
+    </task>
+    <task id="LOCAL-00034" summary="HD photo  added and playeranalysi.html minor change">
+      <created>1533142179479</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1533142179479</updated>
+    </task>
+    <task id="LOCAL-00035" summary="HD photo  added and playeranalysi.html minor change">
+      <created>1533142428872</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1533142428872</updated>
+    </task>
+    <task id="LOCAL-00036" summary="HD photo  added and playeranalysi.html minor change">
+      <created>1533221139195</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1533221139195</updated>
+    </task>
+    <task id="LOCAL-00037" summary="HD photo  added and playeranalysi.html minor change">
+      <created>1533221501885</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1533221501885</updated>
+    </task>
+    <task id="LOCAL-00038" summary="added feature analysis part">
+      <created>1533222524705</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1533222524705</updated>
+    </task>
+    <task id="LOCAL-00039" summary="UI imaged changed">
+      <created>1533226127116</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1533226127117</updated>
+    </task>
+    <task id="LOCAL-00040" summary="accuracy is obtained i.e 53.22%">
+      <created>1533242713208</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1533242713208</updated>
+    </task>
+    <task id="LOCAL-00041" summary="accuracy is obtained i.e 60.05%">
+      <created>1533244090256</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1533244090256</updated>
+    </task>
+    <task id="LOCAL-00042" summary="accuracy is obtained i.e 60.05%">
+      <created>1533244454427</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1533244454427</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Project completed obtaining accuracy 60% using logistic regression">
+      <created>1533246258341</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1533246258341</updated>
+    </task>
+    <task id="LOCAL-00044" summary="dataset modified">
+      <created>1533301378458</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1533301378458</updated>
+    </task>
+    <task id="LOCAL-00045" summary="navigation and naming convention solved">
+      <created>1533318642165</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1533318642165</updated>
+    </task>
+    <task id="LOCAL-00046" summary="navigation and naming convention solved">
+      <created>1533355726162</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1533355726162</updated>
+    </task>
+    <task id="LOCAL-00047" summary="feature analysis solved finally">
+      <created>1533356559798</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1533356559798</updated>
+    </task>
+    <task id="LOCAL-00048" summary="feature analysis solved finally">
+      <created>1533356623293</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1533356623293</updated>
+    </task>
+    <task id="LOCAL-00049" summary="weight initialized">
+      <created>1533374278402</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1533374278402</updated>
+    </task>
+    <task id="LOCAL-00050" summary="weight initialized">
+      <created>1533374349528</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1533374349530</updated>
+    </task>
+    <task id="LOCAL-00051" summary="weight initialized">
+      <created>1533374391352</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1533374391352</updated>
+    </task>
+    <task id="LOCAL-00052" summary="weight initialized">
+      <created>1533394817875</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1533394817876</updated>
+    </task>
+    <task id="LOCAL-00053" summary="solved winning probability based on previous matches">
+      <created>1533488932133</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1533488932134</updated>
+    </task>
+    <task id="LOCAL-00054" summary="solved winning probability based on previous matches and write permision error">
+      <created>1533489646292</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1533489646293</updated>
+    </task>
+    <task id="LOCAL-00055" summary="ui changed amd added country database">
+      <created>1533566954045</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1533566954049</updated>
+    </task>
+    <task id="LOCAL-00056" summary="feature analysis graphs added">
+      <created>1533579832907</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1533579832909</updated>
+    </task>
+    <task id="LOCAL-00057" summary="feature analysis graphs added">
+      <created>1533580048349</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1533580048349</updated>
+    </task>
+    <task id="LOCAL-00058" summary="feature analysis graphs added">
+      <created>1533580290784</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1533580290785</updated>
+    </task>
+    <task id="LOCAL-00059" summary="feature analysis graphs added">
+      <created>1533580536166</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1533580536166</updated>
+    </task>
+    <task id="LOCAL-00060" summary="latest form and stregth added and accuracy increased">
+      <created>1533640804097</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1533640804099</updated>
+    </task>
+    <task id="LOCAL-00061" summary="latest form and stregth added and accuracy increased">
+      <created>1533706737833</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1533706737834</updated>
+    </task>
+    <task id="LOCAL-00062" summary="latest form and stregth added and accuracy increased 1">
+      <created>1533708167751</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1533708167753</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1914000" />
+  <component name="TestHistory">
+    <history-entry file="py_test_for_modelGenerator_testPredict - 2018.07.15 at 20h 11m 03s.xml">
+      <configuration name="py.test for modelGenerator.testPredict" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_modelGenerator_py - 2018.07.16 at 12h 07m 40s.xml">
+      <configuration name="py.test in modelGenerator.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_modelGenerator_py - 2018.07.16 at 15h 04m 38s.xml">
+      <configuration name="py.test in modelGenerator.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_modelGenerator_testPredict - 2018.07.16 at 15h 13m 20s.xml">
+      <configuration name="py.test for modelGenerator.testPredict" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_modelGenerator_py - 2018.07.20 at 19h 09m 53s.xml">
+      <configuration name="py.test in modelGenerator.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_modelGenerator_py - 2018.07.30 at 11h 50m 17s.xml">
+      <configuration name="py.test in modelGenerator.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_modelGenerator_py - 2018.08.01 at 19h 50m 17s.xml">
+      <configuration name="py.test in modelGenerator.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_modelGenerator_py - 2018.08.01 at 19h 55m 24s.xml">
+      <configuration name="py.test in modelGenerator.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_modelGenerator_py - 2018.08.03 at 01h 28m 49s.xml">
+      <configuration name="py.test in modelGenerator.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_modelGenerator_py - 2018.08.04 at 13h 33m 22s.xml">
+      <configuration name="py.test in modelGenerator.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17203514" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17203514" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3290938" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
+      <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89508927" weight="0.45751634" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32843137" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.10491072" side_tool="true" weight="0.3496732" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18601191" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.32843137" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17203514" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32843137" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32843137" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18601191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290938" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925596" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89508927" visible="true" weight="0.45751634" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.10491072" side_tool="true" weight="0.3496732" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
-    </layout>
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+    </layout-to-restore>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Model saved using pickle library" />
+    <MESSAGE value="updated csv" />
+    <MESSAGE value="minor changes" />
+    <MESSAGE value="added database and graph protion with UI portion" />
+    <MESSAGE value="re arranged files" />
+    <MESSAGE value="re arranged files in order" />
+    <MESSAGE value="minor bugs" />
+    <MESSAGE value="stats graph" />
+    <MESSAGE value="feature analysis integrated with web" />
+    <MESSAGE value="HD photo  added and playeranalysi.html minor change" />
+    <MESSAGE value="added feature analysis part" />
+    <MESSAGE value="UI imaged changed" />
+    <MESSAGE value="accuracy is obtained i.e 53.22%" />
+    <MESSAGE value="accuracy is obtained i.e 60.05%" />
+    <MESSAGE value="Project completed obtaining accuracy 60% using logistic regression" />
+    <MESSAGE value="dataset modified" />
+    <MESSAGE value="navigation and naming convention solved" />
+    <MESSAGE value="feature analysis solved finally" />
+    <MESSAGE value="weight initialized" />
+    <MESSAGE value="solved winning probability based on previous matches" />
+    <MESSAGE value="solved winning probability based on previous matches and write permision error" />
+    <MESSAGE value="ui changed amd added country database" />
+    <MESSAGE value="feature analysis graphs added" />
+    <MESSAGE value="latest form and stregth added and accuracy increased" />
+    <MESSAGE value="latest form and stregth added and accuracy increased 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest form and stregth added and accuracy increased 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <line>50</line>
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -382,92 +992,216 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
+      <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/tossdecivswinner.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/toss_decision.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/fanalysis1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/main.css">
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="309" lean-forward="true" selection-start-line="309" selection-end-line="309" />
+        <state relative-caret-position="2520">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/graph/21.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/graph/31.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/countryphoto/Australia.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/home_page.css">
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/countrydisplay.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        <state relative-caret-position="330">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/images/statspic.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="45" column="43" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/images/featurepic.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3210">
+          <caret line="107" column="35" selection-start-line="107" selection-start-column="35" selection-end-line="107" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/images/player_stats.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/images/visualization.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6270">
+          <caret line="215" column="96" selection-start-line="215" selection-start-column="96" selection-end-line="215" selection-end-column="96" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/images/prediction.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/team_history_plot/math_plot.py" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/Dataset/PlayerInfo/433563.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/images/TEXT.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/indexing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35326">
+          <caret line="2101" selection-start-line="2101" selection-end-line="2101" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/1.csv">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_pytest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/player_XI.css">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1698" selection-start-line="1698" selection-end-line="1698" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/reshape/concat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="258" selection-start-line="258" selection-end-line="258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/Demo.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1457019262/builtins.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1457019262/_collections.py" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/stadium/Bangladesh">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/stadium/Pakistan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/stadium/South Africa">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/stadium/India">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/Logistic.py" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/Dataset/CompleteMatchDetails.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-376">
+          <caret line="167" column="9" selection-start-line="167" selection-start-column="9" selection-end-line="167" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/statforgraph/1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/CapstoneProject.py" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/FeatureAnalysis/.idea/Demo.iml" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/UI2.html" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/UI1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/math_plot.py" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/feature_analysis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="69" column="74" lean-forward="true" selection-start-line="69" selection-start-column="74" selection-end-line="69" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/css/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="320" lean-forward="true" selection-start-line="320" selection-end-line="320" />
+        <state relative-caret-position="5096">
+          <caret line="267" column="18" lean-forward="true" selection-start-line="267" selection-start-column="18" selection-end-line="267" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/match_winners.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/database.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/feature_generator.py">
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/statistics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="132" selection-start-line="132" selection-end-line="132" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2610">
+          <caret line="87" column="31" selection-start-line="87" selection-start-column="31" selection-end-line="87" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/FeatureAnalysis/.idea/Demo.iml" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/specificCountry.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/FeatureAnalysis/FeatureAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4080">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/batDebutOutput.csv" />
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/pandas/core/frame.py" />
+    <entry file="file://$PROJECT_DIR$/modelGenerator.py" />
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/player_stats.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="62" column="101" selection-start-line="62" selection-start-column="101" selection-end-line="62" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/countrydisplay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -478,187 +1212,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html">
+    <entry file="file://$PROJECT_DIR$/main_project/LogisticRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="1610">
+          <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py">
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/prediction_result.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#67#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="70">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/prediction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py">
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="514">
+          <caret line="60" column="24" lean-forward="true" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/feature_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/HTHOutput.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="79" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/graph.py" />
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/feature_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/HTHOutput.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="79" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/graph.py" />
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/feature_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/Dataset/CompleteMatchDetails.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/HTHOutput.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="79" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/FeatureAnalysis/FeatureAnalysis.py" />
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/graph.py" />
     <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="309" lean-forward="true" selection-start-line="309" selection-end-line="309" />
+        <state relative-caret-position="304">
+          <caret line="254" column="23" lean-forward="true" selection-start-line="254" selection-start-column="23" selection-end-line="254" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/home_page.css">
+    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/web/prediction.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/player_XI.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="320" lean-forward="true" selection-start-line="320" selection-end-line="320" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/feature_generator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="132" selection-start-line="132" selection-end-line="132" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/modelGenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="246">
+          <caret line="116" column="35" lean-forward="true" selection-start-line="116" selection-start-column="35" selection-end-line="116" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="e#0#67#0" expanded="true" />
           </folding>
@@ -667,26 +1276,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="424">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

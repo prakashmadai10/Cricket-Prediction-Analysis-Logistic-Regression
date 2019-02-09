@@ -52,6 +52,21 @@ card-deck{
 	<tr><td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
 
 		<td>
+		<div class="card-deck mx-auto" style="width: 350px;" >
+<div class="card" style="width: 18rem;"">
+
+  <img class="card-img-top" src="{{url_for('static',filename='images/visualization.png')}}" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Player Data Visualization</h5>
+    <p class="card-text">See how your favorite player has played over the years.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
+    <a href="{{ url_for('home_page') }}" ><input class="btn btn-primary" type="submit" name="Statistics" value="Statistics" ></a>
+</div>
+  </div>
+</div>
+		</td>
+
+
+		<td>
 			<div class="card-deck mx-auto" style="width: 350px;" >
 <div class="card" style="width: 18rem;"">
 
@@ -67,7 +82,20 @@ card-deck{
 
 	</td>
 
+<td>
+	<div class="card-deck mx-auto" style="width: 350px;" >
+		<div class="card" style="width: 18rem;"">
 
+  <img class="card-img-top" src="{{url_for('static',filename='images/featurepic.png')}}" height="172" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Feature Analysis</h5>
+    <p class="card-text">Feature analysis of different attributes which are used in our project.&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
+    <a href="{{ url_for('home_page') }}"><input  name="Analysis" class="btn btn-primary"type="submit" value="Analysis"></a>
+</div>
+  </div>
+</div>
+	</td>
+	</tr>
 
 </form>
 </table>

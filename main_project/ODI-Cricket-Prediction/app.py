@@ -6,6 +6,7 @@ from collections import defaultdict
 import  _pickle as pk
 import numpy as np
 import pandas as pd
+from sklearn.model_selection import KFold
 
 from main_project.LogisticRegression import LogisticRegressionScratch
 
