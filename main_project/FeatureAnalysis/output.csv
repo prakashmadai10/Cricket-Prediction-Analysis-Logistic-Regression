@@ -1,0 +1,427 @@
+,Toss,MatchID,Toss_Decision,Margin,Winner,Date,Venue,TeamA,TeamB,HTH,WinningPerDes,Strength,Latest_Form
+0,South Africa,514036,field,5 wickets,South Africa,1/14/2012 0:00,East London,South Africa,Sri Lanka,1,0,16.795,5.903260042
+1,South Africa,514038,bat,5 wickets,Sri Lanka,1/20/2012 0:00,Kimberley,South Africa,Sri Lanka,1,0,4.058062016,5.903260042
+2,South Africa,514035,bat,258 runs,South Africa,1/11/2012 0:00,Paarl,South Africa,Sri Lanka,0,0,15.27424242,5.903260042
+3,Sri Lanka,514039,bat,2 wickets,Sri Lanka,1/22/2012 0:00,Johannesburg,South Africa,Sri Lanka,0.666666667,1,3.781395349,5.903260042
+4,Zimbabwe,520592,bat,90 runs,New Zealand,2/3/2012 0:00,Dunedin,New Zealand,Zimbabwe,0.75,0,17.87330162,6.271260042
+5,New Zealand,520594,bat,202 runs,New Zealand,2/9/2012 0:00,Napier,New Zealand,Zimbabwe,0.833333333,0.333333333,27.1372093,6.271260042
+6,Sri Lanka,518957,field,4 wickets,India,2/8/2012 0:00,Perth,India,Sri Lanka,0.5,0.333333333,8.250757576,5.554955603
+7,Australia,518959,bat,4 wickets,India,2/12/2012 0:00,Adelaide,Australia,India,0,0.666666667,4.923062016,0.571661734
+8,Zimbabwe,520593,bat,141 runs,New Zealand,2/6/2012 0:00,Whangarei,New Zealand,Zimbabwe,0.8,0,19.71360465,6.271260042
+10,England,531631,bat,130 runs,England,2/13/2012 0:00,Abu Dhabi,England,Pakistan,0.6,0,-3.702575758,3.744181818
+11,Sri Lanka,518958,bat,5 runs,Australia,2/10/2012 0:00,Perth,Australia,Sri Lanka,0.571428571,0.5,20.81848485,6.126617336
+12,England,531632,bat,20 runs,England,2/15/2012 0:00,Abu Dhabi,England,Pakistan,0.666666667,0.25,3.41969697,3.744181818
+13,Pakistan,531633,field,9 wickets,England,2/18/2012 0:00,Dubai (DSC),England,Pakistan,0.714285714,0.333333333,-10.98939394,3.744181818
+16,Australia,518962,bat,110 runs,Australia,2/19/2012 0:00,Brisbane,Australia,India,0,0.5,14.90897111,0.571661734
+17,Sri Lanka,518963,field,51 runs,Sri Lanka,2/21/2012 0:00,Brisbane,India,Sri Lanka,0.5,0.4,-4.735789288,5.554955603
+18,West Indies,661689,bat,159 runs,New Zealand,1/1/2014 0:00,Queenstown,New Zealand,West Indies,0.2,0,16.76830162,0.652084567
+19,India,667641,field,24 runs,New Zealand,1/19/2014 0:00,Napier,India,New Zealand,0.857142857,0.666666667,-16.69087738,7.130980973
+20,England,636159,field,6 wickets,Australia,1/12/2014 0:00,Melbourne,Australia,England,0.5,0.285714286,-3.681969697,7.767454545
+21,New Zealand,661693,field,203 runs,West Indies,1/8/2014 0:00,Hamilton,New Zealand,West Indies,0.333333333,0.666666667,24.29166667,0.652084567
+22,Pakistan,531634,field,4 wickets,England,2/21/2012 0:00,Dubai (DSC),England,Pakistan,0.75,0.428571429,2.975877378,3.744181818
+23,England,636160,field,1 wicket,Australia,1/17/2014 0:00,Brisbane,Australia,England,0.5,0.375,10.13984848,7.767454545
+24,England,636161,field,7 wickets,Australia,1/19/2014 0:00,Sydney,Australia,England,0.5,0.6,4.490606061,7.767454545
+27,Australia,636162,field,57 runs,England,1/24/2014 0:00,Perth,Australia,England,0.5,0.428571429,3.761212121,7.767454545
+29,India,667647,bat,7 wickets,New Zealand,1/28/2014 0:00,Hamilton,India,New Zealand,0.75,0.5,-22.44324524,7.130980973
+30,Australia,636163,bat,5 runs,Australia,1/26/2014 0:00,Adelaide,Australia,England,0.5,0.428571429,11.49136364,7.767454545
+33,India,667649,field,87 runs,New Zealand,1/31/2014 0:00,Wellington,India,New Zealand,0.666666667,0.666666667,-22.53481677,7.130980973
+34,Sri Lanka,690359,bat,6 wickets,Sri Lanka,2/22/2014 0:00,Dhaka,Bangladesh,Sri Lanka,0,0.5,5.288030303,-0.893200846
+35,Bangladesh,690355,field,13 runs,Sri Lanka,2/17/2014 0:00,Dhaka,Bangladesh,Sri Lanka,0,0.5,5.388907681,-0.893200846
+36,Sri Lanka,690357,field,61 runs,Sri Lanka,2/20/2014 0:00,Dhaka,Bangladesh,Sri Lanka,0,0.5,-1.413333333,-0.893200846
+38,New Zealand,520600,bat,6 wickets,South Africa,2/25/2012 0:00,Wellington,New Zealand,South Africa,1,0.5,-9.502727273,-2.1317463
+39,Australia,518964,bat,3 wickets,Sri Lanka,2/24/2012 0:00,Hobart,Australia,Sri Lanka,0.625,1,15.53454545,6.126617336
+40,Australia,518965,bat,87 runs,Australia,2/26/2012 0:00,Sydney,Australia,India,0.25,0.333333333,5.185637773,0.571661734
+41,India,518966,field,7 wickets,India,2/28/2012 0:00,Hobart,India,Sri Lanka,0.5,0.5,-2.318668076,5.554955603
+42,Sri Lanka,518967,field,9 runs,Sri Lanka,3/2/2012 0:00,Melbourne,Australia,Sri Lanka,0.555555556,0.5,6.730606061,6.126617336
+43,South Africa,520602,bat,5 wickets,South Africa,3/3/2012 0:00,Auckland,New Zealand,South Africa,0.333333333,1,-11.09587738,-2.1317463
+44,South Africa,520601,bat,6 wickets,South Africa,2/29/2012 0:00,Napier,New Zealand,South Africa,0.5,0.5,-5.816818182,-2.1317463
+45,Australia,518969,bat,8 wickets,Sri Lanka,3/6/2012 0:00,Adelaide,Australia,Sri Lanka,0.6,0.5,13.88893939,6.126617336
+46,Sri Lanka,518970,bat,16 runs,Australia,3/8/2012 0:00,Adelaide,Australia,Sri Lanka,0.5,0.4,13.08136364,6.126617336
+47,Australia,518968,bat,15 runs,Australia,3/4/2012 0:00,Brisbane,Australia,Sri Lanka,0.5,0.666666667,-1.078181818,6.126617336
+48,Bangladesh,535794,field,21 runs,Pakistan,3/11/2012 0:00,Dhaka,Bangladesh,Pakistan,0,0.4,-2.815151515,-1.531733615
+49,Sri Lanka,535795,bat,50 runs,India,3/13/2012 0:00,Dhaka,India,Sri Lanka,0.5,0.6,11.06439394,5.554955603
+50,Australia,540168,bat,64 runs,Australia,3/16/2012 0:00,Kingstown,Australia,West Indies,1,0.333333333,4.942424242,7.581175476
+51,Bangladesh,535797,field,5 wickets,Bangladesh,3/16/2012 0:00,Dhaka,Bangladesh,India,0,0.4,14.31772727,-6.028871036
+52,Sri Lanka,535796,field,6 wickets,Pakistan,3/15/2012 0:00,Dhaka,Pakistan,Sri Lanka,0.714285714,0.3,1.217424242,1.057818182
+53,Pakistan,535798,field,6 wickets,India,3/18/2012 0:00,Dhaka,India,Pakistan,1,0.5,-12.82575758,4.497137421
+54,Australia,540171,field,42 runs,West Indies,3/23/2012 0:00,Gros Islet,Australia,West Indies,1,1,-5.90969697,7.581175476
+55,West Indies,540172,bat,30 runs,Australia,3/25/2012 0:00,Gros Islet,Australia,West Indies,0.833333333,0.333333333,-5.756818182,7.581175476
+56,Bangladesh,535800,field,2 runs,Pakistan,3/22/2012 0:00,Dhaka,Bangladesh,Pakistan,0,0.5,2.680757576,-1.531733615
+57,Sri Lanka,710291,field,12 runs,Sri Lanka,2/25/2014 0:00,Fatullah,Pakistan,Sri Lanka,0.5,1,8.764545455,1.628
+58,India,710293,bat,6 wickets,India,2/26/2014 0:00,Fatullah,Bangladesh,India,0.2,0.5,12.75166667,-7.421175476
+60,Pakistan,710301,bat,1 wicket,Pakistan,3/2/2014 0:00,Dhaka,India,Pakistan,0.666666667,0.5,-23.15924242,4.89997463
+61,Sri Lanka,710297,bat,2 wickets,Sri Lanka,2/28/2014 0:00,Fatullah,India,Sri Lanka,0.8,0.5,-8.183787879,6.52797463
+62,England,636534,field,3 wickets,England,3/2/2014 0:00,North Sound,England,West Indies,0.666666667,0.25,9.52269556,0.410363636
+64,Bangladesh,710305,bat,3 wickets,Pakistan,3/4/2014 0:00,Dhaka,Bangladesh,Pakistan,0,0.6,0.477998591,-2.521200846
+65,England,636533,field,15 runs,West Indies,2/28/2014 0:00,North Sound,England,West Indies,1,0.333333333,3.583939394,0.410363636
+68,West Indies,636535,bat,25 runs,England,3/5/2014 0:00,North Sound,England,West Indies,0.75,0.6,15.14102889,0.410363636
+70,Pakistan,710311,bat,5 wickets,Sri Lanka,3/8/2014 0:00,Dhaka,Pakistan,Sri Lanka,0.4,0.4,0.164848485,1.628
+73,Bangladesh,710309,bat,3 wickets,Sri Lanka,3/6/2014 0:00,Dhaka,Bangladesh,Sri Lanka,0,0.5,-4.097152925,-0.893200846
+77,Sri Lanka,562440,field,76 runs,Sri Lanka,6/9/2012 0:00,Pallekele,Pakistan,Sri Lanka,0.75,0.5,1.502544045,1.057818182
+78,Sri Lanka,562442,field,44 runs,Sri Lanka,6/16/2012 0:00,Colombo (RPS),Pakistan,Sri Lanka,0.666666667,0.75,-0.843150106,1.057818182
+79,Pakistan,562443,bat,2 wickets,Sri Lanka,6/18/2012 0:00,Colombo (RPS),Pakistan,Sri Lanka,0.6,0.333333333,11.19075758,1.057818182
+80,Australia,534215,field,15 runs,England,6/29/2012 0:00,Lord's,Australia,England,0.8,0.333333333,4.664393939,1.324617336
+81,England,534210,field,8 wickets,England,6/19/2012 0:00,The Oval,England,West Indies,1,0,6.999545455,6.25655814
+83,Australia,534216,bat,6 wickets,England,7/1/2012 0:00,The Oval,Australia,England,0.8,0.666666667,7.827878788,1.324617336
+84,England,534218,bat,8 wickets,England,7/7/2012 0:00,Chester-le-Street,Australia,England,0.7,1,2.995606061,1.324617336
+85,New Zealand,560924,field,55 runs,West Indies,7/7/2012 0:00,Kingston,New Zealand,West Indies,0,0.5,-1.500606061,5.226071882
+87,West Indies,560925,bat,88 runs,New Zealand,7/11/2012 0:00,Basseterre,New Zealand,West Indies,0,0,5.331180409,5.226071882
+88,India,564781,bat,21 runs,India,7/21/2012 0:00,Hambantota,India,Sri Lanka,0.6,0.75,-2.561395349,5.554955603
+89,West Indies,560926,field,24 runs,West Indies,7/14/2012 0:00,Basseterre,New Zealand,West Indies,0.5,0,1.876937985,5.226071882
+90,West Indies,560927,field,20 runs,West Indies,7/16/2012 0:00,Basseterre,New Zealand,West Indies,0.333333333,0,0.787727273,5.226071882
+91,India,564782,bat,9 wickets,Sri Lanka,7/24/2012 0:00,Hambantota,India,Sri Lanka,0.7,0.8,-5.697878788,5.554955603
+92,Sri Lanka,564783,field,5 wickets,India,7/28/2012 0:00,Colombo (RPS),India,Sri Lanka,0.6,0.7,2.881395349,5.554955603
+93,England,667891,field,157 runs,Sri Lanka,5/25/2014 0:00,Chester-le-Street,England,Sri Lanka,0.333333333,0.5,13.20148344,-0.844727273
+94,England,667893,field,10 wickets,England,5/28/2014 0:00,Manchester,England,Sri Lanka,0.285714286,0.333333333,18.92996829,-0.844727273
+95,England,667897,bat,6 wickets,Sri Lanka,6/3/2014 0:00,Birmingham,England,Sri Lanka,0.333333333,1,17.76299859,-0.844727273
+96,England,667895,field,7 runs,Sri Lanka,5/31/2014 0:00,Lord's,England,Sri Lanka,0.375,0.5,20.0570895,-0.844727273
+97,South Africa,730083,bat,75 runs,South Africa,7/6/2014 0:00,Colombo (RPS),South Africa,Sri Lanka,0.375,0.3,20.81575758,4.283818182
+98,South Africa,730087,bat,82 runs,South Africa,7/12/2014 0:00,Hambantota,South Africa,Sri Lanka,0.4,0.666666667,22.4019697,4.283818182
+100,Sri Lanka,730085,field,87 runs,Sri Lanka,7/9/2014 0:00,Pallekele,South Africa,Sri Lanka,0.444444444,0.375,20.39409091,4.283818182
+104,Zimbabwe,736437,bat,93 runs,South Africa,8/17/2014 0:00,Bulawayo,South Africa,Zimbabwe,1,0.2,9.745031712,8.8
+105,Zimbabwe,736439,bat,61 runs,South Africa,8/19/2014 0:00,Bulawayo,South Africa,Zimbabwe,1,0.3,4.21,8.8
+106,Bangladesh,730289,field,177 runs,West Indies,8/22/2014 0:00,St George's,Bangladesh,West Indies,0.4,0.75,-12.17636364,0.361890063
+107,West Indies,730287,bat,3 wickets,West Indies,8/20/2014 0:00,St George's,Bangladesh,West Indies,0.444444444,0.333333333,-6.739274137,0.361890063
+108,South Africa,736441,field,7 wickets,South Africa,8/21/2014 0:00,Bulawayo,South Africa,Zimbabwe,1,0.7,19.7911487,8.8
+109,Zimbabwe,736443,bat,198 runs,Australia,8/25/2014 0:00,Harare,Australia,Zimbabwe,1,0.4,23.64530303,11.43890909
+110,West Indies,730291,field,91 runs,West Indies,8/25/2014 0:00,Basseterre,Bangladesh,West Indies,0.4,0,-10.68984848,0.361890063
+111,Sri Lanka,564784,field,6 wickets,India,7/31/2012 0:00,Colombo (RPS),India,Sri Lanka,0.6,0.8,8.277152925,5.554955603
+112,India,564785,bat,20 runs,India,8/4/2012 0:00,Pallekele,India,Sri Lanka,0.7,0.6,-15.16815011,5.554955603
+113,South Africa,534229,field,80 runs,South Africa,8/28/2012 0:00,Southampton,England,South Africa,1,0.666666667,7.594090909,-1.101260042
+114,Sri Lanka,745161,field,77 runs,Sri Lanka,8/26/2014 0:00,Hambantota,Pakistan,Sri Lanka,0.3,0.285714286,7.053181818,1.628
+116,Pakistan,571145,field,4 wickets,Australia,8/28/2012 0:00,Sharjah,Australia,Pakistan,0.833333333,0.571428571,-0.425757576,5.068799154
+117,Australia,571146,bat,7 wickets,Pakistan,8/31/2012 0:00,Abu Dhabi,Australia,Pakistan,0.857142857,0.4,2.846515152,5.068799154
+118,South Africa,534230,field,4 wickets,England,8/31/2012 0:00,The Oval,England,South Africa,0.5,0.5,0.388939394,-1.101260042
+119,England,534231,field,6 wickets,England,9/2/2012 0:00,Lord's,England,South Africa,0.666666667,0.25,4.653636364,-1.101260042
+120,England,534232,bat,7 wickets,South Africa,9/5/2012 0:00,Nottingham,England,South Africa,0.75,0,0.20030303,-1.101260042
+121,Australia,571147,field,3 wickets,Australia,9/3/2012 0:00,Sharjah,Australia,Pakistan,0.75,0.625,2.071363636,5.068799154
+122,West Indies,587472,bat,160 runs,Bangladesh,12/2/2012 0:00,Khulna,Bangladesh,West Indies,0.4,0,8.978269908,0.980642706
+123,West Indies,587471,field,7 wickets,Bangladesh,11/30/2012 0:00,Khulna,Bangladesh,West Indies,0.25,0,2.698844257,0.980642706
+124,Bangladesh,587474,field,75 runs,West Indies,12/7/2012 0:00,Dhaka,Bangladesh,West Indies,0.428571429,0.6,4.294393939,0.980642706
+125,Bangladesh,587475,field,2 wickets,Bangladesh,12/8/2012 0:00,Dhaka,Bangladesh,West Indies,0.375,0.5,3.081363636,0.980642706
+126,West Indies,587473,bat,4 wickets,West Indies,12/5/2012 0:00,Dhaka,Bangladesh,West Indies,0.5,0.5,5.139425652,0.980642706
+127,South Africa,736445,bat,7 wickets,South Africa,8/27/2014 0:00,Harare,Australia,South Africa,0.5,0.5,9.468484848,2.638909091
+128,Pakistan,589308,bat,6 wickets,Pakistan,12/30/2012 0:00,Chennai,India,Pakistan,1,0.666666667,-10.83606061,4.497137421
+129,Zimbabwe,736447,bat,61 runs,South Africa,8/29/2014 0:00,Harare,South Africa,Zimbabwe,1,0.4,9.006818182,8.8
+130,India,667725,bat,6 wickets,India,8/30/2014 0:00,Nottingham,England,India,0.2,0.333333333,22.61075758,-7.372701903
+131,South Africa,736451,bat,62 runs,Australia,9/2/2014 0:00,Harare,Australia,South Africa,0.333333333,0.5,3.365151515,2.638909091
+132,India,667727,bat,9 wickets,India,9/2/2014 0:00,Birmingham,England,India,0.2,0.8,12.1979105,-7.372701903
+133,Zimbabwe,736453,bat,63 runs,South Africa,9/4/2014 0:00,Harare,South Africa,Zimbabwe,1,0.6,14.69863636,8.8
+134,India,667729,bat,41 runs,England,9/5/2014 0:00,Leeds,England,India,0.2,0.5,18.07848485,-7.372701903
+136,Australia,736449,bat,3 wickets,Zimbabwe,8/31/2014 0:00,Harare,Australia,Zimbabwe,1,0.5,25.9269697,11.43890909
+137,South Africa,736455,bat,6 wickets,South Africa,9/6/2014 0:00,Harare,Australia,South Africa,0.5,0.6,10.06666667,2.638909091
+140,Australia,727919,bat,93 runs,Australia,10/7/2014 0:00,Sharjah,Australia,Pakistan,0.777777778,0.4,8.994880197,5.294727273
+141,India,770123,bat,48 runs,India,10/11/2014 0:00,Delhi,India,West Indies,0.6,0.333333333,-7.927878788,7.783065539
+142,India,770121,field,124 runs,West Indies,10/8/2014 0:00,Kochi,India,West Indies,0.7,0.5,-9.585,7.783065539
+143,Pakistan,727921,field,5 wickets,Australia,10/10/2014 0:00,Dubai (DSC),Australia,Pakistan,0.8,0.5,13.99348485,5.294727273
+144,South Africa,749771,bat,6 wickets,South Africa,10/21/2014 0:00,Mount Maunganui,New Zealand,South Africa,0.428571429,0,-2.953636364,-4.886824524
+145,West Indies,770127,bat,59 runs,India,10/17/2014 0:00,Dharamsala,India,West Indies,0.6,0,-8.730606061,7.783065539
+146,Australia,727923,bat,1 run,Australia,10/12/2014 0:00,Abu Dhabi,Australia,Pakistan,0.8,0.4,20.21333333,5.294727273
+147,New Zealand,749773,field,72 runs,South Africa,10/24/2014 0:00,Mount Maunganui,New Zealand,South Africa,0.375,1,1.727424242,-4.886824524
+149,India,792295,bat,153 runs,India,11/13/2014 0:00,Kolkata,India,Sri Lanka,0.8,0.8,-4.068093728,6.52797463
+150,Sri Lanka,792289,bat,169 runs,India,11/2/2014 0:00,Cuttack,India,Sri Lanka,0.7,0,-12.77269556,6.52797463
+151,Sri Lanka,792291,field,6 wickets,India,11/6/2014 0:00,Ahmedabad,India,Sri Lanka,0.7,0.4,-7.11239253,6.52797463
+152,South Africa,754723,bat,32 runs,Australia,11/14/2014 0:00,Perth,Australia,South Africa,0.4,0.625,-1.602455955,2.638909091
+154,Sri Lanka,792293,field,6 wickets,India,11/9/2014 0:00,Hyderabad (Deccan),India,Sri Lanka,0.7,0,-4.575151515,6.52797463
+155,Australia,754725,bat,3 wickets,South Africa,11/16/2014 0:00,Perth,Australia,South Africa,0.5,0.666666667,3.326634954,2.638909091
+156,Australia,754727,bat,73 runs,Australia,11/19/2014 0:00,Canberra,Australia,South Africa,0.428571429,1,3.228150106,2.638909091
+157,Sri Lanka,792297,field,3 wickets,India,11/16/2014 0:00,Ranchi,India,Sri Lanka,0.8,1,-2.880334743,6.52797463
+158,Zimbabwe,760787,bat,87 runs,Bangladesh,11/21/2014 0:00,Chittagong,Bangladesh,Zimbabwe,0.5,0.333333333,15.91042283,3.622980973
+159,Bangladesh,760789,bat,68 runs,Bangladesh,11/23/2014 0:00,Chittagong,Bangladesh,Zimbabwe,0.5,0.428571429,18.53848485,3.622980973
+160,South Africa,754729,field,3 wickets,Australia,11/21/2014 0:00,Melbourne,Australia,South Africa,0.5,0.375,8.269545455,2.638909091
+161,Zimbabwe,760791,bat,124 runs,Bangladesh,11/26/2014 0:00,Dhaka,Bangladesh,Zimbabwe,0.5,0.4,18.81742424,3.622980973
+162,Bangladesh,760793,bat,21 runs,Bangladesh,11/28/2014 0:00,Dhaka,Bangladesh,Zimbabwe,0.6,0.4,2.529816772,3.622980973
+165,Zimbabwe,760795,field,5 wickets,Bangladesh,12/1/2014 0:00,Dhaka,Bangladesh,Zimbabwe,0.7,0.6,11.31130021,3.622980973
+166,England,750665,bat,8 wickets,Sri Lanka,11/29/2014 0:00,Colombo (RPS),England,Sri Lanka,0.3,0.5,13.83409091,-0.844727273
+168,England,750663,field,25 runs,Sri Lanka,11/26/2014 0:00,Colombo (RPS),England,Sri Lanka,0.3,0.6,15.33893939,-0.844727273
+170,Pakistan,742619,bat,3 wickets,Pakistan,12/8/2014 0:00,Dubai (DSC),New Zealand,Pakistan,0.5,0.4,-14.92139535,-2.231006342
+171,Pakistan,742623,field,147 runs,Pakistan,12/14/2014 0:00,Sharjah,New Zealand,Pakistan,0.5,0.5,2.433787879,-2.231006342
+172,Pakistan,742621,field,4 wickets,New Zealand,12/12/2014 0:00,Sharjah,New Zealand,Pakistan,0.428571429,0.5,1.749330514,-2.231006342
+173,England,750669,bat,6 wickets,Sri Lanka,12/7/2014 0:00,Colombo (RPS),England,Sri Lanka,0.3,0.5,9.226666667,-0.844727273
+174,England,750671,field,5 wickets,England,12/10/2011 20:14,Pallekele,England,Sri Lanka,0.25,0.333333333,12.74893939,4.802
+175,New Zealand,742625,bat,7 runs,New Zealand,12/17/2014 0:00,Abu Dhabi,New Zealand,Pakistan,0.444444444,0.5,8.796634954,-2.231006342
+176,Sri Lanka,750673,field,90 runs,Sri Lanka,12/13/2014 0:00,Pallekele,England,Sri Lanka,0.3,0.333333333,11.68772727,-0.844727273
+177,New Zealand,742627,bat,68 runs,New Zealand,12/19/2014 0:00,Abu Dhabi,New Zealand,Pakistan,0.5,0.6,6.697998591,-2.231006342
+178,Sri Lanka,434258,bat,7 wickets,Sri Lanka,1/4/2010 0:00,Dhaka,Bangladesh,Sri Lanka,0,0,2.176730092,0
+179,Sri Lanka,750675,field,87 runs,Sri Lanka,12/16/2014 0:00,Colombo (RPS),England,Sri Lanka,0.2,0.5,4.645909091,-0.844727273
+180,Sri Lanka,434259,bat,5 wickets,Sri Lanka,1/5/2010 0:00,Dhaka,India,Sri Lanka,0,0,2.633883016,-25.39763214
+181,Pakistan,406202,field,5 wickets,Australia,1/22/2010 0:00,Brisbane,Australia,Pakistan,0,0,6.075725863,0
+182,India,434263,bat,6 wickets,India,1/11/2010 0:00,Dhaka,Bangladesh,India,0,0,-9.830877378,-6.358625793
+183,Sri Lanka,434261,bat,9 wickets,Sri Lanka,1/8/2010 0:00,Dhaka,Bangladesh,Sri Lanka,0,0,-2.204242424,-4.112875264
+184,Sri Lanka,434262,field,8 wickets,India,1/10/2010 0:00,Dhaka,India,Sri Lanka,0,1,17.67466526,1.089305849
+185,Sri Lanka,434264,bat,4 wickets,Sri Lanka,1/13/2010 0:00,Dhaka,India,Sri Lanka,0.5,0,5.313484848,2.406046512
+186,Bangladesh,434260,bat,6 wickets,India,1/7/2010 0:00,Dhaka,Bangladesh,India,0,0,-3.668484848,-5.191395349
+187,Pakistan,406203,bat,140 runs,Australia,1/24/2010 0:00,Sydney,Australia,Pakistan,1,0,7.846634954,3.354059197
+188,Australia,406204,bat,40 runs,Australia,1/26/2010 0:00,Adelaide,Australia,Pakistan,1,0,19.35496829,3.744513742
+189,Australia,406205,bat,135 runs,Australia,1/29/2010 0:00,Perth,Australia,Pakistan,1,0,13.33254405,4.357998591
+190,West Indies,406193,field,8 wickets,Australia,2/9/2010 0:00,Adelaide,Australia,West Indies,1,0,5.973756166,9.767429175
+191,West Indies,406192,bat,113 runs,Australia,2/7/2010 0:00,Melbourne,Australia,West Indies,0,0,3.682727273,31.33442283
+192,Pakistan,406206,field,2 wickets,Australia,1/31/2010 0:00,Perth,Australia,Pakistan,1,0,21.6140592,4.499968288
+193,New Zealand,423784,bat,5 wickets,New Zealand,2/8/2010 0:00,Dunedin,Bangladesh,New Zealand,0,0,-11.49663495,-3.331890063
+194,New Zealand,423785,bat,3 wickets,New Zealand,2/11/2010 0:00,Christchurch,Bangladesh,New Zealand,0,0,-9.033301621,-2.423610994
+195,New Zealand,423783,field,146 runs,New Zealand,2/5/2010 0:00,Napier,Bangladesh,New Zealand,0,0,-11.8770895,23.24543869
+197,West Indies,406195,bat,50 runs,Australia,2/14/2010 0:00,Brisbane,Australia,West Indies,1,0,6.159242424,10.28897463
+201,Australia,406196,bat,125 runs,Australia,2/19/2010 0:00,Melbourne,Australia,West Indies,1,1,17.81948203,9.346071882
+202,South Africa,441827,bat,1 run,India,2/21/2010 0:00,Jaipur,India,South Africa,0,0,-6.968181818,29.47942918
+203,India,441828,bat,153 runs,India,2/24/2010 0:00,Gwalior,India,South Africa,1,0,-7.903333333,2.288701903
+204,South Africa,441829,field,90 runs,South Africa,2/27/2010 0:00,Ahmedabad,India,South Africa,1,0,-16.0069697,1.362350951
+205,Australia,423791,bat,2 wickets,New Zealand,3/3/2010 0:00,Napier,Australia,New Zealand,0,1,6.7,5.291248767
+206,England,426420,bat,6 wickets,England,2/28/2010 0:00,Dhaka,Bangladesh,England,0,0,0.253484848,22.66927273
+207,England,426421,bat,2 wickets,England,3/2/2010 0:00,Dhaka,Bangladesh,England,0,0,-5.432727273,-3.123090909
+208,Zimbabwe,439140,field,2 runs,Zimbabwe,3/4/2010 0:00,Providence,West Indies,Zimbabwe,0,0,-12.02599718,21.75681818
+209,Bangladesh,426422,field,45 runs,England,3/5/2010 0:00,Chittagong,Bangladesh,England,0,0,-10.41799859,-2.806035941
+210,Zimbabwe,439141,field,4 wickets,West Indies,3/6/2010 0:00,Providence,West Indies,Zimbabwe,0,0,-10.11,0.34551797
+211,Australia,423793,field,6 wickets,Australia,3/9/2010 0:00,Hamilton,Australia,New Zealand,0,0,-2.314545455,4.81398203
+212,Australia,423795,field,51 runs,New Zealand,3/13/2010 0:00,Wellington,Australia,New Zealand,0.5,0,-1.495606061,5.031818182
+213,Zimbabwe,439142,bat,141 runs,West Indies,3/10/2010 0:00,Kingstown,West Indies,Zimbabwe,0.5,0,0.889545455,1.401668076
+214,West Indies,439144,field,4 wickets,West Indies,3/14/2010 0:00,Kingstown,West Indies,Zimbabwe,0.75,0.5,-6.175606061,2.751379493
+215,West Indies,439143,field,4 wickets,West Indies,3/12/2010 0:00,Kingstown,West Indies,Zimbabwe,0.666666667,0,4.496666667,2.221536293
+216,India,452146,bat,6 wickets,Zimbabwe,5/28/2010 0:00,Bulawayo,India,Zimbabwe,0,0,-0.307973925,9.363915433
+218,India,452147,field,7 wickets,India,5/30/2010 0:00,Bulawayo,India,Sri Lanka,0.333333333,1,-2.220852713,2.465649049
+219,South Africa,439148,bat,17 runs,South Africa,5/24/2010 0:00,North Sound,South Africa,West Indies,0,0,3.334330514,5.070807611
+220,South Africa,439149,bat,67 runs,South Africa,5/28/2010 0:00,Roseau,South Africa,West Indies,1,0,7.386060606,4.850953488
+221,Sri Lanka,452148,field,9 wickets,Sri Lanka,6/1/2010 0:00,Bulawayo,Sri Lanka,Zimbabwe,0,1,-2.089305849,6.949162791
+222,West Indies,439150,field,7 wickets,South Africa,5/30/2010 0:00,Roseau,South Africa,West Indies,1,0,5.248150106,5.290799154
+223,Zimbabwe,452149,bat,7 wickets,Zimbabwe,6/3/2010 0:00,Harare,India,Zimbabwe,0,0,-18.31018323,9.231137421
+224,West Indies,439151,field,1 wicket,South Africa,6/3/2010 0:00,Port of Spain,South Africa,West Indies,1,0,0.146180409,5.212520085
+225,Zimbabwe,452151,bat,8 wickets,Zimbabwe,6/7/2010 0:00,Harare,Sri Lanka,Zimbabwe,1,0,-9.771363636,4.925162791
+226,Sri Lanka,452150,bat,6 wickets,Sri Lanka,6/5/2010 0:00,Harare,India,Sri Lanka,0.5,0,-12.11515152,3.44741649
+227,Sri Lanka,452152,field,9 wickets,Sri Lanka,6/9/2010 0:00,Harare,Sri Lanka,Zimbabwe,0.5,1,1.348484848,4.278896406
+228,Bangladesh,455232,bat,6 wickets,India,6/16/2010 0:00,Dambulla,Bangladesh,India,0,1,-3.057878788,-5.080761099
+229,Sri Lanka,455231,field,16 runs,Sri Lanka,6/15/2010 0:00,Dambulla,Pakistan,Sri Lanka,0,0,17.96636364,-0.601526427
+232,Sri Lanka,455233,field,126 runs,Sri Lanka,6/18/2010 0:00,Dambulla,Bangladesh,Sri Lanka,0,0.5,11.75969697,-3.824169133
+233,Pakistan,455234,field,3 wickets,India,6/19/2010 0:00,Dambulla,India,Pakistan,0,0.333333333,-10.6880303,3.300942918
+235,Australia,426387,bat,4 wickets,England,6/22/2010 0:00,Southampton,Australia,England,0,0,4.895877378,1.73467019
+236,Sri Lanka,455236,bat,7 wickets,Sri Lanka,6/22/2010 0:00,Dambulla,India,Sri Lanka,0.4,0.6,7.386546864,1.478338266
+237,India,455237,bat,81 runs,India,6/24/2010 0:00,Dambulla,India,Sri Lanka,0.333333333,0.5,0.78469697,2.225272727
+238,Pakistan,455235,field,139 runs,Pakistan,6/21/2010 0:00,Dambulla,Bangladesh,Pakistan,0,0.5,-22.63775899,-1.531188161
+239,Australia,426388,bat,4 wickets,England,6/24/2010 0:00,Cardiff,Australia,England,0,0,6.453636364,2.080194503
+240,England,426390,bat,78 runs,Australia,6/30/2010 0:00,The Oval,Australia,England,0,0,13.44545455,2.266097252
+241,England,426389,bat,1 wicket,England,6/27/2010 0:00,Manchester,Australia,England,0,0,11.52818182,2.269649049
+247,Australia,426391,bat,42 runs,Australia,7/3/2010 0:00,Lord's,Australia,England,0.25,0,14.34318182,3.380363636
+254,Bangladesh,426403,bat,6 wickets,England,7/8/2010 0:00,Nottingham,Bangladesh,England,0,0,-18.06269556,-3.68946723
+258,England,426404,bat,5 runs,Bangladesh,7/10/2010 0:00,Bristol,Bangladesh,England,0,0,-11.28606061,-3.929454545
+261,Bangladesh,426405,field,144 runs,England,7/12/2010 0:00,Birmingham,Bangladesh,England,0.2,0,-8.688484848,-3.974727273
+265,New Zealand,456664,bat,3 wickets,Sri Lanka,8/13/2010 0:00,Dambulla,New Zealand,Sri Lanka,0,0.625,2.507241015,-2.268642706
+266,New Zealand,456662,field,200 runs,New Zealand,8/10/2010 0:00,Dambulla,India,New Zealand,0,0.428571429,-12.15284708,6.157551797
+268,Sri Lanka,456663,field,6 wickets,India,8/16/2010 0:00,Dambulla,India,Sri Lanka,0.428571429,0.444444444,13.36712121,5.203369979
+272,India,456666,bat,8 wickets,Sri Lanka,8/22/2010 0:00,Dambulla,India,Sri Lanka,0.5,0.5,11.72318182,5.112824524
+273,India,456665,bat,105 runs,India,8/25/2010 0:00,Dambulla,India,New Zealand,0,0.4,-5.306937985,7.044376321
+274,Sri Lanka,456668,field,74 runs,Sri Lanka,8/28/2010 0:00,Dambulla,India,Sri Lanka,0.444444444,0.5,14.27318182,3.355915433
+276,Pakistan,426428,bat,24 runs,England,9/10/2010 0:00,Chester-le-Street,England,Pakistan,0,0,11.98442565,2.981539112
+277,Pakistan,426429,field,4 wickets,England,9/12/2010 0:00,Leeds,England,Pakistan,1,0,9.852758985,4.214727273
+278,Pakistan,426431,field,38 runs,Pakistan,9/20/2010 0:00,Lord's,England,Pakistan,0.666666667,0,12.51121212,4.468376321
+279,England,426432,bat,121 runs,England,9/22/2010 0:00,Southampton,England,Pakistan,0.5,0,12.40439394,4.448012685
+283,Pakistan,426430,field,23 runs,Pakistan,9/17/2010 0:00,The Oval,England,Pakistan,1,0,4.449242424,5.124642706
+285,Bangladesh,476598,field,7 wickets,Bangladesh,10/11/2010 0:00,Dhaka,Bangladesh,New Zealand,0,1,-7.834090909,0.152291755
+288,Zimbabwe,463144,field,8 wickets,South Africa,10/17/2010 0:00,Potchefstroom,South Africa,Zimbabwe,1,0,15.44148344,9.501708245
+289,South Africa,463143,bat,64 runs,South Africa,10/15/2010 0:00,Bloemfontein,South Africa,Zimbabwe,0,0,17.81090909,6.394701903
+290,India,464529,bat,5 wickets,India,10/20/2010 0:00,Visakhapatnam,Australia,India,0,0,15.49166667,1.984993658
+291,Bangladesh,476600,bat,3 runs,Bangladesh,10/17/2010 0:00,Dhaka,Bangladesh,New Zealand,0.4,0.1,-9.58769556,-0.414338266
+292,New Zealand,476599,bat,9 runs,Bangladesh,10/14/2010 0:00,Dhaka,Bangladesh,New Zealand,0.25,0,-11.26254405,0.587019027
+293,Pakistan,461566,bat,8 wickets,South Africa,10/29/2010 0:00,Abu Dhabi,Pakistan,South Africa,0,0,-22.42030303,-10.91533192
+294,South Africa,463145,bat,272 runs,South Africa,10/22/2010 0:00,Benoni,South Africa,Zimbabwe,1,0,15.98387597,11.43816913
+295,South Africa,461569,field,1 wicket,Pakistan,11/5/2010 0:00,Dubai (DSC),Pakistan,South Africa,0.333333333,0,-16.3230303,-13.91260465
+296,South Africa,461567,field,1 wicket,Pakistan,10/31/2010 0:00,Abu Dhabi,Pakistan,South Africa,0,1,-14.98678647,-12.79787738
+297,Pakistan,461568,field,2 runs,South Africa,11/2/2010 0:00,Dubai (DSC),Pakistan,South Africa,0.5,0,-18.63633192,-14.54032558
+298,Australia,446957,bat,1 wicket,Sri Lanka,11/3/2010 0:00,Melbourne,Australia,Sri Lanka,0,1,0.434968288,4.88853277
+299,Sri Lanka,446959,field,8 wickets,Australia,11/7/2010 0:00,Brisbane,Australia,Sri Lanka,0,0.5,6.007966878,4.728617336
+300,South Africa,461570,field,57 runs,South Africa,11/8/2010 0:00,Dubai (DSC),Pakistan,South Africa,0.5,0.5,-27.84966526,-13.36106554
+301,New Zealand,467883,bat,40 runs,India,11/28/2010 0:00,Guwahati,India,New Zealand,0.5,0,-8.808484848,5.038739958
+302,Bangladesh,486522,field,6 wickets,Bangladesh,12/3/2010 0:00,Dhaka,Bangladesh,Zimbabwe,0,0.7,7.229545455,-1.624617336
+303,Bangladesh,486520,field,9 runs,Zimbabwe,12/1/2010 0:00,Dhaka,Bangladesh,Zimbabwe,0,0.8,3.278939394,-1.460435518
+304,India,467885,field,9 wickets,India,12/4/2010 0:00,Vadodara,India,New Zealand,0.75,0,0.01530303,2.449818182
+305,India,467886,field,5 wickets,India,12/7/2010 0:00,Bangalore,India,New Zealand,0.8,0,-6.325486258,1.326545455
+306,Zimbabwe,486523,bat,65 runs,Bangladesh,12/6/2010 0:00,Dhaka,Bangladesh,Zimbabwe,0.5,0.3,3.682424242,-1.315805497
+307,Zimbabwe,486526,field,6 wickets,Bangladesh,12/12/2010 0:00,Chittagong,Bangladesh,Zimbabwe,0.666666667,0,4.936363636,-0.868448203
+308,New Zealand,467887,field,8 wickets,India,12/10/2010 0:00,Chennai,India,New Zealand,0.833333333,0,-8.876092319,1.010169133
+309,India,467884,field,8 wickets,India,12/1/2010 0:00,Jaipur,India,New Zealand,0.666666667,0,-4.992272727,3.603551797
+310,India,463151,bat,1 run,India,1/15/2011 0:00,Johannesburg,India,South Africa,0.5,0,-9.033301621,-9.343987315
+311,South Africa,463150,field,135 runs,South Africa,1/12/2011 0:00,Durban,India,South Africa,0.666666667,0,-10.31845314,-11.88916279
+312,England,446962,field,6 wickets,Australia,1/16/2011 0:00,Melbourne,Australia,England,0.4,0.333333333,-12.68730444,1.648422833
+313,South Africa,463152,field,2 wickets,India,1/18/2011 0:00,Cape Town,India,South Africa,0.6,0,-13.67621212,-7.5102537
+314,England,446963,bat,46 runs,Australia,1/21/2011 0:00,Hobart,Australia,England,0.5,0,1.821818182,1.902143763
+315,Pakistan,473923,field,9 wickets,New Zealand,1/22/2011 0:00,Wellington,New Zealand,Pakistan,0,0,18.01224101,-0.063175476
+316,England,446964,field,4 wickets,Australia,1/23/2011 0:00,Sydney,Australia,England,0.571428571,0,7.140119803,2.092325581
+317,England,446965,field,21 runs,England,1/26/2011 0:00,Adelaide,Australia,England,0.625,0.5,6.850574348,2.402968288
+318,Australia,446966,bat,51 runs,Australia,1/30/2011 0:00,Brisbane,Australia,England,0.555555556,0.333333333,0.338787879,2.223150106
+319,New Zealand,473925,field,43 runs,Pakistan,1/29/2011 0:00,Christchurch,New Zealand,Pakistan,1,1,18.16421071,0.269357294
+320,New Zealand,473926,bat,2 wickets,Pakistan,2/1/2011 0:00,Napier,New Zealand,Pakistan,0.5,0.5,10.91966526,0.434714588
+321,England,446967,field,2 wickets,Australia,2/2/2011 0:00,Sydney,Australia,England,0.6,0.5,3.758636364,1.072799154
+322,New Zealand,473927,field,41 runs,Pakistan,2/3/2011 0:00,Hamilton,New Zealand,Pakistan,0.333333333,1,11.48378788,0.419162791
+323,Pakistan,473928,bat,57 runs,New Zealand,2/5/2011 0:00,Auckland,New Zealand,Pakistan,0.25,0,15.19515152,-0.031382664
+324,West Indies,464992,bat,26 runs,Sri Lanka,2/6/2011 0:00,Colombo (SSC),Sri Lanka,West Indies,0,0,-15.65727273,1.473636364
+325,Australia,446968,bat,57 runs,Australia,2/6/2011 0:00,Perth,Australia,England,0.7,0.5,14.18072586,0.653987315
+327,Bangladesh,433558,field,87 runs,India,2/19/2011 0:00,Dhaka,Bangladesh,India,0,0.6,-9.038636364,-3.367539112
+328,Australia,433561,bat,91 runs,Australia,2/21/2011 0:00,Ahmedabad,Australia,Zimbabwe,0,1,18.6590592,6.054617336
+330,South Africa,433564,field,7 wickets,South Africa,2/24/2011 0:00,Delhi,South Africa,West Indies,1,0,0.292544045,7.816520085
+331,Australia,433565,field,7 wickets,Australia,2/25/2011 0:00,Nagpur,Australia,New Zealand,0.333333333,1,5.6320895,3.591902748
+335,Pakistan,433567,bat,11 runs,Pakistan,2/26/2011 0:00,Colombo (RPS),Pakistan,Sri Lanka,0,0,-11.84348485,-0.510363636
+341,Bangladesh,433576,bat,9 wickets,West Indies,3/4/2011 0:00,Dhaka,Bangladesh,West Indies,0,0.6,-10.67060606,-4.245090909
+343,Zimbabwe,433575,field,10 wickets,New Zealand,3/4/2011 0:00,Ahmedabad,New Zealand,Zimbabwe,0,0,12.40545455,3.189357294
+344,New Zealand,433581,bat,110 runs,New Zealand,3/8/2011 0:00,Pallekele,New Zealand,Pakistan,0.4,0,19.67515152,0.365636364
+345,England,433579,bat,6 runs,England,3/6/2011 0:00,Chennai,England,South Africa,0,0,-9.028604651,-2.577247357
+350,Bangladesh,433585,field,2 wickets,Bangladesh,3/11/2011 0:00,Chittagong,Bangladesh,England,0.166666667,0.5,-5.66469697,-6.068
+351,Zimbabwe,433583,bat,139 runs,Sri Lanka,3/10/2011 0:00,Pallekele,Sri Lanka,Zimbabwe,0.666666667,1,7.978636364,3.117272727
+353,India,433586,bat,3 wickets,South Africa,3/12/2011 0:00,Nagpur,India,South Africa,0.666666667,0.333333333,-0.831666667,-3.091429175
+357,England,433593,bat,18 runs,England,3/17/2011 0:00,Chennai,England,West Indies,0,0.333333333,-11.64118041,1.368727273
+360,South Africa,433597,field,206 runs,South Africa,3/19/2011 0:00,Dhaka,Bangladesh,South Africa,0,0.4,-10.45527132,-8.698799154
+361,Sri Lanka,433594,field,112 runs,Sri Lanka,3/18/2011 0:00,Mumbai,New Zealand,Sri Lanka,0,0,4.655909091,0.658545455
+362,Australia,433596,bat,4 wickets,Pakistan,3/19/2011 0:00,Colombo (RPS),Australia,Pakistan,1,0.666666667,10.255,5.52569556
+364,West Indies,433600,field,10 wickets,Pakistan,3/23/2011 0:00,Dhaka,Pakistan,West Indies,0,0.3,-18.42742424,-0.128350951
+365,Australia,433601,bat,5 wickets,India,3/24/2011 0:00,Ahmedabad,Australia,India,0,0.666666667,-11.7919697,0.797792812
+366,India,433599,bat,80 runs,India,3/20/2011 0:00,Chennai,India,West Indies,0,0.5,4.093213531,2.829188161
+367,England,433603,bat,10 wickets,Sri Lanka,3/26/2011 0:00,Colombo (RPS),England,Sri Lanka,0,0.5,-1.151363636,2.545454545
+368,New Zealand,433602,bat,49 runs,New Zealand,3/25/2011 0:00,Dhaka,New Zealand,South Africa,0,0.7,-3.4520895,-5.495526427
+369,New Zealand,433604,bat,5 wickets,Sri Lanka,3/29/2011 0:00,Colombo (RPS),New Zealand,Sri Lanka,0,0.4,6.992878788,0.923272727
+370,India,433605,bat,29 runs,India,3/30/2011 0:00,Mohali,India,Pakistan,1,1,14.10848485,5.745272727
+371,Sri Lanka,433606,field,6 wickets,India,4/2/2011 0:00,Mumbai,India,Sri Lanka,0.4,0,20.74469697,5.418
+372,Bangladesh,503364,field,9 wickets,Australia,4/11/2011 0:00,Dhaka,Australia,Bangladesh,1,0.3,13.15921071,8.815344609
+373,Bangladesh,503363,bat,60 runs,Australia,4/9/2011 0:00,Dhaka,Australia,Bangladesh,0,0.7,-4.218971106,8.555526427
+374,Australia,503365,bat,66 runs,Australia,4/13/2011 0:00,Dhaka,Australia,Bangladesh,1,0.6,-3.733851304,8.946980973
+375,Pakistan,489214,field,7 wickets,Pakistan,4/25/2011 0:00,Gros Islet,Pakistan,West Indies,1,1,7.18508809,1.728811839
+376,West Indies,489213,field,8 wickets,Pakistan,4/23/2011 0:00,Gros Islet,Pakistan,West Indies,1,0,-18.78024665,0.45346723
+377,Pakistan,489215,field,3 wickets,Pakistan,4/28/2011 0:00,Bridgetown,Pakistan,West Indies,1,0,-6.284122622,2.263890063
+378,Pakistan,489217,bat,10 wickets,West Indies,5/5/2011 0:00,Providence,Pakistan,West Indies,1,0.5,-12.91269556,3.345331924
+380,West Indies,489221,field,4 wickets,India,6/6/2011 0:00,Port of Spain,India,West Indies,1,1,-2.796786469,8.939928118
+381,India,489224,field,103 runs,West Indies,6/13/2011 0:00,North Sound,India,West Indies,1,0.5,-3.285271318,5.058376321
+382,India,489223,field,3 wickets,India,6/11/2011 0:00,North Sound,India,West Indies,1,0,-2.256969697,7.116473573
+383,West Indies,489225,bat,7 wickets,West Indies,6/16/2011 0:00,Kingston,India,West Indies,0.75,1,-10.73996829,2.417564482
+384,England,474469,bat,6 wickets,Sri Lanka,7/3/2011 0:00,Lord's,England,Sri Lanka,0,1,2.451395349,2.016097252
+385,England,474468,field,69 runs,Sri Lanka,7/1/2011 0:00,Leeds,England,Sri Lanka,0,1,-0.9320895,2.903636364
+387,England,474471,bat,16 runs,England,7/9/2011 0:00,Manchester,England,Sri Lanka,0,0,5.565757576,0.532921776
+391,Zimbabwe,522246,bat,4 wickets,Zimbabwe,8/12/2011 0:00,Harare,Bangladesh,Zimbabwe,0.75,0.142857143,-5.738301621,1.827818182
+392,Sri Lanka,516206,field,7 wickets,Australia,8/10/2011 0:00,Pallekele,Australia,Sri Lanka,0.5,0,9.090757576,4.593078224
+393,Zimbabwe,522247,bat,7 wickets,Zimbabwe,8/14/2011 0:00,Harare,Bangladesh,Zimbabwe,0.6,0.125,9.684880197,1.535006342
+394,Sri Lanka,516207,field,8 wickets,Australia,8/14/2011 0:00,Hambantota,Australia,Sri Lanka,0.666666667,0,13.27602889,3.615260042
+395,Bangladesh,522248,field,5 runs,Zimbabwe,8/16/2011 0:00,Harare,Bangladesh,Zimbabwe,0.5,0.888888889,-5.387847075,1.796921776
+396,Bangladesh,522249,field,6 wickets,Bangladesh,8/19/2011 0:00,Bulawayo,Bangladesh,Zimbabwe,0.428571429,1,3.980151515,1.476837209
+397,Sri Lanka,516209,field,5 wickets,Australia,8/20/2011 0:00,Colombo (RPS),Australia,Sri Lanka,0.6,0.666666667,1.306363636,4.871247357
+398,Sri Lanka,516210,bat,4 wickets,Sri Lanka,8/22/2011 0:00,Colombo (RPS),Australia,Sri Lanka,0.666666667,0.285714286,-1.720789288,5.380617336
+399,Australia,516208,field,78 runs,Sri Lanka,8/16/2011 0:00,Hambantota,Australia,Sri Lanka,0.75,0.333333333,8.755454545,4.712883721
+400,Zimbabwe,522250,bat,93 runs,Bangladesh,8/21/2011 0:00,Bulawayo,Bangladesh,Zimbabwe,0.5,0,12.65060606,1.989928118
+401,Pakistan,523732,bat,5 runs,Pakistan,9/8/2011 0:00,Bulawayo,Pakistan,Zimbabwe,0,0.2,20.07042283,0.890883721
+402,England,474478,field,7 wickets,England,9/6/2011 0:00,Southampton,England,India,0,0.5,6.477878788,4.329818182
+403,Zimbabwe,523733,field,10 wickets,Pakistan,9/11/2011 0:00,Harare,Pakistan,Zimbabwe,1,0.8,8.989545455,1.705344609
+404,Zimbabwe,523734,bat,28 runs,Pakistan,9/14/2011 0:00,Harare,Pakistan,Zimbabwe,1,0.2,17.96633192,2.633175476
+407,Bangladesh,531983,field,40 runs,West Indies,10/13/2011 0:00,Dhaka,Bangladesh,West Indies,0,0.3,-7.302727273,0.877116279
+409,Bangladesh,531984,bat,8 wickets,West Indies,10/15/2011 0:00,Dhaka,Bangladesh,West Indies,0,0.7,-3.900757576,1.226837209
+410,England,521219,bat,8 wickets,India,10/17/2011 0:00,Delhi,England,India,0.5,0.25,-8.323907681,2.547551797
+411,India,521218,field,126 runs,India,10/14/2011 0:00,Hyderabad (Deccan),England,India,1,0,-0.906483439,3.55
+412,Bangladesh,531985,field,8 wickets,Bangladesh,10/18/2011 0:00,Chittagong,Bangladesh,West Indies,0,0.75,-0.176515152,0.719103594
+413,England,521220,bat,5 wickets,India,10/20/2011 0:00,Mohali,England,India,0.333333333,1,8.092152925,1.466376321
+414,New Zealand,527015,field,4 wickets,New Zealand,10/22/2011 0:00,Harare,New Zealand,Zimbabwe,1,0.7,19.66523961,5.173636364
+415,Zimbabwe,527014,field,9 wickets,New Zealand,10/20/2011 0:00,Harare,New Zealand,Zimbabwe,1,0.7,14.42099718,5.373103594
+416,England,521221,bat,6 wickets,India,10/23/2011 0:00,Mumbai,England,India,0.25,0.666666667,-6.640725863,0.458473573
+417,South Africa,514026,field,80 runs,South Africa,10/23/2011 0:00,Port Elizabeth,Australia,South Africa,0,0,-13.94927414,-0.180363636
+418,New Zealand,527016,bat,1 wicket,Zimbabwe,10/25/2011 0:00,Bulawayo,New Zealand,Zimbabwe,1,0.333333333,-0.377878788,6.26453277
+419,Sri Lanka,530428,field,25 runs,Sri Lanka,11/14/2011 0:00,Dubai (DSC),Pakistan,Sri Lanka,0.666666667,0.5,3.413787879,2.527150106
+420,England,521222,field,95 runs,India,10/25/2011 0:00,Kolkata,England,India,0.2,0.333333333,2.411092319,-1.476883721
+421,Sri Lanka,530427,field,8 wickets,Pakistan,11/11/2011 0:00,Dubai (DSC),Pakistan,Sri Lanka,0.5,0.333333333,6.828453136,-0.161019027
+422,Pakistan,530430,bat,26 runs,Pakistan,11/20/2011 0:00,Sharjah,Pakistan,Sri Lanka,0.6,0.5,2.185606061,2.41197463
+423,Pakistan,530429,bat,21 runs,Pakistan,11/18/2011 0:00,Dubai (DSC),Pakistan,Sri Lanka,0.5,0.6,3.787727273,3.033331924
+424,South Africa,514027,field,3 wickets,Australia,10/28/2011 0:00,Durban,Australia,South Africa,0,0,-13.41609232,-0.091006342
+425,Sri Lanka,530431,field,3 wickets,Pakistan,11/23/2011 0:00,Abu Dhabi,Pakistan,Sri Lanka,0.666666667,1,-7.652878788,1.820435518
+426,India,536929,field,1 wicket,India,11/29/2011 0:00,Cuttack,India,West Indies,0.6,0,3.587815363,7.377065539
+427,Bangladesh,538069,bat,5 wickets,Pakistan,12/1/2011 0:00,Dhaka,Bangladesh,Pakistan,0,0.6,-4.512575758,-0.832266385
+428,India,536930,field,5 wickets,India,12/2/2011 0:00,Visakhapatnam,India,West Indies,0.666666667,1,-9.290821001,6.950241015
+429,Pakistan,538070,field,76 runs,Pakistan,12/3/2011 0:00,Dhaka,Bangladesh,Pakistan,0,0.5,1.15269556,-1.684084567
+430,India,536932,bat,153 runs,India,12/8/2011 0:00,Indore,India,West Indies,0.625,0,-5.765606061,7.143234672
+431,India,536933,bat,34 runs,India,12/11/2011 0:00,Chennai,India,West Indies,0.666666667,0.6,-8.237455955,6.992968288
+432,Pakistan,538071,field,58 runs,Pakistan,12/6/2011 0:00,Chittagong,Bangladesh,Pakistan,0,0.8,-3.275909091,-1.592460888
+433,India,589309,field,85 runs,Pakistan,1/3/2013 0:00,Kolkata,India,Pakistan,0.75,0.25,-11.30939394,4.497137421
+434,India,536931,field,16 runs,West Indies,12/5/2011 0:00,Ahmedabad,India,West Indies,0.714285714,0.5,-11.4130303,7.796591966
+435,India,589310,bat,10 runs,India,1/6/2013 0:00,Delhi,India,Pakistan,0.6,0.2,-3.063516561,4.268241015
+436,England,565812,bat,9 runs,England,1/11/2013 0:00,Rajkot,England,India,0.166666667,0,21.63542283,-0.495429175
+437,Australia,573014,bat,107 runs,Australia,1/11/2013 0:00,Melbourne,Australia,Sri Lanka,0.5,0.6,5.278939394,6.126617336
+438,India,565813,field,127 runs,India,1/15/2013 0:00,Kochi,England,India,0.285714286,0,14.57260747,-0.564714588
+439,Sri Lanka,573015,bat,8 wickets,Sri Lanka,1/13/2013 0:00,Adelaide,Australia,Sri Lanka,0.5,0.5,-4.891180409,5.988071882
+440,India,565814,bat,7 wickets,India,1/19/2013 0:00,Ranchi,England,India,0.25,0,12.78518323,-0.431078224
+441,New Zealand,567358,field,1 wicket,New Zealand,1/19/2013 0:00,Paarl,New Zealand,South Africa,0.25,0,6.885119803,-2.1317463
+442,Australia,573016,bat,4 wickets,Sri Lanka,1/18/2013 0:00,Brisbane,Australia,Sri Lanka,0.5,0.714285714,13.17184989,4.098630021
+443,India,565815,bat,5 wickets,India,1/23/2013 0:00,Mohali,England,India,0.222222222,0.75,-0.311483439,-1.146799154
+444,South Africa,567359,bat,27 runs,New Zealand,1/22/2013 0:00,Kimberley,New Zealand,South Africa,0.4,0,11.76269556,-1.370752643
+445,Sri Lanka,573018,bat,32 runs,Australia,1/23/2013 0:00,Hobart,Australia,Sri Lanka,0.4,0.333333333,17.63378788,3.556727273
+446,England,565816,field,7 wickets,England,1/27/2013 0:00,Dharamsala,England,India,0.2,0,4.208484848,-1.433344609
+447,West Indies,573022,field,9 wickets,Australia,2/1/2013 0:00,Perth,Australia,West Indies,0.857142857,0.4,0.721786469,5.392097252
+448,New Zealand,567360,bat,1 wicket,South Africa,1/25/2013 0:00,Potchefstroom,New Zealand,South Africa,0.5,0,15.39587738,0.153234672
+449,New Zealand,569240,bat,3 wickets,New Zealand,2/17/2013 0:00,Hamilton,England,New Zealand,0,0.5,-1.430574348,2.568122622
+450,West Indies,573023,bat,54 runs,Australia,2/3/2013 0:00,Perth,Australia,West Indies,0.875,0.5,4.684090909,5.675006342
+451,West Indies,573025,field,5 wickets,Australia,2/8/2013 0:00,Sydney,Australia,West Indies,0.9,0.5,13.98833333,6.808545455
+452,Australia,573024,bat,39 runs,Australia,2/6/2013 0:00,Canberra,Australia,West Indies,0.888888889,0,5.441060606,5.917551797
+453,West Indies,573026,bat,17 runs,Australia,2/10/2013 0:00,Melbourne,Australia,West Indies,0.9,0.666666667,18.64787879,7.375818182
+454,England,569241,field,8 wickets,England,2/20/2013 0:00,Napier,England,New Zealand,0,0.6,7.786666667,1.913031712
+455,Zimbabwe,593983,bat,156 runs,West Indies,2/22/2013 0:00,St George's,West Indies,Zimbabwe,0.8,0,27.20893939,0.939564482
+456,England,569242,field,5 wickets,England,2/23/2013 0:00,Auckland,England,New Zealand,0.5,0.5,4.97030303,2.933479915
+457,Zimbabwe,593985,field,5 wickets,West Indies,2/26/2013 0:00,St George's,West Indies,Zimbabwe,0.857142857,0.5,10.09333333,1.84055814
+458,Zimbabwe,593984,field,7 wickets,West Indies,2/24/2013 0:00,St George's,West Indies,Zimbabwe,0.833333333,0,25.37412262,1.644012685
+460,Pakistan,567368,field,125 runs,South Africa,3/10/2013 0:00,Bloemfontein,Pakistan,South Africa,0.4,0,-6.0370895,-0.178
+464,South Africa,567371,field,3 wickets,Pakistan,3/21/2013 0:00,Durban,Pakistan,South Africa,0.285714286,0.5,-10.47409091,-0.547357294
+465,Pakistan,567372,bat,6 wickets,South Africa,3/24/2013 0:00,Benoni,Pakistan,South Africa,0.375,1,-13.19954545,-1.286630021
+466,Zimbabwe,623573,bat,121 runs,Bangladesh,5/3/2013 0:00,Bulawayo,Bangladesh,Zimbabwe,0.555555556,0.285714286,11.00015152,3.049188161
+467,Pakistan,567370,field,34 runs,South Africa,3/17/2013 0:00,Johannesburg,Pakistan,South Africa,0.333333333,0.5,-9.68530303,-0.125539112
+469,Zimbabwe,623575,bat,7 wickets,Zimbabwe,5/8/2013 0:00,Bulawayo,Bangladesh,Zimbabwe,0.6,0.333333333,8.296515152,2.916909091
+470,Zimbabwe,623574,bat,6 wickets,Zimbabwe,5/5/2013 0:00,Bulawayo,Bangladesh,Zimbabwe,0.6,0.375,7.066212121,3.233188161
+471,New Zealand,566923,bat,5 wickets,New Zealand,5/31/2013 0:00,Lord's,England,New Zealand,0.666666667,0.6,-3.885725863,3.817019027
+474,New Zealand,566924,field,86 runs,New Zealand,6/2/2013 0:00,Southampton,England,New Zealand,0.5,0.5,-3.219665257,3.4417463
+475,South Africa,578614,bat,26 runs,India,6/6/2013 0:00,Cardiff,India,South Africa,0.571428571,0,-18.92700141,1.081805497
+476,New Zealand,566925,bat,34 runs,England,6/5/2013 0:00,Nottingham,England,New Zealand,0.4,0,1.296818182,3.311200846
+477,West Indies,578615,bat,2 wickets,West Indies,6/7/2013 0:00,The Oval,Pakistan,West Indies,0.8,0.4,4.011060606,0.579260042
+478,England,578616,field,48 runs,England,6/8/2013 0:00,Birmingham,Australia,England,0.6,0,20.25939394,1.191357294
+479,South Africa,578618,field,67 runs,South Africa,6/10/2013 0:00,Birmingham,Pakistan,South Africa,0.333333333,0,3.846212121,-4.222376321
+480,Sri Lanka,578617,field,1 wicket,New Zealand,6/9/2013 0:00,Cardiff,New Zealand,Sri Lanka,0,0.5,7.931969697,0.210909091
+481,India,578619,field,8 wickets,India,6/11/2013 0:00,The Oval,India,West Indies,0.7,0.666666667,-21.97624383,6.411065539
+482,Sri Lanka,578621,bat,7 wickets,Sri Lanka,6/13/2013 0:00,The Oval,England,Sri Lanka,0.4,0.285714286,-5.748484848,4.32946723
+483,New Zealand,578624,bat,10 runs,England,6/16/2013 0:00,Cardiff,England,New Zealand,0.5,0.333333333,-7.767121212,4.329649049
+484,Australia,578625,field,20 runs,Sri Lanka,6/17/2013 0:00,The Oval,Australia,Sri Lanka,0.5,0.75,15.33924242,6.489830867
+485,West Indies,597923,bat,6 wickets,West Indies,6/28/2013 0:00,Kingston,Sri Lanka,West Indies,1,0.666666667,-5.721363636,0.783818182
+486,England,566946,field,7 wickets,England,6/19/2013 0:00,The Oval,England,South Africa,0.6,0.666666667,-6.165909091,0.887272727
+487,India,566947,field,8 wickets,India,6/20/2013 0:00,Cardiff,India,Sri Lanka,0.8,0.5,-11.1579105,4.881526427
+489,England,566948,field,5 runs,India,6/23/2013 0:00,Birmingham,England,India,0.2,0,14.43669838,-1.24597463
+490,West Indies,597924,bat,1 wicket,West Indies,6/30/2013 0:00,Kingston,India,West Indies,0.7,0.5,1.212998591,5.860156448
+491,India,597925,field,161 runs,Sri Lanka,7/2/2013 0:00,Kingston,India,Sri Lanka,0.8,0.6,-0.494848485,5.883513742
+493,India,597929,field,1 wicket,India,7/11/2013 0:00,Port of Spain,India,Sri Lanka,0.7,1,12.54469697,5.292520085
+494,West Indies,645635,bat,126 runs,Pakistan,7/14/2013 0:00,Providence,Pakistan,West Indies,0.666666667,0.333333333,1.797424242,-0.960194503
+495,Pakistan,645637,field,37 runs,West Indies,7/16/2013 0:00,Providence,Pakistan,West Indies,0.714285714,0.5,1.508181818,-0.924012685
+496,South Africa,635653,field,180 runs,Sri Lanka,7/20/2013 0:00,Colombo (RPS),South Africa,Sri Lanka,0.5,0.8,-3.102727273,4.322545455
+497,India,643665,field,6 wickets,India,7/24/2013 0:00,Harare,India,Zimbabwe,0,0.7,1.768907681,8.831915433
+498,South Africa,635655,bat,56 runs,South Africa,7/26/2013 0:00,Pallekele,South Africa,Sri Lanka,0.4,0.666666667,8.721818182,3.761272727
+499,Pakistan,645643,field,4 wickets,Pakistan,7/24/2013 0:00,Gros Islet,Pakistan,West Indies,0.625,0.5,0.409393939,-0.600642706
+500,Zimbabwe,643667,bat,58 runs,India,7/26/2013 0:00,Harare,India,Zimbabwe,0.333333333,0.3,18.13439394,6.184824524
+501,India,643669,field,7 wickets,India,7/28/2013 0:00,Harare,India,Zimbabwe,0.5,0.6,26.08636364,5.832097252
+502,South Africa,635656,bat,8 wickets,Sri Lanka,7/28/2013 0:00,Pallekele,South Africa,Sri Lanka,0.5,0.714285714,5.713484848,3.143272727
+503,India,643675,field,9 wickets,India,8/1/2013 0:00,Bulawayo,India,Zimbabwe,0.6,0.7,25.64205779,4.760460888
+504,Sri Lanka,635657,field,128 runs,Sri Lanka,7/31/2013 0:00,Colombo (RPS),South Africa,Sri Lanka,0.428571429,0.8,-3.327878788,2.811272727
+505,Zimbabwe,659551,bat,90 runs,Pakistan,8/29/2013 0:00,Harare,Pakistan,Zimbabwe,0.75,0.3,22.07712121,1.481103594
+506,India,643677,field,7 wickets,India,8/3/2013 0:00,Bulawayo,India,Zimbabwe,0.666666667,0.7,2.383572939,4.977805497
+507,Pakistan,659549,bat,7 wickets,Zimbabwe,8/27/2013 0:00,Harare,Pakistan,Zimbabwe,1,0.3,10.43848485,1.459928118
+509,Zimbabwe,659553,bat,108 runs,Pakistan,8/31/2013 0:00,Harare,Pakistan,Zimbabwe,0.8,0.4,16.65545455,1.68027907
+512,England,566942,bat,88 runs,Australia,9/8/2013 0:00,Manchester,Australia,England,0.5,0.5,18.56269556,6.032266385
+515,England,566944,bat,3 wickets,England,9/14/2013 0:00,Cardiff,Australia,England,0.5,0.4,22.80875617,6.905623679
+516,Australia,566945,bat,49 runs,Australia,9/16/2013 0:00,Southampton,Australia,England,0.4,0.6,4.871180409,7.703708245
+518,Australia,647249,bat,72 runs,Australia,10/13/2013 0:00,Pune,Australia,India,0.4,0,0.111515152,4.545479915
+519,Australia,647251,bat,9 wickets,India,10/16/2013 0:00,Jaipur,Australia,India,0.5,0.5,-0.994090909,3.70855814
+520,Australia,647253,field,4 wickets,Australia,10/19/2013 0:00,Mohali,Australia,India,0.428571429,0.4,1.135,3.260194503
+522,India,647259,bat,6 wickets,India,10/30/2013 0:00,Nagpur,Australia,India,0.5,0.25,31.41924242,2.70655814
+523,Bangladesh,668957,field,4 wickets,Bangladesh,11/3/2013 0:00,Fatullah,Bangladesh,New Zealand,0.571428571,0,-1.195119803,-0.721285412
+524,South Africa,649095,field,68 runs,South Africa,11/6/2013 0:00,Abu Dhabi,Pakistan,South Africa,0.3,0.666666667,1.55,-4.282727273
+525,Australia,647261,field,57 runs,India,11/2/2013 0:00,Bangalore,Australia,India,0.444444444,0.8,34.14651515,2.157006342
+526,Pakistan,649093,bat,66 runs,Pakistan,11/1/2013 0:00,Dubai (DSC),Pakistan,South Africa,0.3,0.5,2.843636364,-4.449272727
+527,Bangladesh,668955,bat,40 runs,Bangladesh,10/31/2013 0:00,Dhaka,Bangladesh,New Zealand,0.5,0.5,-5.823787879,-1.523830867
+528,South Africa,649091,field,1 run,South Africa,10/30/2013 0:00,Sharjah,Pakistan,South Africa,0.3,0.9,9.41,-5.053636364
+529,South Africa,649097,field,28 runs,South Africa,11/8/2013 0:00,Abu Dhabi,Pakistan,South Africa,0.3,0.571428571,4.982727273,-3.497636364
+530,South Africa,649099,field,117 runs,South Africa,11/11/2013 0:00,Sharjah,Pakistan,South Africa,0.2,0.8,-3.37469697,-2.093272727
+531,West Indies,676529,field,6 wickets,India,11/21/2013 0:00,Kochi,India,West Indies,0.6,0,-19.47821353,6.097454545
+532,Pakistan,685731,bat,23 runs,Pakistan,11/24/2013 0:00,Cape Town,Pakistan,South Africa,0.2,0,7.76239253,-2.17
+533,West Indies,676531,bat,2 wickets,West Indies,11/24/2013 0:00,Visakhapatnam,India,West Indies,0.6,0,5.524362227,6.234266385
+534,India,676533,field,5 wickets,India,11/27/2013 0:00,Kanpur,India,West Indies,0.6,0,4.058604651,6.917987315
+535,South Africa,685733,bat,1 run,Pakistan,11/27/2013 0:00,Port Elizabeth,Pakistan,South Africa,0.3,1,4.970909091,-2.041188161
+536,India,648651,field,141 runs,South Africa,12/5/2013 0:00,Johannesburg,India,South Africa,0.625,0.333333333,-27.04169838,3.145162791
+537,South Africa,685735,bat,4 wickets,South Africa,11/30/2013 0:00,Centurion,Pakistan,South Africa,0.4,0,-16.73848485,-1.515733615
+538,Sri Lanka,657639,bat,2 wickets,Sri Lanka,12/20/2013 0:00,Dubai (DSC),Pakistan,Sri Lanka,0.6,0.555555556,4.243787879,4.082448203
+539,Sri Lanka,657641,bat,113 runs,Pakistan,12/22/2013 0:00,Sharjah,Pakistan,Sri Lanka,0.5,0.4,4.092424242,4.443902748
+540,Pakistan,657637,bat,11 runs,Pakistan,12/18/2013 0:00,Sharjah,Pakistan,Sri Lanka,0.6,0.3,8.87,3.617902748
+541,West Indies,661685,bat,2 wickets,West Indies,12/26/2013 0:00,Auckland,New Zealand,West Indies,0.25,0.333333333,11.60727273,0.075902748
+542,Pakistan,657645,bat,2 wickets,Sri Lanka,12/27/2013 0:00,Abu Dhabi,Pakistan,Sri Lanka,0.6,0.444444444,5.990909091,1.906363636
+543,Sri Lanka,657643,field,8 wickets,Pakistan,12/25/2013 0:00,Abu Dhabi,Pakistan,Sri Lanka,0.6,0.5,0.944545455,3.526181818
+544,India,648653,field,134 runs,South Africa,12/8/2013 0:00,Durban,India,South Africa,0.555555556,0.666666667,-29.49439394,2.627065539

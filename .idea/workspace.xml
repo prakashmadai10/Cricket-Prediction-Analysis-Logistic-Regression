@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fab24ed4-ab6a-4b23-9ea9-7981a699b93c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/feature_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/feature_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/firstflask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_project/ODI-Cricket-Prediction/templates/home_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -254,7 +251,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="startPre&#9;null&#9;null" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -452,13 +449,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527831729742</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Model saved using pickle library">
-      <created>1531307086577</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1531307086578</updated>
     </task>
     <task id="LOCAL-00015" summary="Model saved using pickle library">
       <created>1531307115445</created>
@@ -796,7 +786,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533708167753</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="final project">
+      <created>1549711602591</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1549711602591</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -948,9 +945,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
-      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/main_project/FeatureAnalysis" />
     </ignored-roots>
-    <MESSAGE value="Model saved using pickle library" />
     <MESSAGE value="updated csv" />
     <MESSAGE value="minor changes" />
     <MESSAGE value="added database and graph protion with UI portion" />
@@ -975,7 +971,8 @@
     <MESSAGE value="feature analysis graphs added" />
     <MESSAGE value="latest form and stregth added and accuracy increased" />
     <MESSAGE value="latest form and stregth added and accuracy increased 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="latest form and stregth added and accuracy increased 1" />
+    <MESSAGE value="final project" />
+    <option name="LAST_COMMIT_MESSAGE" value="final project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
