@@ -10,7 +10,6 @@ from sklearn.model_selection import KFold
 
 from main_project.LogisticRegression import LogisticRegressionScratch
 
-
 def HomeTeam(df1):
     d = defaultdict(list)
     country = ''
